@@ -1,0 +1,38 @@
+{
+  "upcoming": [
+    {
+      "title": "Bottle mead and ship",
+      "when": "Sun 10/04 11:47 AM"
+    },
+    {
+      "title": "Computershare call (Disney shares)",
+      "when": "Mon 10/05 10:00 AM"
+    },
+    {
+      "title": "Call with Grant",
+      "when": "Mon 10/05 12:00 PM"
+    },
+    {
+      "title": "Call with Brooks",
+      "when": "Tue 10/06 5:30 PM"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "when": "Wed 10/07 9:47 AM"
+    },
+    {
+      "title": "Buy bathroom cleaner",
+      "when": "Thu 10/08 10:47 AM"
+    },
+    {
+      "title": "Check Factor payment",
+      "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "Computershare call check-in",
+      "when": "Fri 10/09 10:47 AM"
+    }
+  ],
+  "updated_at": "2026-10-03T19:23:25.244316-04:00",
+  "source": "kelpy-dashboard"
+}
