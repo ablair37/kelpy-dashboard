@@ -1,44 +1,64 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="300">
 <title>Kelpy Dashboard</title>
 <style>
 :root { color-scheme: dark; }
 * { box-sizing: border-box; margin: 0; }
-body { background: #0f1419; color: #e8eaed; font-family: -apple-system, "Segoe UI", Roboto, sans-serif; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 20px; }
-.card { background: #17202a; border: 1px solid #2a3542; border-radius: 16px; padding: 28px 24px; width: 100%; max-width: 340px; text-align: center; }
-h1 { font-size: 20px; margin-bottom: 6px; }
-.sub { color: #9aa4b2; font-size: 13px; margin-bottom: 20px; }
-#pin { width: 100%; font-size: 24px; letter-spacing: 8px; text-align: center; padding: 12px; border-radius: 10px; border: 1px solid #2a3542; background: #10161d; color: #e8eaed; margin-bottom: 14px; }
-button { width: 100%; padding: 13px; border: none; border-radius: 10px; background: #2f6b3f; color: #fff; font-size: 16px; font-weight: 600; cursor: pointer; }
-button:active { background: #265733; }
-#err { color: #f5a6a6; font-size: 13px; min-height: 20px; margin-top: 12px; }
+body { background: #0f1419; color: #e8eaed; font-family: -apple-system, "Segoe UI", Roboto, sans-serif; padding: 16px; max-width: 720px; margin: 0 auto; }
+header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+h1 { font-size: 20px; }
+.badge { font-size: 11px; font-weight: 700; padding: 4px 10px; border-radius: 20px; letter-spacing: .5px; }
+.badge.ok { background: #1c3a24; color: #7ee2a0; border: 1px solid #2f6b3f; }
+.badge.warn { background: #3d2f14; color: #f5c86e; border: 1px solid #7a5c22; }
+.panel { background: #17202a; border: 1px solid #2a3542; border-radius: 14px; padding: 16px; margin-bottom: 14px; }
+.panel h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; color: #9aa4b2; margin-bottom: 12px; }
+.bignum { font-size: 44px; font-weight: 700; }
+.statgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 12px 0; }
+.stat { background: #10161d; border-radius: 10px; padding: 10px 12px; }
+.stat .k { font-size: 11px; color: #9aa4b2; margin-bottom: 4px; }
+.stat .v { font-size: 15px; font-weight: 600; }
+.chart { width: 100%; height: auto; display: block; margin-top: 6px; }
+.chart .grid { stroke: #2a3542; stroke-width: 1; }
+.chart .tick { fill: #6b7684; font-size: 11px; }
+.chart .area { fill: rgba(88, 166, 255, .12); }
+.chart .line { fill: none; stroke: #58a6ff; stroke-width: 2.5; stroke-linejoin: round; }
+.chart .proj { stroke: #f5c86e; stroke-width: 2; stroke-dasharray: 6 4; }
+.chart .projdot { fill: #f5c86e; }
+.task { padding: 10px 0; border-bottom: 1px solid #232d38; }
+.task:last-child { border-bottom: none; }
+.task-title { font-weight: 600; font-size: 15px; margin-bottom: 3px; }
+.task-state { font-size: 13px; color: #9aa4b2; }
+.empty { color: #6b7684; font-size: 14px; }
+footer { text-align: center; color: #5b6570; font-size: 12px; margin-top: 18px; }
+.legend { display: flex; gap: 16px; font-size: 12px; color: #9aa4b2; margin-top: 8px; }
+.dot { display: inline-block; width: 18px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 6px; }
 </style></head>
 <body>
-<div class="card">
-<h1>Kelpy Dashboard</h1>
-<div class="sub">enter your PIN to unlock</div>
-<input id="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="12" autocomplete="off" autofocus>
-<button onclick="unlock()">Unlock</button>
-<div id="err"></div>
+<header><h1>Kelpy Dashboard</h1><span class="badge ok">NORMAL</span></header>
+
+<div class="panel"><h2>Usage</h2>
+<div class="bignum">66%</div>
+<div class="statgrid">
+<div class="stat"><div class="k">Burn rate</div><div class="v">4.19%/hr</div></div>
+<div class="stat"><div class="k">Mode</div><div class="v">Normal</div></div>
+<div class="stat"><div class="k">Projected dry</div><div class="v">~Sun 10/04 03:06 (8h 7m left)</div></div>
+<div class="stat"><div class="k">Weekly reset</div><div class="v">Wed 10/07 20:37 (4d 1h away)</div></div>
 </div>
-<script id="vault" type="application/json">{"salt": "f3kCI4a0DAlcgiU/tRmizw==", "iv": "ZfUlhcriVcSqfiiitEVTsw==", "ct": "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"}</script>
-<script>
-function b64(s){const b=atob(s);const u=new Uint8Array(b.length);for(let i=0;i<b.length;i++)u[i]=b.charCodeAt(i);return u;}
-async function unlock(){
-  const pin=document.getElementById('pin').value.trim();
-  const err=document.getElementById('err');
-  err.textContent='';
-  if(!pin){err.textContent='enter your PIN';return;}
-  try{
-    const v=JSON.parse(document.getElementById('vault').textContent);
-    const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(pin),'PBKDF2',false,['deriveKey']);
-    const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b64(v.salt),iterations:100000,hash:'SHA-256'},km,{name:'AES-CBC',length:256},false,['decrypt']);
-    const pt=await crypto.subtle.decrypt({name:'AES-CBC',iv:b64(v.iv)},key,b64(v.ct));
-    const html=new TextDecoder().decode(pt);
-    document.open();document.write(html);document.close();
-  }catch(e){err.textContent='wrong PIN, try again';}
-}
-document.getElementById('pin').addEventListener('keydown',e=>{if(e.key==='Enter')unlock();});
-</script>
+<svg viewBox="0 0 640 240" class="chart" role="img" aria-label="usage over time">
+<line x1="44" y1="210.0" x2="628" y2="210.0" class="grid"/><text x="36" y="214.0" text-anchor="end" class="tick">0%</text><line x1="44" y1="161.0" x2="628" y2="161.0" class="grid"/><text x="36" y="165.0" text-anchor="end" class="tick">25%</text><line x1="44" y1="112.0" x2="628" y2="112.0" class="grid"/><text x="36" y="116.0" text-anchor="end" class="tick">50%</text><line x1="44" y1="63.0" x2="628" y2="63.0" class="grid"/><text x="36" y="67.0" text-anchor="end" class="tick">75%</text><line x1="44" y1="14.0" x2="628" y2="14.0" class="grid"/><text x="36" y="18.0" text-anchor="end" class="tick">100%</text>
+<polygon points="44,210 44.0,88.5 44.0,88.5 47.0,82.6 49.9,80.6 49.9,210" class="area"/>
+<polyline points="44.0,88.5 44.0,88.5 47.0,82.6 49.9,80.6" class="line"/>
+<line x1="49.9" y1="80.6" x2="100.3" y2="14.0" class="proj"/><circle cx="100.3" cy="14.0" r="4" class="projdot"/>
+<text x="44" y="232" class="tick">10/03 17:33</text>
+<text x="628" y="232" text-anchor="end" class="tick">10/07 20:37</text>
+</svg>
+<div class="legend"><span><span class="dot" style="background:#58a6ff"></span>actual</span>
+<span><span class="dot" style="background:#f5c86e"></span>projected</span></div>
+</div>
+
+<div class="panel"><h2>Tasks reporting back to Telegram</h2><div class="task"><div class="task-title">Telegram new-message watch</div><div class="task-state">scheduled</div></div><div class="task"><div class="task-title">Real-estate lead generation</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Telegram bot (Kelpy)</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Cancel Paramount+ trial</div><div class="task-state">scheduled</div></div><div class="task"><div class="task-title">Reconnecting with flagged contacts</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Weekly cash-flow watch</div><div class="task-state">in progress</div></div><div class="task"><div class="task-title">Anthropic IPO watch</div><div class="task-state">in progress</div></div><div class="task"><div class="task-title">Florida car plate and insurance switch</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Bottle mead and ship</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Canceling unwanted subscriptions</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Liquidate Disney shares via Computershare</div><div class="task-state">scheduled</div></div><div class="task"><div class="task-title">Stripe VIP complaint</div><div class="task-state">waiting on you</div></div><div class="task"><div class="task-title">Tax filing catch-up</div><div class="task-state">in progress</div></div><div class="task"><div class="task-title">Price-drop money-back watch</div><div class="task-state">in progress</div></div><div class="task"><div class="task-title">OctoClaw Notion bridge</div><div class="task-state">in progress</div></div></div>
+
+<footer>auto-refreshes every 5 min &middot; 10/03 18:59</footer>
 </body></html>
