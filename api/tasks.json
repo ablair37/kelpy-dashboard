@@ -17,23 +17,23 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "Anthropic IPO watch",
+      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Florida car plate and insurance switch",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
       "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
@@ -43,10 +43,6 @@
     {
       "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Tax filing catch-up",
-      "current_state": "in progress"
     },
     {
       "title": "Clorox bathroom cleaner purchase",
@@ -59,8 +55,12 @@
     {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-04T10:04:33.339309+00:00",
+  "updated_at": "2026-10-04T10:34:31.563980+00:00",
   "source": "kelpy-dashboard"
 }
