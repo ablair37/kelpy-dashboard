@@ -1,20 +1,28 @@
 {
   "tasks": [
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "in progress"
     },
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -25,27 +33,15 @@
       "current_state": "in progress"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
     },
     {
       "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
-      "title": "Bottle mead and ship to family",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
@@ -53,14 +49,18 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
+      "title": "Tax filing catch-up",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-04T00:34:41.454273+00:00",
+  "updated_at": "2026-10-04T01:04:43.817608+00:00",
   "source": "kelpy-dashboard"
 }
