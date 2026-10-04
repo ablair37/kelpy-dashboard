@@ -1,11 +1,15 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     },
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
@@ -17,15 +21,19 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Anthropic IPO watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
       "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
@@ -37,15 +45,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Tax filing catch-up",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Price-drop money-back watch",
       "current_state": "in progress"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T11:34:54.253899-04:00",
+  "updated_at": "2026-10-04T16:04:53.755750+00:00",
   "source": "kelpy-dashboard"
 }
