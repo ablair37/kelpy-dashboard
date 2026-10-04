@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -37,11 +37,11 @@
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship",
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-04T02:04:46.763154+00:00",
+  "updated_at": "2026-10-04T02:34:37.042790+00:00",
   "source": "kelpy-dashboard"
 }
