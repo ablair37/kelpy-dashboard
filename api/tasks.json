@@ -1,43 +1,39 @@
 {
   "tasks": [
     {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "in progress"
     },
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "waiting on you"
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
     },
     {
       "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
-      "title": "ID renewal tracking",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Bottle mead and ship to sister",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -45,22 +41,26 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
-      "title": "Inbox triage watch",
+      "title": "ID renewal tracking",
       "current_state": "in progress"
     },
     {
-      "title": "Stripe VIP complaint",
+      "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-03T23:35:13.489945+00:00",
+  "updated_at": "2026-10-04T00:04:19.830463+00:00",
   "source": "kelpy-dashboard"
 }
