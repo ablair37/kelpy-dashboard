@@ -1,15 +1,11 @@
 {
   "upcoming": [
     {
-      "title": "Bottle mead batch",
+      "title": "Mead bottling reminder",
       "when": "Sun 10/04 11:47 AM"
     },
     {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 10/04 6:47 PM"
-    },
-    {
-      "title": "Computershare call",
+      "title": "Call to reactivate share account",
       "when": "Mon 10/05 10:00 AM"
     },
     {
@@ -21,18 +17,22 @@
       "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Cancel trial reminder",
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Buy reminder: bathroom cleaner",
+      "title": "Buy cleaner nudge",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment week check",
+      "title": "Failed-payment one-week check",
       "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "Share account call check-in",
+      "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T12:05:22.486481+00:00",
+  "updated_at": "2026-10-04T12:34:31.789898+00:00",
   "source": "kelpy-dashboard"
 }
