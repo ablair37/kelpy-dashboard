@@ -19,18 +19,6 @@
       "to": "Winston"
     },
     {
-      "from": "Poke",
-      "kind": "Report",
-      "title": "Poke connection test \u2014 2026-10-02 (updated)",
-      "to": "Adam"
-    },
-    {
-      "from": "",
-      "kind": "Report",
-      "title": "Connection test by Kelpy \u2014 update check succeeded.",
-      "to": "Kelpy"
-    },
-    {
       "from": "Winston",
       "kind": "Report",
       "title": "Manual handshake example \u2014 Poke",
@@ -47,9 +35,21 @@
       "kind": "Report",
       "title": "Manual handshake example \u2014 Kelpy",
       "to": "Kelpy"
+    },
+    {
+      "from": "",
+      "kind": "Report",
+      "title": "Connection test by Kelpy \u2014 update check succeeded.",
+      "to": "Kelpy"
+    },
+    {
+      "from": "Poke",
+      "kind": "Report",
+      "title": "Poke connection test \u2014 2026-10-02 (updated)",
+      "to": "Adam"
     }
   ],
   "open_count": 8,
-  "updated_at": "2026-10-04T05:04:34.834744+00:00",
+  "updated_at": "2026-10-04T05:34:46.714062+00:00",
   "source": "kelpy-dashboard"
 }
