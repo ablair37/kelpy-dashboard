@@ -9,16 +9,12 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -33,11 +29,23 @@
       "current_state": "in progress"
     },
     {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
@@ -45,22 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Inbox triage watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T21:37:17.347929+00:00",
+  "updated_at": "2026-10-04T22:05:54.158979+00:00",
   "source": "kelpy-dashboard"
 }
