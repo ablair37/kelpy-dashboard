@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Factor failed-payment fix",
@@ -22,22 +22,14 @@
     },
     {
       "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
+      "current_state": "in progress"
     },
     {
       "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "CarMax past-due payment",
       "current_state": "in progress"
     },
     {
       "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
@@ -49,18 +41,26 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Inbox triage watch",
+      "title": "CarMax past-due payment",
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship to Signora",
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T20:42:30.613840+00:00",
+  "updated_at": "2026-10-04T21:06:24.812456+00:00",
   "source": "kelpy-dashboard"
 }
