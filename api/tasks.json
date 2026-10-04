@@ -17,6 +17,10 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
@@ -25,11 +29,19 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Florida car plate and insurance switch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -37,30 +49,18 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
       "current_state": "in progress"
     },
     {
-      "title": "Price-drop money-back watch",
+      "title": "Rewards-card offer activation",
       "current_state": "in progress"
-    },
-    {
-      "title": "ID renewal tracking",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Inbox triage watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-04T04:34:34.036692+00:00",
+  "updated_at": "2026-10-04T05:04:34.834744+00:00",
   "source": "kelpy-dashboard"
 }
