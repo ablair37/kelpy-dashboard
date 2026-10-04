@@ -1,11 +1,11 @@
 {
   "upcoming": [
     {
-      "title": "Mead bottling reminder",
+      "title": "Bottle mead",
       "when": "Sun 10/04 11:47 AM"
     },
     {
-      "title": "Weekly reconnect check-in",
+      "title": "Weekly reconnection check-in",
       "when": "Sun 10/04 6:47 PM"
     },
     {
@@ -21,18 +21,18 @@
       "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Paramount+ cancel",
+      "title": "Cancel Paramount+ trial",
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Cleaner buy nudge",
+      "title": "Clorox buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor balance check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 9:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T03:34:24.989633+00:00",
+  "updated_at": "2026-10-04T04:04:51.830173+00:00",
   "source": "kelpy-dashboard"
 }
