@@ -1,9 +1,9 @@
 {
   "pct": 71.0,
   "mode": "low-power",
-  "burn_rate_per_hr": 3.485,
-  "projected_dry": "2026-10-04T08:23:32.874163+00:00",
+  "burn_rate_per_hr": 3.134,
+  "projected_dry": "2026-10-04T09:49:58.601954+00:00",
   "reset": "2026-10-07T20:37:00-04:00",
-  "updated_at": "2026-10-04T00:04:19.830463+00:00",
+  "updated_at": "2026-10-04T00:34:41.454273+00:00",
   "source": "kelpy-dashboard"
 }
