@@ -21,31 +21,31 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Stripe VIP complaint",
+      "title": "Anthropic IPO watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
     },
     {
       "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
@@ -57,10 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "Factor failed-payment fix",
+      "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-04T09:04:29.209445+00:00",
+  "updated_at": "2026-10-04T09:34:18.402844+00:00",
   "source": "kelpy-dashboard"
 }
