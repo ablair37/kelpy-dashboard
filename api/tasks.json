@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -21,15 +21,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
+      "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
@@ -37,19 +33,23 @@
       "current_state": "in progress"
     },
     {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
     },
     {
       "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
@@ -57,10 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-04T01:04:43.817608+00:00",
+  "updated_at": "2026-10-04T01:34:47.715246+00:00",
   "source": "kelpy-dashboard"
 }
