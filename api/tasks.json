@@ -2,7 +2,11 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -13,24 +17,12 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -41,6 +33,18 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "CarMax past-due payment",
       "current_state": "in progress"
     },
@@ -49,18 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     },
     {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-04T17:04:29.047220+00:00",
+  "updated_at": "2026-10-04T17:34:53.506316+00:00",
   "source": "kelpy-dashboard"
 }
