@@ -33,8 +33,8 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "Bottle mead and ship",
@@ -42,10 +42,6 @@
     },
     {
       "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
@@ -59,8 +55,12 @@
     {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T09:34:18.402844+00:00",
+  "updated_at": "2026-10-04T10:04:33.339309+00:00",
   "source": "kelpy-dashboard"
 }
