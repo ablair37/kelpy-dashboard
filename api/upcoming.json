@@ -1,19 +1,19 @@
 {
   "upcoming": [
     {
-      "title": "Bottle mead reminder",
+      "title": "Bottle mead batch",
       "when": "Sun 10/04 11:47 AM"
     },
     {
-      "title": "Computershare call",
+      "title": "Disney shares call",
       "when": "Mon 10/05 10:00 AM"
     },
     {
-      "title": "Catch-up call",
+      "title": "Quick catch-up call",
       "when": "Mon 10/05 12:00 PM"
     },
     {
-      "title": "Catch-up call",
+      "title": "Quick catch-up call",
       "when": "Tue 10/06 5:30 PM"
     },
     {
@@ -21,18 +21,18 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Cleaner buy reminder",
+      "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor balance check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Computershare check-in",
+      "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T00:34:41.454273+00:00",
+  "updated_at": "2026-10-04T01:04:43.817608+00:00",
   "source": "kelpy-dashboard"
 }
