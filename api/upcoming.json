@@ -21,18 +21,18 @@
       "when": "Mon 10/05 12:00 PM"
     },
     {
+      "title": "Catch-up call",
+      "when": "Tue 10/06 5:30 PM"
+    },
+    {
       "title": "Cancel Paramount+ trial reminder",
       "when": "Wed 10/07 9:47 AM"
     },
     {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
-    },
-    {
-      "title": "Factor payment one-week check",
-      "when": "Fri 10/09 9:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T20:05:34.797320+00:00",
+  "updated_at": "2026-10-04T20:42:30.613840+00:00",
   "source": "kelpy-dashboard"
 }
