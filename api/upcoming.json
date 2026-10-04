@@ -9,10 +9,6 @@
       "when": "Mon 10/05 12:00 PM"
     },
     {
-      "title": "Overdraft grace deadline",
-      "when": "Mon 10/05 11:59 PM"
-    },
-    {
       "title": "Quick call",
       "when": "Tue 10/06 5:30 PM"
     },
@@ -33,6 +29,6 @@
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T22:05:54.158979+00:00",
+  "updated_at": "2026-10-04T22:34:44.011239+00:00",
   "source": "kelpy-dashboard"
 }
