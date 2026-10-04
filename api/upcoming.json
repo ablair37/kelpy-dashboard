@@ -1,23 +1,19 @@
 {
   "upcoming": [
     {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 10/04 6:47 PM"
-    },
-    {
-      "title": "Headset price watch",
-      "when": "Mon 10/05 9:47 AM"
-    },
-    {
       "title": "Computershare call",
       "when": "Mon 10/05 10:00 AM"
     },
     {
-      "title": "Friend catch-up call",
+      "title": "Catch-up call",
       "when": "Mon 10/05 12:00 PM"
     },
     {
-      "title": "Family catch-up call",
+      "title": "Overdraft grace deadline",
+      "when": "Mon 10/05 11:59 PM"
+    },
+    {
+      "title": "Quick call",
       "when": "Tue 10/06 5:30 PM"
     },
     {
@@ -25,14 +21,18 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Buy cleaning spray reminder",
+      "title": "Clorox buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
       "title": "Factor payment check",
       "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "Computershare follow-up",
+      "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T21:37:17.347929+00:00",
+  "updated_at": "2026-10-04T22:05:54.158979+00:00",
   "source": "kelpy-dashboard"
 }
