@@ -1,6 +1,18 @@
 {
   "upcoming": [
     {
+      "title": "Exchange inbox check",
+      "when": "Sun 10/04 4:47 PM"
+    },
+    {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/04 6:47 PM"
+    },
+    {
+      "title": "Headset price check",
+      "when": "Mon 10/05 9:47 AM"
+    },
+    {
       "title": "Computershare call",
       "when": "Mon 10/05 10:00 AM"
     },
@@ -9,12 +21,8 @@
       "when": "Mon 10/05 12:00 PM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Tue 10/06 05:30 PM"
-    },
-    {
       "title": "Cancel Paramount+ trial reminder",
-      "when": "Wed 10/07 09:47 AM"
+      "when": "Wed 10/07 9:47 AM"
     },
     {
       "title": "Clorox cleaner buy reminder",
@@ -22,13 +30,9 @@
     },
     {
       "title": "Factor payment one-week check",
-      "when": "Fri 10/09 09:47 AM"
-    },
-    {
-      "title": "Computershare call check-in",
-      "when": "Fri 10/09 10:47 AM"
+      "when": "Fri 10/09 9:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T19:04:42.717039+00:00",
+  "updated_at": "2026-10-04T19:34:39.107700+00:00",
   "source": "kelpy-dashboard"
 }
