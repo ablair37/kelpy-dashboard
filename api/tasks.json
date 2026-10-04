@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
     },
     {
       "title": "Telegram new-message watch",
@@ -29,38 +29,38 @@
       "current_state": "in progress"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Inbox triage watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
     },
     {
       "title": "Tax filing catch-up",
       "current_state": "in progress"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T05:34:46.714062+00:00",
+  "updated_at": "2026-10-04T06:04:33.643707+00:00",
   "source": "kelpy-dashboard"
 }
