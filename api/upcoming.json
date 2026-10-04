@@ -1,24 +1,24 @@
 {
   "upcoming": [
     {
-      "title": "Bottle mead reminder",
+      "title": "Bottle mead batch",
       "when": "Sun 10/04 11:47 AM"
     },
     {
-      "title": "Computershare shareholder call",
+      "title": "Computershare call",
       "when": "Mon 10/05 10:00 AM"
     },
     {
-      "title": "Catch-up call",
+      "title": "Quick catch-up call",
       "when": "Mon 10/05 12:00 PM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Tue 10/06 05:30 PM"
+      "title": "Quick catch-up call",
+      "when": "Tue 10/06 5:30 PM"
     },
     {
       "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 09:47 AM"
+      "when": "Wed 10/07 9:47 AM"
     },
     {
       "title": "Buy bathroom cleaner",
@@ -26,13 +26,13 @@
     },
     {
       "title": "Factor payment check",
-      "when": "Fri 10/09 09:47 AM"
+      "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Computershare check-in",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T01:34:47.715246+00:00",
+  "updated_at": "2026-10-04T02:04:46.763154+00:00",
   "source": "kelpy-dashboard"
 }
