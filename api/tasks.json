@@ -1,12 +1,16 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -33,19 +37,19 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
     },
     {
       "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Bottle mead and ship",
+      "title": "Bottle mead and ship to Signora",
       "current_state": "waiting on you"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T19:04:42.717039+00:00",
+  "updated_at": "2026-10-04T19:34:39.107700+00:00",
   "source": "kelpy-dashboard"
 }
