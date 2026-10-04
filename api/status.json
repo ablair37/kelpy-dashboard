@@ -1,9 +1,9 @@
 {
   "pct": 85,
   "mode": "critical",
-  "burn_rate_per_hr": 0.755,
-  "projected_dry": "2026-10-05T12:27:24.327267+00:00",
+  "burn_rate_per_hr": 0.784,
+  "projected_dry": "2026-10-05T12:12:16.331989+00:00",
   "reset": "2026-10-07T20:37:00-04:00",
-  "updated_at": "2026-10-04T16:34:50.963457+00:00",
+  "updated_at": "2026-10-04T17:04:29.047220+00:00",
   "source": "kelpy-dashboard"
 }
