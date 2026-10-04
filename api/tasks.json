@@ -1,15 +1,15 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Telegram new-message watch",
+      "title": "Notion bridge with other bots",
       "current_state": "in progress"
     },
     {
@@ -17,19 +17,15 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
+      "title": "IPO watch",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
@@ -37,30 +33,34 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
     },
     {
-      "title": "Tax filing catch-up",
+      "title": "Bottle mead and ship batch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Bathroom cleaner purchase",
       "current_state": "in progress"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Liquidate shares via Computershare",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Price-drop money-back watch",
       "current_state": "in progress"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "Failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Cancel trial",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-04T12:05:22.486481+00:00",
+  "updated_at": "2026-10-04T12:34:31.789898+00:00",
   "source": "kelpy-dashboard"
 }
