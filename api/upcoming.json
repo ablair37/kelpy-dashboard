@@ -1,7 +1,7 @@
 {
   "upcoming": [
     {
-      "title": "Mead bottling and shipping",
+      "title": "Bottle the mead batch",
       "when": "Sun 10/04 11:47 AM"
     },
     {
@@ -21,18 +21,18 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Buy bathroom cleaner",
+      "title": "Usage limit resets",
+      "when": "Wed 10/07 8:37 PM"
+    },
+    {
+      "title": "Pick up bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Computershare completion check-in",
-      "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-04T09:04:29.209445+00:00",
+  "updated_at": "2026-10-04T09:34:18.402844+00:00",
   "source": "kelpy-dashboard"
 }
