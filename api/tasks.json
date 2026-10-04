@@ -1,20 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
+      "title": "Telegram new-message watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -25,8 +17,16 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Anthropic IPO watch",
@@ -53,14 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     },
     {
-      "title": "Price-drop money-back watch",
+      "title": "Clorox bathroom cleaner purchase",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-04T18:34:31.491121+00:00",
+  "updated_at": "2026-10-04T19:04:42.717039+00:00",
   "source": "kelpy-dashboard"
 }
