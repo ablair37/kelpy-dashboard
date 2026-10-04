@@ -21,46 +21,46 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "IPO watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Bottle mead and ship batch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Bathroom cleaner purchase",
+      "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
-      "title": "Liquidate shares via Computershare",
+      "title": "Cancel trial reminder",
       "current_state": "scheduled"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
+      "title": "Subscription cancellations",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Car plate and insurance switch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Share account sell-off",
+      "current_state": "scheduled"
     },
     {
       "title": "Failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel trial",
+      "title": "Price-drop money-back watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Mead bottling",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Payment complaint investigation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-04T12:34:31.789898+00:00",
+  "updated_at": "2026-10-04T13:04:36.982187+00:00",
   "source": "kelpy-dashboard"
 }
