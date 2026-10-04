@@ -1,10 +1,6 @@
 {
   "tasks": [
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "in progress"
     },
@@ -13,20 +9,16 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
     },
     {
       "title": "Factor failed-payment fix",
@@ -49,18 +41,26 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-04T23:04:50.762146+00:00",
+  "updated_at": "2026-10-04T23:34:51.626464+00:00",
   "source": "kelpy-dashboard"
 }
