@@ -9,11 +9,11 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
@@ -29,12 +29,12 @@
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -49,18 +49,18 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-05T19:06:25.970054+00:00",
+  "updated_at": "2026-10-05T19:35:37.661509+00:00",
   "source": "kelpy-dashboard"
 }
