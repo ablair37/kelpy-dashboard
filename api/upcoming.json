@@ -1,38 +1,34 @@
 {
   "upcoming": [
     {
-      "title": "Headset price check",
-      "when": "Mon 10/05 9:47 AM"
+      "title": "Headset price watch",
+      "when": "Mon 10/05 09:47 AM"
     },
     {
-      "title": "Call to reactivate stock account",
+      "title": "Computershare call",
       "when": "Mon 10/05 10:00 AM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Mon 10/05 12:00 PM"
-    },
-    {
-      "title": "Catch-up call",
-      "when": "Tue 10/06 5:30 PM"
-    },
-    {
       "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 9:47 AM"
+      "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Wed 10/07 12:00 PM"
-    },
-    {
-      "title": "Buy bathroom cleaner",
+      "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Thu 10/08 12:00 PM"
+      "title": "Anthropic IPO weekly check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Factor payment check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Computershare call check-in",
+      "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T01:35:08.381300+00:00",
+  "updated_at": "2026-10-05T02:04:57.739277+00:00",
   "source": "kelpy-dashboard"
 }
