@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
@@ -11,10 +15,6 @@
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -57,10 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
+      "title": "Florida car plate and insurance switch",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T12:04:46.017137+00:00",
+  "updated_at": "2026-10-05T12:34:58.049606+00:00",
   "source": "kelpy-dashboard"
 }
