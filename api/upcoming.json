@@ -1,16 +1,16 @@
 {
   "upcoming": [
     {
+      "title": "Headset price recheck",
+      "when": "Tue 10/06 9:47 AM"
+    },
+    {
       "title": "Catch-up call",
       "when": "Tue 10/06 5:30 PM"
     },
     {
       "title": "Cancel Paramount+ trial",
       "when": "Wed 10/07 9:47 AM"
-    },
-    {
-      "title": "Catch-up call draft",
-      "when": "Wed 10/07 12:00 PM"
     },
     {
       "title": "Free weekly limit resets",
@@ -21,18 +21,18 @@
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Catch-up call draft",
-      "when": "Thu 10/08 12:00 PM"
-    },
-    {
       "title": "Factor payment check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Anthropic IPO weekly check",
       "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "Share-sale call check-in",
+      "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T20:35:20.688837+00:00",
+  "updated_at": "2026-10-05T21:07:16.950743+00:00",
   "source": "kelpy-dashboard"
 }
