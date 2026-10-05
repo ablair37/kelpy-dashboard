@@ -1,7 +1,7 @@
 {
   "upcoming": [
     {
-      "title": "Headset price check",
+      "title": "Headset price re-check",
       "when": "Tue 10/06 09:47 AM"
     },
     {
@@ -13,26 +13,26 @@
       "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Catch-up call draft awaiting approval",
+      "title": "Catch-up call",
       "when": "Wed 10/07 12:00 PM"
     },
     {
-      "title": "Clorox buy reminder",
+      "title": "Usage limit resets",
+      "when": "Wed 10/07 08:37 PM"
+    },
+    {
+      "title": "Clorox cleaner buy",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Catch-up call draft awaiting approval",
+      "title": "Catch-up call",
       "when": "Thu 10/08 12:00 PM"
     },
     {
       "title": "Factor payment check",
       "when": "Fri 10/09 09:47 AM"
-    },
-    {
-      "title": "IPO weekly check",
-      "when": "Fri 10/09 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T18:37:09.160903+00:00",
+  "updated_at": "2026-10-05T19:06:25.970054+00:00",
   "source": "kelpy-dashboard"
 }
