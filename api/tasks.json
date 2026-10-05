@@ -33,7 +33,7 @@
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
@@ -41,7 +41,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
@@ -57,10 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Price-drop money-back watch",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-05T18:07:00.653453+00:00",
+  "updated_at": "2026-10-05T18:37:09.160903+00:00",
   "source": "kelpy-dashboard"
 }
