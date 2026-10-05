@@ -1,7 +1,7 @@
 {
   "upcoming": [
     {
-      "title": "Computershare shareholder call",
+      "title": "Computershare call",
       "when": "Mon 10/05 10:00 AM"
     },
     {
@@ -17,22 +17,22 @@
       "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Clorox cleaner buy nudge",
+      "title": "Catch-up call",
+      "when": "Wed 10/07 12:00 PM"
+    },
+    {
+      "title": "Buy bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment follow-up",
+      "title": "Factor payment check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
       "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T03:34:40.410409+00:00",
+  "updated_at": "2026-10-05T04:04:56.850105+00:00",
   "source": "kelpy-dashboard"
 }
