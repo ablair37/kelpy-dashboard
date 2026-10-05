@@ -17,12 +17,12 @@
       "current_state": "blocked"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -37,10 +37,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
@@ -49,18 +45,22 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
+      "title": "Tax filing catch-up",
       "current_state": "in progress"
     },
     {
-      "title": "Tax filing catch-up",
-      "current_state": "in progress"
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T10:04:19.872682+00:00",
+  "updated_at": "2026-10-05T11:04:32.937158+00:00",
   "source": "kelpy-dashboard"
 }
