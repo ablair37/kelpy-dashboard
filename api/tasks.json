@@ -17,23 +17,19 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
+      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
@@ -41,11 +37,19 @@
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship",
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
     },
     {
@@ -53,14 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Price-drop money-back watch",
+      "title": "Clorox bathroom cleaner purchase",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T05:04:31.812270+00:00",
+  "updated_at": "2026-10-05T05:34:29.712685+00:00",
   "source": "kelpy-dashboard"
 }
