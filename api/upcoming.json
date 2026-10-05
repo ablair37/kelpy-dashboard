@@ -1,16 +1,24 @@
 {
   "upcoming": [
     {
+      "title": "Headset price recheck",
+      "when": "Tue 10/06 9:47 AM"
+    },
+    {
       "title": "Catch-up call",
       "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Cancel Paramount+ trial reminder",
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Buy bathroom cleaner",
+      "title": "Buy cleaner reminder",
       "when": "Thu 10/08 10:47 AM"
+    },
+    {
+      "title": "IPO watch weekly check",
+      "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Factor payment check",
@@ -21,6 +29,6 @@
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T23:06:37.676909+00:00",
+  "updated_at": "2026-10-05T23:36:51.220970+00:00",
   "source": "kelpy-dashboard"
 }
