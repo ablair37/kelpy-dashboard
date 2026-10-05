@@ -5,27 +5,15 @@
       "when": "Mon 10/05 10:00 AM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Mon 10/05 12:00 PM"
-    },
-    {
-      "title": "Catch-up call",
-      "when": "Tue 10/06 05:30 PM"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
+      "title": "Cancel Paramount+ trial reminder",
       "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Wed 10/07 12:00 PM"
-    },
-    {
-      "title": "Buy bathroom cleaner",
+      "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -33,6 +21,6 @@
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T04:34:34.958672+00:00",
+  "updated_at": "2026-10-05T05:04:31.812270+00:00",
   "source": "kelpy-dashboard"
 }
