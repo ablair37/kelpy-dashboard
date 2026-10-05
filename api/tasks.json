@@ -13,16 +13,16 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
       "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
     },
     {
       "title": "Factor failed-payment fix",
@@ -33,16 +33,16 @@
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Bottle mead and ship",
@@ -55,12 +55,8 @@
     {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T01:05:54.758799+00:00",
+  "updated_at": "2026-10-05T01:35:08.381300+00:00",
   "source": "kelpy-dashboard"
 }
