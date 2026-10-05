@@ -13,11 +13,11 @@
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
@@ -33,15 +33,15 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
       "title": "CarMax past-due payment",
       "current_state": "in progress"
     },
     {
       "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T06:04:45.631638+00:00",
+  "updated_at": "2026-10-05T06:34:28.759320+00:00",
   "source": "kelpy-dashboard"
 }
