@@ -17,27 +17,15 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
@@ -45,22 +33,34 @@
       "current_state": "in progress"
     },
     {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T02:04:57.739277+00:00",
+  "updated_at": "2026-10-05T02:34:33.846080+00:00",
   "source": "kelpy-dashboard"
 }
