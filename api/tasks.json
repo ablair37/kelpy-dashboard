@@ -2,7 +2,11 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -25,10 +29,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
@@ -41,22 +41,26 @@
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship to sister",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
-      "title": "Real-estate lead generation",
+      "title": "Tax filing catch-up",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T22:09:44.484366+00:00",
+  "updated_at": "2026-10-05T22:36:39.937351+00:00",
   "source": "kelpy-dashboard"
 }
