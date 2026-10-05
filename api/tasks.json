@@ -1,7 +1,19 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
@@ -9,15 +21,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "Telegram new-message watch",
       "current_state": "in progress"
     },
     {
@@ -25,19 +29,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
@@ -45,7 +37,15 @@
       "current_state": "in progress"
     },
     {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
@@ -53,14 +53,14 @@
       "current_state": "in progress"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     },
     {
-      "title": "Real-estate lead generation",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T15:40:42.045776+00:00",
+  "updated_at": "2026-10-05T16:10:49.165274+00:00",
   "source": "kelpy-dashboard"
 }
