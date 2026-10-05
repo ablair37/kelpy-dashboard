@@ -1,24 +1,24 @@
 {
   "upcoming": [
     {
-      "title": "Headset price check",
-      "when": "Mon 10/05 09:47 AM"
+      "title": "Headset price watch",
+      "when": "Mon 10/05 9:47 AM"
     },
     {
-      "title": "Share sale call",
+      "title": "Computershare call",
       "when": "Mon 10/05 10:00 AM"
     },
     {
-      "title": "Catch-up call",
+      "title": "Reconnect call",
       "when": "Mon 10/05 12:00 PM"
     },
     {
-      "title": "Catch-up call",
-      "when": "Tue 10/06 05:30 PM"
+      "title": "Family catch-up call",
+      "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Cancel streaming trial",
-      "when": "Wed 10/07 09:47 AM"
+      "title": "Cancel Paramount+ trial reminder",
+      "when": "Wed 10/07 9:47 AM"
     },
     {
       "title": "Clorox buy reminder",
@@ -26,13 +26,13 @@
     },
     {
       "title": "Factor payment check",
-      "when": "Fri 10/09 09:47 AM"
+      "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Share sale call check-in",
+      "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T10:04:19.872682+00:00",
+  "updated_at": "2026-10-05T11:04:32.937158+00:00",
   "source": "kelpy-dashboard"
 }
