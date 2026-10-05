@@ -2,7 +2,7 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -29,16 +29,16 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Anthropic IPO watch",
@@ -57,10 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
+      "title": "Clorox bathroom cleaner purchase",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T02:34:33.846080+00:00",
+  "updated_at": "2026-10-05T03:04:36.175899+00:00",
   "source": "kelpy-dashboard"
 }
