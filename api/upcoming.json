@@ -5,30 +5,26 @@
       "when": "Mon 10/05 09:47 AM"
     },
     {
-      "title": "Computershare call",
-      "when": "Mon 10/05 10:00 AM"
-    },
-    {
       "title": "Cancel Paramount+ trial",
       "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Clorox cleaner buy reminder",
+      "title": "Buy bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
+      "title": "Factor balance check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment check",
+      "title": "IPO weekly check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Computershare call check-in",
+      "title": "Brokerage call check-in",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T02:04:57.739277+00:00",
+  "updated_at": "2026-10-05T02:34:33.846080+00:00",
   "source": "kelpy-dashboard"
 }
