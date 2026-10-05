@@ -33,12 +33,12 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Anthropic IPO watch",
@@ -49,18 +49,18 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T11:34:33.296042+00:00",
+  "updated_at": "2026-10-05T12:04:46.017137+00:00",
   "source": "kelpy-dashboard"
 }
