@@ -1,11 +1,11 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
     },
     {
-      "title": "Telegram new-message watch",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -33,6 +33,10 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
@@ -41,11 +45,7 @@
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship",
+      "title": "Bottle mead and ship to sister",
       "current_state": "waiting on you"
     },
     {
@@ -57,10 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T07:34:29.703627+00:00",
+  "updated_at": "2026-10-05T08:04:31.104389+00:00",
   "source": "kelpy-dashboard"
 }
