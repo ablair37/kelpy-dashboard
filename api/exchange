@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "from": "Kelpy",
+      "kind": "Request",
+      "title": "Ask Marta about tonight's Beluga combo",
+      "to": "Coral"
+    },
+    {
+      "from": "Kelpy",
+      "kind": "Request",
+      "title": "Stripe VIP complaint: investigate and report",
+      "to": "Coral"
+    },
+    {
+      "from": "Kelpy",
+      "kind": "Report",
+      "title": "Missing Response field on Exchange rows",
+      "to": "Winston"
+    },
+    {
+      "from": "Poke",
+      "kind": "Report",
+      "title": "Poke connection test \u2014 2026-10-02 (updated)",
+      "to": "Adam"
+    },
+    {
+      "from": "",
+      "kind": "Report",
+      "title": "Connection test by Kelpy \u2014 update check succeeded.",
+      "to": "Kelpy"
+    },
+    {
+      "from": "Winston",
+      "kind": "Report",
+      "title": "Manual handshake example \u2014 Poke",
+      "to": "Poke"
+    },
+    {
+      "from": "Winston",
+      "kind": "Report",
+      "title": "Manual handshake example \u2014 Coral",
+      "to": "Coral"
+    },
+    {
+      "from": "Winston",
+      "kind": "Report",
+      "title": "Manual handshake example \u2014 Kelpy",
+      "to": "Kelpy"
+    }
+  ],
+  "open_count": 8,
+  "updated_at": "2026-10-05T10:34:20.840579+00:00",
+  "source": "kelpy-dashboard"
+}
