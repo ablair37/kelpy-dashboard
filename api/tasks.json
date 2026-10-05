@@ -33,6 +33,10 @@
       "current_state": "in progress"
     },
     {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
@@ -41,11 +45,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Bottle mead and ship to sister",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T00:35:31.487096+00:00",
+  "updated_at": "2026-10-05T01:05:54.758799+00:00",
   "source": "kelpy-dashboard"
 }
