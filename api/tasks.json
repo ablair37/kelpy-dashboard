@@ -1,27 +1,11 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Anthropic IPO watch",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -45,22 +29,38 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Bottle mead and ship to a family member",
-      "current_state": "waiting on you"
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
     },
     {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
+      "title": "Bottle mead and ship to a family member",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
+      "title": "Clorox bathroom cleaner purchase",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-05T17:38:02.029514+00:00",
+  "updated_at": "2026-10-05T18:07:00.653453+00:00",
   "source": "kelpy-dashboard"
 }
