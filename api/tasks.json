@@ -17,15 +17,15 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
@@ -33,34 +33,34 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead for sister",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Rewards-card offer activation",
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T15:09:13.113880+00:00",
+  "updated_at": "2026-10-05T15:40:42.045776+00:00",
   "source": "kelpy-dashboard"
 }
