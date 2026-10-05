@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -21,6 +21,10 @@
       "current_state": "scheduled"
     },
     {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
@@ -33,34 +37,30 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
+      "title": "Bottle mead and ship to sister",
+      "current_state": "waiting on you"
     },
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "scheduled"
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-05T00:04:59.937894+00:00",
+  "updated_at": "2026-10-05T00:35:31.487096+00:00",
   "source": "kelpy-dashboard"
 }
