@@ -17,31 +17,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
@@ -49,7 +29,23 @@
       "current_state": "in progress"
     },
     {
-      "title": "Stripe VIP complaint",
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -57,10 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Price-drop money-back watch",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T05:34:29.712685+00:00",
+  "updated_at": "2026-10-05T06:04:45.631638+00:00",
   "source": "kelpy-dashboard"
 }
