@@ -13,20 +13,20 @@
       "current_state": "in progress"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
     },
     {
       "title": "Factor failed-payment fix",
@@ -45,6 +45,10 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
@@ -53,14 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "ID renewal tracking",
+      "title": "Price-drop money-back watch",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T04:34:34.958672+00:00",
+  "updated_at": "2026-10-05T05:04:31.812270+00:00",
   "source": "kelpy-dashboard"
 }
