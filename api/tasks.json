@@ -1,23 +1,15 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
+      "title": "Telegram new-message watch",
       "current_state": "in progress"
     },
     {
       "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
@@ -29,11 +21,19 @@
       "current_state": "scheduled"
     },
     {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "CarMax past-due payment",
       "current_state": "in progress"
     },
     {
@@ -45,7 +45,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship to sister",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-05T20:35:20.688837+00:00",
+  "updated_at": "2026-10-05T21:07:16.950743+00:00",
   "source": "kelpy-dashboard"
 }
