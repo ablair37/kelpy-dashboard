@@ -5,6 +5,10 @@
       "when": "Mon 10/05 12:00 PM"
     },
     {
+      "title": "Headset price check",
+      "when": "Tue 10/06 9:47 AM"
+    },
+    {
       "title": "Catch-up call",
       "when": "Tue 10/06 5:30 PM"
     },
@@ -13,16 +17,12 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Headset price check",
-      "when": "Wed 10/07 9:47 AM"
+      "title": "Bathroom cleaner buy nudge",
+      "when": "Thu 10/08 10:47 AM"
     },
     {
       "title": "Catch-up call",
       "when": "Thu 10/08 12:00 PM"
-    },
-    {
-      "title": "Bathroom cleaner buy nudge",
-      "when": "Thu 10/08 10:47 AM"
     },
     {
       "title": "Anthropic IPO weekly check",
@@ -33,6 +33,6 @@
       "when": "Fri 10/09 9:47 AM"
     }
   ],
-  "updated_at": "2026-10-05T15:09:13.113880+00:00",
+  "updated_at": "2026-10-05T15:40:42.045776+00:00",
   "source": "kelpy-dashboard"
 }
