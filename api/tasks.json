@@ -1,15 +1,15 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
@@ -17,12 +17,24 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -33,34 +45,22 @@
       "current_state": "in progress"
     },
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
+      "title": "Bottle mead and ship to a family member",
+      "current_state": "waiting on you"
     },
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "ID renewal tracking",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
+      "title": "Price-drop money-back watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-05T16:41:26.870007+00:00",
+  "updated_at": "2026-10-05T17:07:56.758395+00:00",
   "source": "kelpy-dashboard"
 }
