@@ -1,22 +1,30 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 09:47 AM"
+      "title": "Catch-up call",
+      "when": "Tue 10/06 4:00 PM"
     },
     {
-      "title": "Buy bathroom cleaner",
+      "title": "Cancel Paramount+ trial",
+      "when": "Wed 10/07 9:47 AM"
+    },
+    {
+      "title": "Weekly usage limit resets",
+      "when": "Wed 10/07 8:37 PM"
+    },
+    {
+      "title": "Clorox cleaner buy",
       "when": "Thu 10/08 10:47 AM"
     },
     {
       "title": "Factor payment check",
-      "when": "Fri 10/09 09:47 AM"
+      "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Computershare call check-in",
+      "title": "Computershare follow-up check",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-06T14:37:34.878186+00:00",
+  "updated_at": "2026-10-06T15:09:23.712659+00:00",
   "source": "kelpy-dashboard"
 }
