@@ -13,11 +13,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
@@ -29,12 +29,8 @@
       "current_state": "in progress"
     },
     {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -42,6 +38,14 @@
     },
     {
       "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-06T18:39:13.265191+00:00",
+  "updated_at": "2026-10-06T19:06:13.190877+00:00",
   "source": "kelpy-dashboard"
 }
