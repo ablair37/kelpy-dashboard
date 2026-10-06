@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
@@ -9,8 +13,16 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -21,46 +33,34 @@
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship it out",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Tax filing catch-up",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Florida car plate and insurance switch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "ID renewal tracking",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Factor failed-payment fix",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
     },
     {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-06T07:34:16.120994+00:00",
+  "updated_at": "2026-10-06T08:04:35.573228+00:00",
   "source": "kelpy-dashboard"
 }
