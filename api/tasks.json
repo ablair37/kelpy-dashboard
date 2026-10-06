@@ -22,7 +22,7 @@
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -37,20 +37,20 @@
       "current_state": "in progress"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
       "title": "CarMax past-due payment",
       "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Bottle mead and ship",
@@ -61,6 +61,6 @@
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-06T09:04:23.475374+00:00",
+  "updated_at": "2026-10-06T09:35:21.964869+00:00",
   "source": "kelpy-dashboard"
 }
