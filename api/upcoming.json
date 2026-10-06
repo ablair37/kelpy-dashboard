@@ -5,12 +5,8 @@
       "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Cancel Paramount+ trial reminder",
       "when": "Wed 10/07 9:47 AM"
-    },
-    {
-      "title": "Free weekly usage limit resets",
-      "when": "Wed 10/07 8:37 PM"
     },
     {
       "title": "Clorox cleaner buy reminder",
@@ -29,6 +25,6 @@
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-06T08:04:35.573228+00:00",
+  "updated_at": "2026-10-06T08:34:21.264138+00:00",
   "source": "kelpy-dashboard"
 }
