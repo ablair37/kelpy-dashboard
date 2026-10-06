@@ -1,30 +1,22 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 9:47 AM"
+      "title": "Cancel streaming trial",
+      "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Headset price recheck",
-      "when": "Wed 10/07 9:47 AM"
-    },
-    {
-      "title": "Buy-reminder: bathroom cleaner",
+      "title": "Bathroom cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Payment balance check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
-      "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Computershare call check-in",
+      "title": "Computershare call follow-up",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-06T22:06:12.107763+00:00",
+  "updated_at": "2026-10-06T22:35:22.063637+00:00",
   "source": "kelpy-dashboard"
 }
