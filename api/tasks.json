@@ -13,6 +13,30 @@
       "current_state": "in progress"
     },
     {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship it out",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Tax filing catch-up",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Florida car plate and insurance switch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "ID renewal tracking",
+      "current_state": "in progress"
+    },
+    {
       "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     },
@@ -21,31 +45,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
       "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
@@ -53,10 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-06T07:04:41.297750+00:00",
+  "updated_at": "2026-10-06T07:34:16.120994+00:00",
   "source": "kelpy-dashboard"
 }
