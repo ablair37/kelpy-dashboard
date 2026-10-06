@@ -5,6 +5,26 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
@@ -25,42 +45,22 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
+      "title": "Tax filing catch-up",
+      "current_state": "in progress"
     },
     {
-      "title": "Canceling unwanted subscriptions",
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-06T09:35:21.964869+00:00",
+  "updated_at": "2026-10-06T10:05:25.574319+00:00",
   "source": "kelpy-dashboard"
 }
