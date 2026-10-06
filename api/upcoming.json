@@ -1,7 +1,7 @@
 {
   "upcoming": [
     {
-      "title": "Catch-up call",
+      "title": "Catch-up call reminder",
       "when": "Tue 10/06 4:00 PM"
     },
     {
@@ -9,11 +9,7 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Weekly usage limit resets",
-      "when": "Wed 10/07 8:37 PM"
-    },
-    {
-      "title": "Clorox cleaner buy",
+      "title": "Buy bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
     },
     {
@@ -21,10 +17,18 @@
       "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Computershare follow-up check",
+      "title": "Anthropic IPO weekly check",
+      "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
+    },
+    {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/11 6:47 PM"
     }
   ],
-  "updated_at": "2026-10-06T15:09:23.712659+00:00",
+  "updated_at": "2026-10-06T15:36:50.238209+00:00",
   "source": "kelpy-dashboard"
 }
