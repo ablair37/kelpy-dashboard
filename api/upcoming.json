@@ -2,15 +2,15 @@
   "upcoming": [
     {
       "title": "Headset price watch",
-      "when": "Tue 10/06 9:47 AM"
+      "when": "Tue 10/06 09:47 AM"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 9:47 AM"
+      "title": "Catch-up call",
+      "when": "Tue 10/06 05:30 PM"
     },
     {
-      "title": "Weekly limit resets",
-      "when": "Wed 10/07 8:37 PM"
+      "title": "Cancel trial before renewal",
+      "when": "Wed 10/07 09:47 AM"
     },
     {
       "title": "Clorox cleaner buy reminder",
@@ -18,11 +18,11 @@
     },
     {
       "title": "Factor payment one-week check",
-      "when": "Fri 10/09 9:47 AM"
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Anthropic IPO weekly check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
       "title": "Computershare call check-in",
@@ -30,9 +30,9 @@
     },
     {
       "title": "Weekly reconnection check-in",
-      "when": "Sun 10/11 6:47 PM"
+      "when": "Sun 10/11 06:47 PM"
     }
   ],
-  "updated_at": "2026-10-06T00:36:59.848083+00:00",
+  "updated_at": "2026-10-06T01:05:19.466067+00:00",
   "source": "kelpy-dashboard"
 }
