@@ -1,38 +1,38 @@
 {
   "upcoming": [
     {
+      "title": "Headset price re-check",
+      "when": "Tue 10/06 9:47 AM"
+    },
+    {
       "title": "Catch-up call",
       "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Cancel streaming trial",
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Free usage limit resets",
-      "when": "Wed 10/07 8:37 PM"
+      "title": "Catch-up call draft, awaiting approval",
+      "when": "Wed 10/07 12:00 PM"
     },
     {
-      "title": "Clorox cleaner buy reminder",
+      "title": "Buy reminder: bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment check",
+      "title": "Catch-up call draft, awaiting approval",
+      "when": "Thu 10/08 12:00 PM"
+    },
+    {
+      "title": "Verify meal-delivery balance settled",
       "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Computershare call check-in",
+      "title": "Disney-shares call check-in",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "ColoVAX service reset",
-      "when": "Sat 10/17 12:00 AM"
     }
   ],
-  "updated_at": "2026-10-06T10:34:46.512887+00:00",
+  "updated_at": "2026-10-06T11:04:53.627805+00:00",
   "source": "kelpy-dashboard"
 }
