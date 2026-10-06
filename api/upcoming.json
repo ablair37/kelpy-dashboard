@@ -2,25 +2,37 @@
   "upcoming": [
     {
       "title": "Catch-up call reminder",
-      "when": "Tue 10/06 4:00 PM"
+      "when": "Tue 10/06 04:00 PM"
     },
     {
-      "title": "Cancel trial reminder",
-      "when": "Wed 10/07 9:47 AM"
+      "title": "Catch-up call",
+      "when": "Tue 10/06 05:30 PM"
     },
     {
-      "title": "Buy reminder",
+      "title": "Cancel Paramount+ trial",
+      "when": "Wed 10/07 09:47 AM"
+    },
+    {
+      "title": "Headset price watch",
+      "when": "Wed 10/07 09:47 AM"
+    },
+    {
+      "title": "Clorox cleaner buy",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Balance check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Factor payment check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Call check-in",
+      "title": "IPO weekly check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-06T16:05:13.735116+00:00",
+  "updated_at": "2026-10-06T16:36:05.340350+00:00",
   "source": "kelpy-dashboard"
 }
