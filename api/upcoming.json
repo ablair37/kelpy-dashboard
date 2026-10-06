@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Headset price check",
-      "when": "Tue 10/06 09:47 AM"
-    },
-    {
       "title": "Catch-up call",
       "when": "Tue 10/06 05:30 PM"
     },
@@ -31,8 +27,12 @@
     {
       "title": "Payment balance check",
       "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Computershare follow-up",
+      "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-06T11:34:30.326628+00:00",
+  "updated_at": "2026-10-06T12:04:36.713180+00:00",
   "source": "kelpy-dashboard"
 }
