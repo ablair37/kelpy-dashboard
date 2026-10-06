@@ -22,11 +22,15 @@
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
+      "current_state": "in progress"
     },
     {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -41,12 +45,12 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Bottle mead and ship",
@@ -55,12 +59,8 @@
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-06T08:34:21.264138+00:00",
+  "updated_at": "2026-10-06T09:04:23.475374+00:00",
   "source": "kelpy-dashboard"
 }
