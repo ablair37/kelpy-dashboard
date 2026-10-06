@@ -5,6 +5,10 @@
       "current_state": "scheduled"
     },
     {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
@@ -13,20 +17,12 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -38,6 +34,10 @@
     },
     {
       "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
@@ -57,10 +57,10 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
+      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-06T10:05:25.574319+00:00",
+  "updated_at": "2026-10-06T10:34:46.512887+00:00",
   "source": "kelpy-dashboard"
 }
