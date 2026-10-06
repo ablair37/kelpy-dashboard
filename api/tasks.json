@@ -1,8 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -11,6 +15,10 @@
     {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -25,23 +33,15 @@
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Weekly cash-flow watch",
+      "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     },
     {
@@ -49,18 +49,18 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
       "title": "CarMax past-due payment",
       "current_state": "in progress"
     },
     {
-      "title": "Work Bluetooth headset purchase",
+      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-06T19:38:12.440273+00:00",
+  "updated_at": "2026-10-06T20:05:39.233303+00:00",
   "source": "kelpy-dashboard"
 }
