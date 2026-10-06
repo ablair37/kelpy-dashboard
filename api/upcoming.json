@@ -1,38 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Headset price re-check",
-      "when": "Tue 10/06 9:47 AM"
+      "title": "Headset price check",
+      "when": "Tue 10/06 09:47 AM"
     },
     {
       "title": "Catch-up call",
-      "when": "Tue 10/06 5:30 PM"
+      "when": "Tue 10/06 05:30 PM"
     },
     {
       "title": "Cancel streaming trial",
-      "when": "Wed 10/07 9:47 AM"
+      "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Catch-up call draft, awaiting approval",
+      "title": "Catch-up call",
       "when": "Wed 10/07 12:00 PM"
     },
     {
-      "title": "Buy reminder: bathroom cleaner",
+      "title": "Cleaning supply purchase",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Catch-up call draft, awaiting approval",
+      "title": "Catch-up call",
       "when": "Thu 10/08 12:00 PM"
     },
     {
-      "title": "Verify meal-delivery balance settled",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Investment news check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Disney-shares call check-in",
-      "when": "Fri 10/09 10:47 AM"
+      "title": "Payment balance check",
+      "when": "Fri 10/09 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-06T11:04:53.627805+00:00",
+  "updated_at": "2026-10-06T11:34:30.326628+00:00",
   "source": "kelpy-dashboard"
 }
