@@ -1,34 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Catch-up call",
-      "when": "Tue 10/06 4:00 PM"
+      "title": "Catch-up call reminder",
+      "when": "Tue 10/06 04:00 PM"
     },
     {
-      "title": "Cancel subscription trial",
-      "when": "Wed 10/07 9:47 AM"
+      "title": "Cancel Paramount+ trial reminder",
+      "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Buy bathroom cleaner",
+      "title": "Reconnect call draft",
+      "when": "Wed 10/07 12:00 PM"
+    },
+    {
+      "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Payment status check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Reconnect call draft",
+      "when": "Thu 10/08 12:00 PM"
     },
     {
-      "title": "Shareholder services call check-in",
+      "title": "Factor payment check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
     },
     {
-      "title": "Suspended account restoration",
-      "when": "Sat 10/17"
-    },
-    {
-      "title": "Subscription ends",
-      "when": "Tue 10/27"
+      "title": "Reconnect call draft",
+      "when": "Fri 10/09 12:00 PM"
     }
   ],
-  "updated_at": "2026-10-06T19:06:13.190877+00:00",
+  "updated_at": "2026-10-06T19:38:12.440273+00:00",
   "source": "kelpy-dashboard"
 }
