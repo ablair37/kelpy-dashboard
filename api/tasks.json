@@ -9,15 +9,19 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship to sister",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Florida car plate and insurance switch",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     },
     {
@@ -25,24 +29,8 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -57,10 +45,22 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Tax filing catch-up",
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "CarMax past-due payment",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-06T15:36:50.238209+00:00",
+  "updated_at": "2026-10-06T16:05:13.735116+00:00",
   "source": "kelpy-dashboard"
 }
