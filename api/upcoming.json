@@ -5,15 +5,19 @@
       "when": "Tue 10/06 5:30 PM"
     },
     {
-      "title": "Cancel Paramount+ trial reminder",
+      "title": "Cancel Paramount+ trial",
       "when": "Wed 10/07 9:47 AM"
+    },
+    {
+      "title": "Free usage limit resets",
+      "when": "Wed 10/07 8:37 PM"
     },
     {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
+      "title": "Factor payment check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
@@ -25,10 +29,10 @@
       "when": "Fri 10/09 10:47 AM"
     },
     {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 10/11 6:47 PM"
+      "title": "ColoVAX service reset",
+      "when": "Sat 10/17 12:00 AM"
     }
   ],
-  "updated_at": "2026-10-06T09:35:21.964869+00:00",
+  "updated_at": "2026-10-06T10:05:25.574319+00:00",
   "source": "kelpy-dashboard"
 }
