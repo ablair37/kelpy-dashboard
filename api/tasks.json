@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
     },
     {
       "title": "Canceling unwanted subscriptions",
@@ -25,12 +25,12 @@
       "current_state": "scheduled"
     },
     {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Bottle mead and ship",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -41,26 +41,26 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     },
     {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-06T20:38:19.654737+00:00",
+  "updated_at": "2026-10-06T21:11:06.051543+00:00",
   "source": "kelpy-dashboard"
 }
