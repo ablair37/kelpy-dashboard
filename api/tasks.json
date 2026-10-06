@@ -21,16 +21,16 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -49,18 +49,18 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "CarMax past-due payment",
+      "title": "Tax filing catch-up",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Florida car plate and insurance switch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-06T17:36:33.125254+00:00",
+  "updated_at": "2026-10-06T18:06:07.482720+00:00",
   "source": "kelpy-dashboard"
 }
