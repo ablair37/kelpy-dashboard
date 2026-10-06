@@ -1,20 +1,20 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "title": "Car loan payment past due",
+      "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "scheduled"
+      "title": "Reconnecting with contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "current_state": "in progress"
     },
     {
       "title": "Canceling unwanted subscriptions",
@@ -22,45 +22,45 @@
     },
     {
       "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
+      "title": "Cancel streaming trial",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship batch",
+      "current_state": "waiting on you"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "ID renewal tracking",
       "current_state": "in progress"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
+      "title": "Bathroom cleaner purchase",
       "current_state": "scheduled"
     },
     {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "Liquidate stock via Computershare",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-06T22:06:12.107763+00:00",
+  "updated_at": "2026-10-06T22:35:22.063637+00:00",
   "source": "kelpy-dashboard"
 }
