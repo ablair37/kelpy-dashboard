@@ -5,6 +5,10 @@
       "when": "Wed 10/07 09:47 AM"
     },
     {
+      "title": "Review pending call invite draft",
+      "when": "Wed 10/07 12:00 PM"
+    },
+    {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
@@ -17,6 +21,6 @@
       "when": "Fri 10/09 10:47 AM"
     }
   ],
-  "updated_at": "2026-10-07T11:04:30.894386+00:00",
+  "updated_at": "2026-10-07T11:34:42.078306+00:00",
   "source": "kelpy-dashboard"
 }
