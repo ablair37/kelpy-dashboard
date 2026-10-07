@@ -1,7 +1,19 @@
 {
   "tasks": [
     {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram new-message watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -9,16 +21,16 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -29,7 +41,15 @@
       "current_state": "scheduled"
     },
     {
-      "title": "ID renewal tracking",
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
     },
     {
@@ -37,30 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T13:35:02.385709+00:00",
+  "updated_at": "2026-10-07T14:04:51.841552+00:00",
   "source": "kelpy-dashboard"
 }
