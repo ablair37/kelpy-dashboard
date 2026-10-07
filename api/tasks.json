@@ -6,7 +6,7 @@
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
       "title": "CarMax past-due payment",
@@ -25,16 +25,20 @@
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -55,12 +59,8 @@
     {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T02:11:42.854834+00:00",
+  "updated_at": "2026-10-07T02:45:07.210433+00:00",
   "source": "kelpy-dashboard"
 }
