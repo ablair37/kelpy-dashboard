@@ -1,38 +1,18 @@
 {
   "upcoming": [
     {
-      "title": "Catch-up call",
-      "when": "Wed 10/07 12:00 PM"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 evening"
-    },
-    {
-      "title": "Free weekly limit resets",
-      "when": "Wed 10/07 8:37 PM"
-    },
-    {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Factor payment one-week check",
+      "title": "Factor payment week check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "Netlify credits reset (projects restore)",
-      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T15:23:36.263160+00:00",
+  "updated_at": "2026-10-07T15:36:25.362533+00:00",
   "source": "kelpy-dashboard"
 }
