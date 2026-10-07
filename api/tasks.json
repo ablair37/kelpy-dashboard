@@ -5,16 +5,20 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
@@ -29,38 +33,34 @@
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Rewards-card offer activation",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     },
     {
       "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Tax filing catch-up",
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship batch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T07:35:05.582057+00:00",
+  "updated_at": "2026-10-07T08:04:35.058896+00:00",
   "source": "kelpy-dashboard"
 }
