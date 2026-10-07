@@ -2,11 +2,27 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
     },
     {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -17,15 +33,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
       "current_state": "in progress"
     },
     {
@@ -33,11 +41,11 @@
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "CarMax past-due payment",
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
+      "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
@@ -45,22 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "ID renewal tracking",
-      "current_state": "waiting on you"
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Rewards-card offer activation",
+      "title": "Bottle mead and ship to sister",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T21:04:37.583540+00:00",
+  "updated_at": "2026-10-07T21:34:23.809666+00:00",
   "source": "kelpy-dashboard"
 }
