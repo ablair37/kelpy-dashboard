@@ -49,18 +49,18 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Clorox bathroom cleaner purchase",
       "current_state": "in progress"
     },
     {
       "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T20:04:16.877378+00:00",
+  "updated_at": "2026-10-07T20:34:40.591433+00:00",
   "source": "kelpy-dashboard"
 }
