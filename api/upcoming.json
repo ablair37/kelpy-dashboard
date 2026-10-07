@@ -1,34 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial reminder",
-      "when": "Wed 10/7 09:47 AM"
+      "title": "Cancel Paramount+ trial",
+      "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Headset price watch",
-      "when": "Wed 10/7 09:47 AM"
+      "title": "Headset price check",
+      "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Clorox cleaner buy reminder",
-      "when": "Thu 10/8 10:47 AM"
+      "title": "Clorox buy nudge",
+      "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment week check",
-      "when": "Fri 10/9 09:47 AM"
+      "title": "IPO weekly check",
+      "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/9 09:47 AM"
+      "title": "Factor payment check",
+      "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Computershare call check-in",
-      "when": "Fri 10/9 10:47 AM"
+      "when": "Fri 10/09 10:47 AM"
     },
     {
       "title": "Weekly reconnection check-in",
-      "when": "Sun 10/11 06:47 PM"
+      "when": "Sun 10/11 6:47 PM"
+    },
+    {
+      "title": "Netlify projects restore",
+      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-06T23:36:50.150767+00:00",
+  "updated_at": "2026-10-07T00:06:34.398069+00:00",
   "source": "kelpy-dashboard"
 }
