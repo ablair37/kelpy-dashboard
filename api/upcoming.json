@@ -1,19 +1,19 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07"
-    },
-    {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
-      "when": "Fri 10/09 09:47 AM"
+      "title": "Catch-up call draft to approve",
+      "when": "Thu 10/08 12:00 PM"
     },
     {
       "title": "Anthropic IPO weekly check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Factor payment recheck",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -21,14 +21,18 @@
       "when": "Fri 10/09 10:47 AM"
     },
     {
-      "title": "ColoVAX credit reset",
-      "when": "Sat 10/17"
+      "title": "Catch-up call draft to approve",
+      "when": "Fri 10/09 12:00 PM"
     },
     {
-      "title": "Move files before Adobe plan ends",
-      "when": "Tue 10/27"
+      "title": "Catch-up call draft to approve",
+      "when": "Sat 10/10 12:30 PM"
+    },
+    {
+      "title": "Netlify credits reset (ColoVAX restore)",
+      "when": "Sat 10/17 12:00 AM"
     }
   ],
-  "updated_at": "2026-10-07T20:04:16.877378+00:00",
+  "updated_at": "2026-10-07T20:34:40.591433+00:00",
   "source": "kelpy-dashboard"
 }
