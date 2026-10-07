@@ -1,8 +1,16 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -13,15 +21,11 @@
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "ID renewal tracking",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
@@ -29,7 +33,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Florida car plate and insurance switch",
+      "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     },
     {
@@ -37,30 +41,26 @@
       "current_state": "in progress"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "Inbox triage watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T12:34:57.226671+00:00",
+  "updated_at": "2026-10-07T13:04:25.288096+00:00",
   "source": "kelpy-dashboard"
 }
