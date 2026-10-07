@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "CarMax past-due payment",
@@ -17,12 +17,12 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -61,6 +61,6 @@
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-07T02:45:07.210433+00:00",
+  "updated_at": "2026-10-07T03:15:02.485152+00:00",
   "source": "kelpy-dashboard"
 }
