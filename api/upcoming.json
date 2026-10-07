@@ -1,12 +1,8 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial reminder",
-      "when": "Wed 10/07 9:47 AM"
-    },
-    {
-      "title": "Headset price check",
-      "when": "Wed 10/07 9:47 AM"
+      "title": "Cancel Paramount+ trial",
+      "when": "Wed 10/07 09:47 AM"
     },
     {
       "title": "Clorox cleaner buy reminder",
@@ -14,25 +10,13 @@
     },
     {
       "title": "Factor payment one-week check",
-      "when": "Fri 10/09 9:47 AM"
+      "when": "Fri 10/09 09:47 AM"
     },
     {
       "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 10/11 6:47 PM"
-    },
-    {
-      "title": "Adobe plan ends, move cloud files to Drive",
-      "when": "Tue 10/27"
     }
   ],
-  "updated_at": "2026-10-07T10:34:38.988499+00:00",
+  "updated_at": "2026-10-07T11:04:30.894386+00:00",
   "source": "kelpy-dashboard"
 }
