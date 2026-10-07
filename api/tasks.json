@@ -17,6 +17,10 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
@@ -29,38 +33,34 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship to sister",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
-      "title": "ID renewal tracking",
-      "current_state": "in progress"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T08:34:27.973756+00:00",
+  "updated_at": "2026-10-07T09:04:44.760964+00:00",
   "source": "kelpy-dashboard"
 }
