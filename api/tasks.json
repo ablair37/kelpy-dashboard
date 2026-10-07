@@ -1,16 +1,20 @@
 {
   "tasks": [
     {
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -37,16 +41,16 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Canceling unwanted subscriptions",
@@ -55,12 +59,8 @@
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T11:04:30.894386+00:00",
+  "updated_at": "2026-10-07T11:34:42.078306+00:00",
   "source": "kelpy-dashboard"
 }
