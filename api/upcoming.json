@@ -21,6 +21,10 @@
       "when": "Fri 10/09 10:47 AM"
     },
     {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/11 6:47 PM"
+    },
+    {
       "title": "Suspended projects restore",
       "when": "Sat 10/17 12:00 AM"
     },
@@ -29,6 +33,6 @@
       "when": "Tue 10/27 12:00 AM"
     }
   ],
-  "updated_at": "2026-10-07T17:36:24.487737+00:00",
+  "updated_at": "2026-10-07T18:04:28.671848+00:00",
   "source": "kelpy-dashboard"
 }
