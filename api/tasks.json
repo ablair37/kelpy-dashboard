@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
@@ -17,7 +21,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -25,11 +29,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
     },
     {
-      "title": "Canceling unwanted subscriptions",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
@@ -41,26 +45,22 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "ID renewal tracking",
-      "current_state": "waiting on you"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
     },
     {
       "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Price-drop money-back watch",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T22:34:40.889497+00:00",
+  "updated_at": "2026-10-07T23:05:13.112984+00:00",
   "source": "kelpy-dashboard"
 }
