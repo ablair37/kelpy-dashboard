@@ -2,7 +2,7 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -41,16 +41,12 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "ID renewal tracking",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -59,8 +55,12 @@
     {
       "title": "Clorox bathroom cleaner purchase",
       "current_state": "in progress"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T17:08:23.100049+00:00",
+  "updated_at": "2026-10-07T17:36:24.487737+00:00",
   "source": "kelpy-dashboard"
 }
