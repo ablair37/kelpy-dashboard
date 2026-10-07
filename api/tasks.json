@@ -5,10 +5,6 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
@@ -21,7 +17,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Canceling unwanted subscriptions",
+      "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
@@ -37,6 +33,10 @@
       "current_state": "in progress"
     },
     {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
@@ -45,22 +45,22 @@
       "current_state": "scheduled"
     },
     {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
+      "title": "ID renewal tracking",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Bottle mead and ship to sister",
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T21:34:23.809666+00:00",
+  "updated_at": "2026-10-07T22:05:16.777868+00:00",
   "source": "kelpy-dashboard"
 }
