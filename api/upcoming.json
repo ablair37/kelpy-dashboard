@@ -1,34 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 9:47 AM"
-    },
-    {
       "title": "Headset price check",
-      "when": "Wed 10/07 9:47 AM"
+      "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Clorox cleaner buy reminder",
+      "title": "Cancel Paramount+ trial",
+      "when": "Wed 10/07 09:47 AM"
+    },
+    {
+      "title": "Clorox cleaner purchase nudge",
       "when": "Thu 10/08 10:47 AM"
     },
     {
+      "title": "Factor payment check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
       "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
-      "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Computershare call check-in",
+      "title": "Computershare follow-up check",
       "when": "Fri 10/09 10:47 AM"
     },
     {
       "title": "Weekly reconnection check-in",
-      "when": "Sun 10/11 6:47 PM"
+      "when": "Sun 10/11 06:47 PM"
+    },
+    {
+      "title": "ColoVAX projects restore",
+      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T07:35:05.582057+00:00",
+  "updated_at": "2026-10-07T08:04:35.058896+00:00",
   "source": "kelpy-dashboard"
 }
