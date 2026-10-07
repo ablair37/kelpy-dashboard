@@ -5,8 +5,16 @@
       "when": "Wed 10/07 (today)"
     },
     {
+      "title": "Bluetooth headset price check",
+      "when": "Thu 10/08 09:47 AM"
+    },
+    {
       "title": "Reminder: buy bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
+    },
+    {
+      "title": "Exchange inbox check",
+      "when": "Thu 10/08"
     },
     {
       "title": "Restore checking balance above zero",
@@ -23,12 +31,8 @@
     {
       "title": "Brokerage call follow-up check",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "Hosted projects restore (credit reset)",
-      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T21:34:23.809666+00:00",
+  "updated_at": "2026-10-07T22:05:16.777868+00:00",
   "source": "kelpy-dashboard"
 }
