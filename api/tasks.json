@@ -1,7 +1,19 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Tax filing catch-up",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -10,14 +22,6 @@
     },
     {
       "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T16:07:15.762211+00:00",
+  "updated_at": "2026-10-07T16:41:14.935540+00:00",
   "source": "kelpy-dashboard"
 }
