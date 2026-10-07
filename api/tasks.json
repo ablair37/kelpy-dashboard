@@ -1,20 +1,20 @@
 {
   "tasks": [
     {
-      "title": "CarMax past-due payment",
-      "current_state": "scheduled"
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -29,7 +29,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Rewards-card offer activation",
+      "title": "Florida car plate and insurance switch",
       "current_state": "waiting on you"
     },
     {
@@ -37,30 +37,30 @@
       "current_state": "in progress"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
-      "title": "Bottle mead and ship",
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T12:04:31.754851+00:00",
+  "updated_at": "2026-10-07T12:34:57.226671+00:00",
   "source": "kelpy-dashboard"
 }
