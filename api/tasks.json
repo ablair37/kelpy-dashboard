@@ -5,12 +5,20 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -25,42 +33,34 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Bottle mead and ship",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     },
     {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Real-estate lead generation",
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Bottle mead and ship batch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T07:04:28.185804+00:00",
+  "updated_at": "2026-10-07T07:35:05.582057+00:00",
   "source": "kelpy-dashboard"
 }
