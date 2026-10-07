@@ -1,15 +1,19 @@
 {
   "tasks": [
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Telegram new-message watch",
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
@@ -17,15 +21,15 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
       "title": "CarMax past-due payment",
       "current_state": "scheduled"
     },
     {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
+      "title": "ID renewal tracking",
       "current_state": "waiting on you"
     },
     {
@@ -33,12 +37,12 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Clorox bathroom cleaner purchase",
       "current_state": "in progress"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -53,14 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Inbox triage watch",
-      "current_state": "in progress"
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T13:04:25.288096+00:00",
+  "updated_at": "2026-10-07T13:35:02.385709+00:00",
   "source": "kelpy-dashboard"
 }
