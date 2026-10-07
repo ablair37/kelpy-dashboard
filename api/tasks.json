@@ -49,18 +49,18 @@
       "current_state": "in progress"
     },
     {
+      "title": "ID renewal tracking",
+      "current_state": "in progress"
+    },
+    {
       "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     },
     {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-07T04:44:31.058509+00:00",
+  "updated_at": "2026-10-07T05:34:23.737027+00:00",
   "source": "kelpy-dashboard"
 }
