@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
@@ -21,10 +25,6 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
@@ -33,7 +33,15 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     },
     {
@@ -45,22 +53,14 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Rewards-card offer activation",
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
+      "title": "Bottle mead and ship",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T23:05:13.112984+00:00",
+  "updated_at": "2026-10-07T23:36:09.560723+00:00",
   "source": "kelpy-dashboard"
 }
