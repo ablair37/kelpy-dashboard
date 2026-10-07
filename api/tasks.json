@@ -2,7 +2,7 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -21,15 +21,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
@@ -37,30 +29,38 @@
       "current_state": "in progress"
     },
     {
-      "title": "Bottle mead and ship to sister",
-      "current_state": "waiting on you"
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
     },
     {
       "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
+      "title": "Bottle mead and ship",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-07T00:36:32.528837+00:00",
+  "updated_at": "2026-10-07T01:06:03.613887+00:00",
   "source": "kelpy-dashboard"
 }
