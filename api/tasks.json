@@ -49,18 +49,18 @@
       "current_state": "in progress"
     },
     {
-      "title": "ID renewal tracking",
-      "current_state": "in progress"
-    },
-    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-07T06:34:14.602184+00:00",
+  "updated_at": "2026-10-07T07:04:28.185804+00:00",
   "source": "kelpy-dashboard"
 }
