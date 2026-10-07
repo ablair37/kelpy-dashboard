@@ -5,30 +5,18 @@
       "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Headset price recheck",
-      "when": "Wed 10/07 09:47 AM"
-    },
-    {
-      "title": "Clorox cleaner buy nudge",
+      "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment check",
-      "when": "Fri 10/09 09:47 AM"
-    },
-    {
-      "title": "IPO weekly check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
       "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "Projects restore after Netlify reset",
-      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T01:44:33.780950+00:00",
+  "updated_at": "2026-10-07T02:11:42.854834+00:00",
   "source": "kelpy-dashboard"
 }
