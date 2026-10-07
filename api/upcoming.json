@@ -5,7 +5,11 @@
       "when": "Wed 10/07 09:47 AM"
     },
     {
-      "title": "Review pending call invite draft",
+      "title": "Headset price re-check",
+      "when": "Wed 10/07 09:47 AM"
+    },
+    {
+      "title": "Scheduled catch-up call",
       "when": "Wed 10/07 12:00 PM"
     },
     {
@@ -13,14 +17,22 @@
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
+      "title": "Factor payment check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Computershare call check-in",
+      "title": "IPO watch: weekly check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Computershare follow-up check",
       "when": "Fri 10/09 10:47 AM"
+    },
+    {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/11 06:47 PM"
     }
   ],
-  "updated_at": "2026-10-07T11:34:42.078306+00:00",
+  "updated_at": "2026-10-07T12:04:31.754851+00:00",
   "source": "kelpy-dashboard"
 }
