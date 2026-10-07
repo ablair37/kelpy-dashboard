@@ -1,38 +1,30 @@
 {
   "upcoming": [
     {
-      "title": "Clorox cleaner buy reminder",
+      "title": "Cancel streaming trial before renewal",
+      "when": "Wed 10/07 (today)"
+    },
+    {
+      "title": "Reminder: buy bathroom cleaner",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Catch-up call draft to approve",
-      "when": "Thu 10/08 12:00 PM"
-    },
-    {
-      "title": "Anthropic IPO weekly check",
+      "title": "Balance payment one-week check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment recheck",
-      "when": "Fri 10/09 09:47 AM"
-    },
-    {
-      "title": "Computershare call check-in",
+      "title": "Brokerage call follow-up check",
       "when": "Fri 10/09 10:47 AM"
     },
     {
-      "title": "Catch-up call draft to approve",
-      "when": "Fri 10/09 12:00 PM"
+      "title": "Weekly IPO watch check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Catch-up call draft to approve",
-      "when": "Sat 10/10 12:30 PM"
-    },
-    {
-      "title": "Netlify credits reset (ColoVAX restore)",
-      "when": "Sat 10/17 12:00 AM"
+      "title": "Hosted projects restore (credit reset)",
+      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T20:34:40.591433+00:00",
+  "updated_at": "2026-10-07T21:04:37.583540+00:00",
   "source": "kelpy-dashboard"
 }
