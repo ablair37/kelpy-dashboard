@@ -2,21 +2,37 @@
   "upcoming": [
     {
       "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 09:47 AM"
+      "when": "Wed 10/07 9:47 AM"
+    },
+    {
+      "title": "Review call invite draft",
+      "when": "Wed 10/07 12:00 PM"
     },
     {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
+      "title": "Review call invite draft",
+      "when": "Thu 10/08 12:00 PM"
+    },
+    {
       "title": "Factor payment one-week check",
-      "when": "Fri 10/09 09:47 AM"
+      "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "IPO weekly check",
+      "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
+    },
+    {
+      "title": "Review call invite draft",
+      "when": "Fri 10/09 12:00 PM"
     }
   ],
-  "updated_at": "2026-10-07T02:11:42.854834+00:00",
+  "updated_at": "2026-10-07T02:45:07.210433+00:00",
   "source": "kelpy-dashboard"
 }
