@@ -5,19 +5,19 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Free weekly limit resets",
-      "when": "Wed 10/07 8:37 PM"
+      "title": "Headset price check",
+      "when": "Wed 10/07 9:47 AM"
     },
     {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
+      "title": "Anthropic IPO weekly check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
@@ -27,12 +27,8 @@
     {
       "title": "Weekly reconnection check-in",
       "when": "Sun 10/11 6:47 PM"
-    },
-    {
-      "title": "ColoVAX credit reset",
-      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T07:04:28.185804+00:00",
+  "updated_at": "2026-10-07T07:35:05.582057+00:00",
   "source": "kelpy-dashboard"
 }
