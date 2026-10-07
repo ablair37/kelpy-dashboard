@@ -5,11 +5,7 @@
       "when": "Wed 10/07 9:47 AM"
     },
     {
-      "title": "Headset price check",
-      "when": "Wed 10/07 9:47 AM"
-    },
-    {
-      "title": "Clorox buy nudge",
+      "title": "Cleaner buy nudge",
       "when": "Thu 10/08 10:47 AM"
     },
     {
@@ -29,10 +25,10 @@
       "when": "Sun 10/11 6:47 PM"
     },
     {
-      "title": "Netlify projects restore",
+      "title": "ColoVAX projects restore",
       "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-07T00:06:34.398069+00:00",
+  "updated_at": "2026-10-07T00:36:32.528837+00:00",
   "source": "kelpy-dashboard"
 }
