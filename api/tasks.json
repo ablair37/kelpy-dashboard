@@ -1,12 +1,16 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "waiting on you"
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "blocked"
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -21,20 +25,20 @@
       "current_state": "in progress"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -42,10 +46,6 @@
     },
     {
       "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
       "current_state": "waiting on you"
     },
     {
@@ -57,10 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "Factor failed-payment fix",
+      "title": "CarMax past-due payment",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-08T14:44:29.621566+00:00",
+  "updated_at": "2026-10-08T15:06:58.794814+00:00",
   "source": "kelpy-dashboard"
 }
