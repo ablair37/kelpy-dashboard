@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
       "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
     },
     {
       "title": "Anthropic IPO watch",
@@ -61,6 +61,6 @@
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-08T12:05:37.084815+00:00",
+  "updated_at": "2026-10-08T12:35:12.732104+00:00",
   "source": "kelpy-dashboard"
 }
