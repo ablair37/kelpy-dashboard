@@ -2,22 +2,22 @@
   "upcoming": [
     {
       "title": "Cancel Paramount+ trial",
-      "when": "Wed 10/07 11:59 PM"
+      "when": "Thu 10/08"
     },
     {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Bank balance above zero deadline",
+      "title": "Cash-flow deadline",
       "when": "Thu 10/08 11:59 PM"
     },
     {
-      "title": "Factor payment one-week check",
+      "title": "Anthropic IPO weekly check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Anthropic IPO weekly check",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -25,14 +25,14 @@
       "when": "Fri 10/09 10:47 AM"
     },
     {
-      "title": "ColoVAX credit reset",
-      "when": "Sat 10/17 12:00 AM"
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/11 06:47 PM"
     },
     {
-      "title": "Adobe plan ends, move files to Drive",
-      "when": "Tue 10/27 12:00 AM"
+      "title": "ColoVAX credit reset",
+      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T03:34:28.371661+00:00",
+  "updated_at": "2026-10-08T04:05:35.913374+00:00",
   "source": "kelpy-dashboard"
 }
