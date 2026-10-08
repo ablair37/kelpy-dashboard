@@ -1,34 +1,22 @@
 {
   "upcoming": [
     {
-      "title": "Exchange inbox check",
-      "when": "Thu 10/08 8:47 AM"
-    },
-    {
-      "title": "Headset price check",
-      "when": "Thu 10/08 9:47 AM"
-    },
-    {
-      "title": "Bathroom cleaner buy reminder",
+      "title": "Buy bathroom cleaner reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Factor payment one-week check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Meal-kit payment one-week check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Anthropic IPO weekly check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Brokerage call follow-up",
+      "title": "Computershare call check-in",
       "when": "Fri 10/09 10:47 AM"
-    },
-    {
-      "title": "Reconnection check-in",
-      "when": "Sun 10/11 6:47 PM"
     }
   ],
-  "updated_at": "2026-10-08T06:04:15.237399+00:00",
+  "updated_at": "2026-10-08T06:34:40.533636+00:00",
   "source": "kelpy-dashboard"
 }
