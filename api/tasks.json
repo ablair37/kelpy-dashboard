@@ -1,16 +1,20 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Liquidate Disney shares via Computershare",
-      "current_state": "waiting on you"
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
     },
     {
       "title": "Tax filing catch-up",
@@ -29,15 +33,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
@@ -54,13 +54,13 @@
     },
     {
       "title": "ID renewal tracking",
-      "current_state": "in progress"
+      "current_state": "waiting on you"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-08T03:04:20.372182+00:00",
+  "updated_at": "2026-10-08T03:34:28.371661+00:00",
   "source": "kelpy-dashboard"
 }
