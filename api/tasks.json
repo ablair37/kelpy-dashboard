@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -21,12 +21,12 @@
       "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
     },
     {
       "title": "Anthropic IPO watch",
@@ -57,10 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "ColoVAX restoration after Netlify suspension",
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-08T14:37:20.829183+00:00",
+  "updated_at": "2026-10-08T14:44:29.621566+00:00",
   "source": "kelpy-dashboard"
 }
