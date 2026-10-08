@@ -9,16 +9,12 @@
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
     },
     {
       "title": "Clorox bathroom cleaner purchase",
@@ -27,6 +23,10 @@
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -39,10 +39,6 @@
     {
       "title": "Tax filing catch-up",
       "current_state": "in progress"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
     },
     {
       "title": "Factor failed-payment fix",
@@ -59,8 +55,12 @@
     {
       "title": "ID renewal tracking",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T08:05:18.452511+00:00",
+  "updated_at": "2026-10-08T08:34:33.700683+00:00",
   "source": "kelpy-dashboard"
 }
