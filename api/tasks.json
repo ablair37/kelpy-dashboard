@@ -1,32 +1,28 @@
 {
   "tasks": [
     {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Tax filing catch-up",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "in progress"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
     },
     {
       "title": "Factor failed-payment fix",
@@ -37,19 +33,19 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
       "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "ID renewal tracking",
       "current_state": "waiting on you"
     },
     {
@@ -58,9 +54,13 @@
     },
     {
       "title": "Rewards-card offer activation",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T00:39:01.487729+00:00",
+  "updated_at": "2026-10-08T01:05:00.327516+00:00",
   "source": "kelpy-dashboard"
 }
