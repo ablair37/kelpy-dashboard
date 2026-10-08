@@ -1,6 +1,18 @@
 {
   "tasks": [
     {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
@@ -9,27 +21,15 @@
       "current_state": "in progress"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
@@ -45,7 +45,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T05:04:47.930641+00:00",
+  "updated_at": "2026-10-08T05:34:34.940805+00:00",
   "source": "kelpy-dashboard"
 }
