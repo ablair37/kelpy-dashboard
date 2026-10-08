@@ -1,8 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -13,7 +17,39 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Tax filing catch-up",
+      "current_state": "in progress"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
@@ -21,46 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Bottle mead and ship",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Tax filing catch-up",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-06T02:04:58.395679+00:00",
+  "updated_at": "2026-10-08T06:34:40.533636+00:00",
   "source": "kelpy-dashboard"
 }
