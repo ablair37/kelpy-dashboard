@@ -41,6 +41,10 @@
       "current_state": "in progress"
     },
     {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
@@ -55,12 +59,8 @@
     {
       "title": "ID renewal tracking",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T07:37:11.793424+00:00",
+  "updated_at": "2026-10-08T08:05:18.452511+00:00",
   "source": "kelpy-dashboard"
 }
