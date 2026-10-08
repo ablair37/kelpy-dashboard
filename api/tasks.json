@@ -1,8 +1,20 @@
 {
   "tasks": [
     {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram new-message watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -13,11 +25,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
+      "title": "CarMax past-due payment",
       "current_state": "scheduled"
     },
     {
@@ -33,15 +41,11 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Clorox bathroom cleaner purchase",
       "current_state": "waiting on you"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-08T13:37:01.640538+00:00",
+  "updated_at": "2026-10-08T14:06:16.802910+00:00",
   "source": "kelpy-dashboard"
 }
