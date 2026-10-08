@@ -1,38 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Buy bathroom cleaner",
+      "title": "Cancel Paramount+ trial before it auto-renews",
+      "when": "Thu 10/08"
+    },
+    {
+      "title": "Bring checking positive by grace deadline",
+      "when": "Thu 10/08 11:59 PM"
+    },
+    {
+      "title": "Bathroom cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Keep checking above zero tonight",
-      "when": "Thu 10/08"
-    },
-    {
-      "title": "Cancel streaming trial before renewal",
-      "when": "Thu 10/08"
+      "title": "Factor payment one-week check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
       "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment recheck",
-      "when": "Fri 10/09 9:47 AM"
-    },
-    {
-      "title": "Computershare call follow-up",
+      "title": "Computershare call completion check-in",
       "when": "Fri 10/09 10:47 AM"
     },
     {
-      "title": "Reconnection check-in",
-      "when": "Sun 10/11 6:47 PM"
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/11 06:47 PM"
     },
     {
-      "title": "ColoVAX credit reset",
+      "title": "Suspended projects restore on credit reset",
       "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T14:37:20.829183+00:00",
+  "updated_at": "2026-10-08T14:44:29.621566+00:00",
   "source": "kelpy-dashboard"
 }
