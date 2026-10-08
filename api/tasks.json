@@ -1,12 +1,28 @@
 {
   "tasks": [
     {
-      "title": "Cancel Paramount+ trial",
-      "current_state": "scheduled"
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
+    },
+    {
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Cancel Paramount+ trial",
+      "current_state": "scheduled"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -21,23 +37,19 @@
       "current_state": "in progress"
     },
     {
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Tax filing catch-up",
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
+      "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
@@ -45,22 +57,10 @@
       "current_state": "scheduled"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "ID renewal tracking",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Rewards-card offer activation",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T04:05:35.913374+00:00",
+  "updated_at": "2026-10-08T04:34:40.812766+00:00",
   "source": "kelpy-dashboard"
 }
