@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "waiting on you"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -33,12 +33,12 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -57,10 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
+      "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-08T15:06:58.794814+00:00",
+  "updated_at": "2026-10-08T15:36:38.358642+00:00",
   "source": "kelpy-dashboard"
 }
