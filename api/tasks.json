@@ -1,12 +1,16 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "Clorox bathroom cleaner purchase",
@@ -15,10 +19,6 @@
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
     },
     {
       "title": "Inbox triage watch",
@@ -41,10 +41,6 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
@@ -59,8 +55,12 @@
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-08T17:52:26.849207+00:00",
+  "updated_at": "2026-10-08T18:52:38.231796+00:00",
   "source": "kelpy-dashboard"
 }
