@@ -1,19 +1,19 @@
 {
   "upcoming": [
     {
-      "title": "Headset price check",
-      "when": "Thu 10/08 09:47 AM"
+      "title": "Paramount+ trial renewal (cancel today)",
+      "when": "Thu 10/08"
     },
     {
-      "title": "Clorox cleaner buy reminder",
+      "title": "Clorox buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Cancel Paramount+ trial",
-      "when": "Thu 10/08 11:59 PM"
+      "title": "Factor payment check",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
+      "title": "Headset price watch",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -21,18 +21,14 @@
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Computershare call check-in",
+      "title": "Computershare call follow-up check",
       "when": "Fri 10/09 10:47 AM"
     },
     {
       "title": "Weekly reconnection check-in",
       "when": "Sun 10/11 06:47 PM"
-    },
-    {
-      "title": "ColoVAX credit reset",
-      "when": "Sat 10/17 12:00 AM"
     }
   ],
-  "updated_at": "2026-10-08T07:06:49.220273+00:00",
+  "updated_at": "2026-10-08T07:37:11.793424+00:00",
   "source": "kelpy-dashboard"
 }
