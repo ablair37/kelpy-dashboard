@@ -5,12 +5,12 @@
       "when": "Thu 10/08"
     },
     {
-      "title": "Bring checking positive by grace deadline",
-      "when": "Thu 10/08 11:59 PM"
-    },
-    {
       "title": "Exchange inbox check",
       "when": "Thu 10/08 04:47 PM"
+    },
+    {
+      "title": "Bring checking positive by grace deadline",
+      "when": "Thu 10/08 11:59 PM"
     },
     {
       "title": "Factor payment one-week check",
@@ -33,6 +33,6 @@
       "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T15:36:38.358642+00:00",
+  "updated_at": "2026-10-08T16:53:51.610498+00:00",
   "source": "kelpy-dashboard"
 }
