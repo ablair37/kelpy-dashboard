@@ -17,16 +17,16 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Clorox bathroom cleaner purchase",
       "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -61,6 +61,6 @@
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T08:34:33.700683+00:00",
+  "updated_at": "2026-10-08T09:05:46.840704+00:00",
   "source": "kelpy-dashboard"
 }
