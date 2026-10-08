@@ -2,6 +2,18 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -9,19 +21,11 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
     },
     {
       "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "CarMax past-due payment",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Real-estate lead generation",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T10:05:24.742026+00:00",
+  "updated_at": "2026-10-08T10:38:00.175278+00:00",
   "source": "kelpy-dashboard"
 }
