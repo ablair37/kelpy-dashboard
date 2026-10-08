@@ -2,30 +2,46 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "ColoVAX restoration",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
       "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
-      "title": "Liquidate Disney shares",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Tax filing catch-up",
       "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "CarMax past-due payment",
       "current_state": "scheduled"
     },
     {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
@@ -33,24 +49,8 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
+      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Bottle mead batch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Rewards-card offers",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
     },
     {
       "title": "Real-estate lead generation",
@@ -58,9 +58,9 @@
     },
     {
       "title": "ID renewal tracking",
-      "current_state": "in progress"
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T01:35:11.118494+00:00",
+  "updated_at": "2026-10-08T02:04:55.653696+00:00",
   "source": "kelpy-dashboard"
 }
