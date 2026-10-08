@@ -1,38 +1,38 @@
 {
   "upcoming": [
     {
+      "title": "Cancel streaming trial before auto-renewal",
+      "when": "Thu 10/08"
+    },
+    {
+      "title": "Restore checking above zero (grace deadline)",
+      "when": "Thu 10/08 11:59 PM"
+    },
+    {
       "title": "Clorox cleaner buy reminder",
-      "when": "Thu 10/8 10:47 AM"
+      "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Cancel Paramount+ trial before renewal",
-      "when": "Thu 10/8 11:59 PM"
+      "title": "Headset price watch",
+      "when": "Thu 10/08 9:47 AM"
     },
     {
-      "title": "Checking balance back above zero",
-      "when": "Thu 10/8 11:59 PM"
-    },
-    {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/9 9:47 AM"
+      "title": "IPO weekly check",
+      "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Factor payment one-week check",
-      "when": "Fri 10/9 9:47 AM"
+      "when": "Fri 10/09 9:47 AM"
     },
     {
       "title": "Computershare call check-in",
-      "when": "Fri 10/9 10:47 AM"
+      "when": "Fri 10/09 10:47 AM"
     },
     {
       "title": "Weekly reconnection check-in",
       "when": "Sun 10/11 6:47 PM"
-    },
-    {
-      "title": "Netlify credit reset restores projects",
-      "when": "Sat 10/17 12:01 AM"
     }
   ],
-  "updated_at": "2026-10-08T02:04:55.653696+00:00",
+  "updated_at": "2026-10-08T02:35:10.138134+00:00",
   "source": "kelpy-dashboard"
 }
