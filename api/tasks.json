@@ -5,12 +5,16 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
       "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram new-message watch",
@@ -33,10 +37,6 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
@@ -57,10 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T03:34:28.371661+00:00",
+  "updated_at": "2026-10-08T04:05:35.913374+00:00",
   "source": "kelpy-dashboard"
 }
