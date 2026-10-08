@@ -5,11 +5,11 @@
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
@@ -41,10 +41,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
-      "current_state": "scheduled"
-    },
-    {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
@@ -53,14 +49,18 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Canceling unwanted subscriptions",
+      "title": "CarMax past-due payment",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Real-estate lead generation",
       "current_state": "waiting on you"
     },
     {
-      "title": "Bottle mead and ship",
+      "title": "ID renewal tracking",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T06:34:40.533636+00:00",
+  "updated_at": "2026-10-08T07:06:49.220273+00:00",
   "source": "kelpy-dashboard"
 }
