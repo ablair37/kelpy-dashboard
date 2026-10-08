@@ -5,12 +5,12 @@
       "when": "Thu 10/08"
     },
     {
-      "title": "Exchange inbox check",
-      "when": "Thu 10/08 04:47 PM"
+      "title": "Wells Fargo deposit reminder (grace deadline tonight)",
+      "when": "Thu 10/08 06:47 PM"
     },
     {
-      "title": "Bring checking positive by grace deadline",
-      "when": "Thu 10/08 11:59 PM"
+      "title": "Exchange inbox check",
+      "when": "Fri 10/09 12:47 AM"
     },
     {
       "title": "Factor payment one-week check",
@@ -33,6 +33,6 @@
       "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T18:52:38.231796+00:00",
+  "updated_at": "2026-10-08T19:53:24.950147+00:00",
   "source": "kelpy-dashboard"
 }
