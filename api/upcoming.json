@@ -5,7 +5,7 @@
       "when": "Thu 10/08"
     },
     {
-      "title": "Headset price watch",
+      "title": "Headset price check",
       "when": "Thu 10/08 09:47 AM"
     },
     {
@@ -13,11 +13,11 @@
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Cash-flow deadline",
-      "when": "Thu 10/08 11:59 PM"
+      "title": "Factor payment recheck",
+      "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "Factor payment one-week check",
+      "title": "Anthropic IPO weekly check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -33,6 +33,6 @@
       "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T05:04:47.930641+00:00",
+  "updated_at": "2026-10-08T05:34:34.940805+00:00",
   "source": "kelpy-dashboard"
 }
