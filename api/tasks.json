@@ -6,7 +6,7 @@
     },
     {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -29,16 +29,16 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Clorox bathroom cleaner purchase",
       "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "Cancel Paramount+ trial",
@@ -49,18 +49,18 @@
       "current_state": "in progress"
     },
     {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
       "title": "CarMax past-due payment",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Real-estate lead generation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T12:35:12.732104+00:00",
+  "updated_at": "2026-10-08T13:06:56.101116+00:00",
   "source": "kelpy-dashboard"
 }
