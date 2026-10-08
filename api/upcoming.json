@@ -5,23 +5,19 @@
       "when": "Thu 10/08 09:47 AM"
     },
     {
-      "title": "Cleaner buy reminder",
+      "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Checking restore deadline",
-      "when": "Thu 10/08 11:59 PM"
-    },
-    {
-      "title": "Cancel streaming trial",
+      "title": "Cancel Paramount+ trial",
       "when": "Thu 10/08"
     },
     {
-      "title": "Factor payment recheck",
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
-      "title": "IPO weekly check",
+      "title": "Anthropic IPO weekly check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -31,8 +27,12 @@
     {
       "title": "Weekly reconnection check-in",
       "when": "Sun 10/11 06:47 PM"
+    },
+    {
+      "title": "ColoVAX credit reset",
+      "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T09:35:37.415752+00:00",
+  "updated_at": "2026-10-08T10:05:24.742026+00:00",
   "source": "kelpy-dashboard"
 }
