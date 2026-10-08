@@ -5,8 +5,8 @@
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Overdraft grace period deadline",
-      "when": "Thu 10/08 11:59 PM"
+      "title": "Overdraft resolved, no fee hit",
+      "when": "Thu 10/08"
     },
     {
       "title": "Cancel streaming trial before renewal",
@@ -33,6 +33,6 @@
       "when": "Sat 10/17"
     }
   ],
-  "updated_at": "2026-10-08T13:37:01.640538+00:00",
+  "updated_at": "2026-10-08T14:06:16.802910+00:00",
   "source": "kelpy-dashboard"
 }
