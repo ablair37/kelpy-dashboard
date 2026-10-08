@@ -1,27 +1,23 @@
 {
   "upcoming": [
     {
-      "title": "Cancel streaming trial before auto-renewal",
-      "when": "Thu 10/08"
-    },
-    {
-      "title": "Restore checking above zero (grace deadline)",
-      "when": "Thu 10/08 11:59 PM"
+      "title": "Headset price check",
+      "when": "Thu 10/08 9:47 AM"
     },
     {
       "title": "Clorox cleaner buy reminder",
       "when": "Thu 10/08 10:47 AM"
     },
     {
-      "title": "Headset price watch",
-      "when": "Thu 10/08 9:47 AM"
-    },
-    {
-      "title": "IPO weekly check",
-      "when": "Fri 10/09 9:47 AM"
+      "title": "Cancel Paramount+ trial",
+      "when": "Thu 10/08"
     },
     {
       "title": "Factor payment one-week check",
+      "when": "Fri 10/09 9:47 AM"
+    },
+    {
+      "title": "Anthropic IPO weekly check",
       "when": "Fri 10/09 9:47 AM"
     },
     {
@@ -33,6 +29,6 @@
       "when": "Sun 10/11 6:47 PM"
     }
   ],
-  "updated_at": "2026-10-08T02:35:10.138134+00:00",
+  "updated_at": "2026-10-08T03:04:20.372182+00:00",
   "source": "kelpy-dashboard"
 }
