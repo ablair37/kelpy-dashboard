@@ -1,43 +1,43 @@
 {
   "tasks": [
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "in progress"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
-      "title": "Work Bluetooth headset purchase",
+      "title": "Cancel Paramount+ trial",
       "current_state": "scheduled"
     },
     {
       "title": "Tax filing catch-up",
-      "current_state": "waiting on you"
+      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
+      "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Cancel Paramount+ trial",
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
@@ -49,18 +49,18 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "ID renewal tracking",
       "current_state": "waiting on you"
     },
     {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
+      "title": "Clorox bathroom cleaner purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-08T00:05:51.579590+00:00",
+  "updated_at": "2026-10-08T00:39:01.487729+00:00",
   "source": "kelpy-dashboard"
 }
