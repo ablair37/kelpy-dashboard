@@ -1,23 +1,11 @@
 {
   "tasks": [
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -25,19 +13,35 @@
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
+      "title": "NFL survivor game Week 5 pick",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
       "title": "Factor failed-payment fix",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "Inbox triage watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-09T11:59:35.424212+00:00",
+  "updated_at": "2026-10-09T20:01:00.078435+00:00",
   "source": "kelpy-dashboard"
 }
