@@ -1,23 +1,15 @@
 {
   "upcoming": [
     {
-      "title": "Cancel Paramount+ trial before it auto-renews",
-      "when": "Thu 10/08"
-    },
-    {
-      "title": "Wells Fargo deposit reminder (grace deadline tonight)",
-      "when": "Thu 10/08 06:47 PM"
-    },
-    {
-      "title": "Exchange inbox check",
-      "when": "Fri 10/09 12:47 AM"
-    },
-    {
-      "title": "Factor payment one-week check",
-      "when": "Fri 10/09 09:47 AM"
+      "title": "Ukraine news watch (daily group share)",
+      "when": "Fri 10/09 08:47 AM"
     },
     {
       "title": "Anthropic IPO weekly check",
+      "when": "Fri 10/09 09:47 AM"
+    },
+    {
+      "title": "Factor payment one-week check",
       "when": "Fri 10/09 09:47 AM"
     },
     {
@@ -31,8 +23,12 @@
     {
       "title": "Suspended projects restore on credit reset",
       "when": "Sat 10/17"
+    },
+    {
+      "title": "CarMax 30-day past-due check",
+      "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-08T19:53:24.950147+00:00",
+  "updated_at": "2026-10-09T11:59:35.424212+00:00",
   "source": "kelpy-dashboard"
 }
