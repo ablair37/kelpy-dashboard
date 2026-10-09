@@ -37,12 +37,6 @@
       "to": "Coral"
     },
     {
-      "from": "Kelpy",
-      "kind": "Report",
-      "title": "Missing Response field on Exchange rows",
-      "to": "Winston"
-    },
-    {
       "from": "Poke",
       "kind": "Report",
       "title": "Poke connection test \u2014 2026-10-02 (updated)",
@@ -57,11 +51,17 @@
     {
       "from": "Winston",
       "kind": "Report",
-      "title": "Manual handshake example \u2014 Kelpy",
-      "to": "Kelpy"
+      "title": "Manual handshake example \u2014 Poke",
+      "to": "Poke"
+    },
+    {
+      "from": "Winston",
+      "kind": "Report",
+      "title": "Manual handshake example \u2014 Coral",
+      "to": "Coral"
     }
   ],
-  "open_count": 12,
-  "updated_at": "2026-10-08T19:53:24.950147+00:00",
+  "open_count": 11,
+  "updated_at": "2026-10-09T11:59:35.424212+00:00",
   "source": "kelpy-dashboard"
 }
