@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "from": "Poke",
-      "kind": "Report",
-      "title": "Poke check-in: is the system prompt still in one piece?",
-      "to": "Winston"
-    },
-    {
       "from": "Winston",
       "kind": "Report",
       "title": "PC approval file-write verified: capability update for Poke",
@@ -23,39 +17,9 @@
       "kind": "Report",
       "title": "PC approvals verified: capability update for Coral",
       "to": "Coral"
-    },
-    {
-      "from": "Poke",
-      "kind": "Report",
-      "title": "Poke connection test \u2014 2026-10-02 (updated)",
-      "to": "Adam"
-    },
-    {
-      "from": "",
-      "kind": "Report",
-      "title": "Connection test by Kelpy \u2014 update check succeeded.",
-      "to": "Kelpy"
-    },
-    {
-      "from": "Winston",
-      "kind": "Report",
-      "title": "Manual handshake example \u2014 Poke",
-      "to": "Poke"
-    },
-    {
-      "from": "Winston",
-      "kind": "Report",
-      "title": "Manual handshake example \u2014 Coral",
-      "to": "Coral"
-    },
-    {
-      "from": "Winston",
-      "kind": "Report",
-      "title": "Manual handshake example \u2014 Kelpy",
-      "to": "Kelpy"
     }
   ],
-  "open_count": 9,
-  "updated_at": "2026-10-10T12:00:35.003950+00:00",
+  "open_count": 3,
+  "updated_at": "2026-10-10T20:00:19.163242+00:00",
   "source": "kelpy-dashboard"
 }
