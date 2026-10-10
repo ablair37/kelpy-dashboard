@@ -1,15 +1,15 @@
 {
   "upcoming": [
     {
-      "title": "Catch-up call window",
-      "when": "Sat 10/10 12:30 PM"
-    },
-    {
       "title": "Survivor pick text reminder",
       "when": "Sun 10/11 10:00 AM"
     },
     {
-      "title": "Server hosting auto-charge",
+      "title": "Game-server hosting auto-charge",
+      "when": "Sun 10/11"
+    },
+    {
+      "title": "Headset price check",
       "when": "Sun 10/11"
     },
     {
@@ -17,15 +17,15 @@
       "when": "Sun 10/11 06:47 PM"
     },
     {
-      "title": "Budget projected dry",
-      "when": "Wed 10/14 04:14 PM"
+      "title": "Meal-box auto-ship unless paused",
+      "when": "Tue 10/13"
     },
     {
       "title": "Anthropic IPO weekly check",
       "when": "Fri 10/16 09:47 AM"
     },
     {
-      "title": "Suspended projects restore",
+      "title": "Suspended projects restore (credit reset)",
       "when": "Sat 10/17"
     },
     {
@@ -33,6 +33,6 @@
       "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-10T12:00:35.003950+00:00",
+  "updated_at": "2026-10-10T20:00:19.163242+00:00",
   "source": "kelpy-dashboard"
 }
