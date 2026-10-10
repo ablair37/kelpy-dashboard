@@ -2,18 +2,30 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Stripe VIP complaint",
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
@@ -25,24 +37,12 @@
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Factor failed-payment fix",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
     },
     {
       "title": "Clorox bathroom cleaner purchase",
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-09T20:01:00.078435+00:00",
+  "updated_at": "2026-10-10T04:05:34.485085+00:00",
   "source": "kelpy-dashboard"
 }
