@@ -25,18 +25,6 @@
       "to": "Coral"
     },
     {
-      "from": "Kelpy",
-      "kind": "Request",
-      "title": "",
-      "to": "Coral"
-    },
-    {
-      "from": "Kelpy",
-      "kind": "Request",
-      "title": "Stripe VIP complaint: investigate and report",
-      "to": "Coral"
-    },
-    {
       "from": "Poke",
       "kind": "Report",
       "title": "Poke connection test \u2014 2026-10-02 (updated)",
@@ -59,9 +47,15 @@
       "kind": "Report",
       "title": "Manual handshake example \u2014 Coral",
       "to": "Coral"
+    },
+    {
+      "from": "Winston",
+      "kind": "Report",
+      "title": "Manual handshake example \u2014 Kelpy",
+      "to": "Kelpy"
     }
   ],
-  "open_count": 11,
-  "updated_at": "2026-10-10T04:05:34.485085+00:00",
+  "open_count": 9,
+  "updated_at": "2026-10-10T12:00:35.003950+00:00",
   "source": "kelpy-dashboard"
 }
