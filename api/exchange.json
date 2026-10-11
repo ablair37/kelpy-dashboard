@@ -1,25 +1,25 @@
 {
+  "updated_at": "2026-10-11T03:59:38.929758+00:00",
+  "open_count": 3,
   "items": [
     {
-      "from": "Winston",
-      "kind": "Report",
       "title": "PC approval file-write verified: capability update for Poke",
-      "to": "Poke"
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Winston"
     },
     {
-      "from": "Winston",
-      "kind": "Report",
       "title": "PC approvals verified: capability update for Kelpy",
-      "to": "Kelpy"
+      "kind": "Report",
+      "to": "Kelpy",
+      "from": "Winston"
     },
     {
-      "from": "Winston",
-      "kind": "Report",
       "title": "PC approvals verified: capability update for Coral",
-      "to": "Coral"
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Winston"
     }
   ],
-  "open_count": 3,
-  "updated_at": "2026-10-10T20:00:19.163242+00:00",
   "source": "kelpy-dashboard"
 }
