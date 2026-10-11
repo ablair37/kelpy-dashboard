@@ -1,39 +1,19 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
-    },
-    {
-      "title": "Factor failed-payment fix",
+      "title": "Stripe VIP complaint",
       "current_state": "in progress"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
     },
     {
       "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
-      "title": "Stripe VIP complaint",
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -49,18 +29,38 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
+    },
+    {
+      "title": "Part-time job search",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Clorox bathroom cleaner purchase",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-10T20:00:19.163242+00:00",
+  "updated_at": "2026-10-11T03:59:38.929758+00:00",
   "source": "kelpy-dashboard"
 }
