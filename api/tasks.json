@@ -1,6 +1,22 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Stripe VIP complaint",
       "current_state": "in progress"
     },
@@ -13,15 +29,7 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "NFL survivor game Week 5 pick",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Fights server hosting payment",
       "current_state": "in progress"
     },
     {
@@ -29,8 +37,8 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
     },
     {
       "title": "Part-time job search",
@@ -39,14 +47,6 @@
     {
       "title": "Factor failed-payment fix",
       "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -61,6 +61,6 @@
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-11T03:59:38.929758+00:00",
+  "updated_at": "2026-10-11T11:59:43.485301+00:00",
   "source": "kelpy-dashboard"
 }
