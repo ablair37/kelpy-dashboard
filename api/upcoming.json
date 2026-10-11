@@ -1,20 +1,16 @@
 {
   "upcoming": [
     {
-      "title": "Survivor pick text reminder",
-      "when": "Sun 10/11 10:00 AM"
-    },
-    {
-      "title": "Survivor pick texted",
-      "when": "Sun 10/11 12:00 PM"
-    },
-    {
       "title": "Weekly reconnection check-in",
       "when": "Sun 10/11 06:47 PM"
     },
     {
-      "title": "Game-server hosting auto-charge",
-      "when": "Sun 10/11"
+      "title": "Ukraine news share",
+      "when": "Mon 10/12 08:47 AM"
+    },
+    {
+      "title": "Dashboard token watch",
+      "when": "Mon 10/12 09:47 AM"
     },
     {
       "title": "Game-server hosting invoice due",
@@ -25,14 +21,18 @@
       "when": "Mon 10/12 11:59 PM"
     },
     {
-      "title": "Meal-box auto-ship unless paused",
-      "when": "Tue 10/13"
-    },
-    {
       "title": "Anthropic IPO weekly check",
       "when": "Fri 10/16 09:47 AM"
+    },
+    {
+      "title": "Netlify credits reset",
+      "when": "Sat 10/17"
+    },
+    {
+      "title": "CarMax 30-day check",
+      "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-11T11:59:43.485301+00:00",
+  "updated_at": "2026-10-11T19:59:33.428050+00:00",
   "source": "kelpy-dashboard"
 }
