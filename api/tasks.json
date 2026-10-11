@@ -1,6 +1,26 @@
 {
   "tasks": [
     {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Part-time job search",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
@@ -9,12 +29,8 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Rewards-card offer activation",
+      "current_state": "waiting on you"
     },
     {
       "title": "Stripe VIP complaint",
@@ -25,28 +41,8 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "NFL survivor game Week 5 pick",
-      "current_state": "in progress"
-    },
-    {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Part-time job search",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "in progress"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -59,8 +55,12 @@
     {
       "title": "Canceling unwanted subscriptions",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-11T11:59:43.485301+00:00",
+  "updated_at": "2026-10-11T19:59:33.428050+00:00",
   "source": "kelpy-dashboard"
 }
