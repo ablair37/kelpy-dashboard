@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 10/11 06:47 PM"
-    },
-    {
       "title": "Ukraine news share",
       "when": "Mon 10/12 08:47 AM"
     },
@@ -29,10 +25,14 @@
       "when": "Sat 10/17"
     },
     {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/18 06:47 PM"
+    },
+    {
       "title": "CarMax 30-day check",
       "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-11T19:59:33.428050+00:00",
+  "updated_at": "2026-10-12T03:59:34.977116+00:00",
   "source": "kelpy-dashboard"
 }
