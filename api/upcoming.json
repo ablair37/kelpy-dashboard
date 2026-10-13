@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Checking back positive by overdraft deadline",
-      "when": "Mon 10/12 11:59 PM"
-    },
-    {
       "title": "Factor payment plan needed",
       "when": "Tue 10/13"
     },
@@ -29,6 +25,6 @@
       "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-12T19:59:41.245541+00:00",
+  "updated_at": "2026-10-13T03:59:27.660587+00:00",
   "source": "kelpy-dashboard"
 }
