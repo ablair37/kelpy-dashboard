@@ -1,11 +1,23 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram new-message watch",
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
@@ -13,24 +25,12 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "in progress"
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
@@ -45,12 +45,12 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "in progress"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "in progress"
     },
     {
       "title": "Part-time job search",
@@ -61,6 +61,6 @@
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-12T19:59:41.245541+00:00",
+  "updated_at": "2026-10-13T03:59:27.660587+00:00",
   "source": "kelpy-dashboard"
 }
