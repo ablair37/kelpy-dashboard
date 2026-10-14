@@ -1,22 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Buy bathroom cleaner reminder",
-      "when": "Thu 10/08 10:47 AM"
+      "title": "Headset price re-check",
+      "when": "Wed 10/14"
     },
     {
-      "title": "Factor payment one-week check",
-      "when": "Fri 10/09 09:47 AM"
+      "title": "Stripe payout lands",
+      "when": "Wed 10/14"
     },
     {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/09 09:47 AM"
+      "title": "Catch-up call windows open",
+      "when": "Wed 10/14"
     },
     {
-      "title": "Computershare call check-in",
-      "when": "Fri 10/09 10:47 AM"
+      "title": "IPO weekly check",
+      "when": "Fri 10/16 09:47 AM"
+    },
+    {
+      "title": "Server hosting auto-charge",
+      "when": "Sat 10/17"
+    },
+    {
+      "title": "Hosting credits reset",
+      "when": "Sat 10/17"
+    },
+    {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/18 06:47 PM"
+    },
+    {
+      "title": "CarMax 30-day past-due check",
+      "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-08T06:34:40.533636+00:00",
+  "updated_at": "2026-10-14T03:59:37.248689+00:00",
   "source": "kelpy-dashboard"
 }
