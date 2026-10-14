@@ -39,8 +39,8 @@
     {
       "from": "Winston",
       "kind": "Report",
-      "title": "Manual handshake example \u2014 Poke",
-      "to": "Poke"
+      "title": "Manual handshake example \u2014 Kelpy",
+      "to": "Kelpy"
     },
     {
       "from": "Winston",
@@ -51,11 +51,11 @@
     {
       "from": "Winston",
       "kind": "Report",
-      "title": "Manual handshake example \u2014 Kelpy",
-      "to": "Kelpy"
+      "title": "Manual handshake example \u2014 Poke",
+      "to": "Poke"
     }
   ],
   "open_count": 9,
-  "updated_at": "2026-10-13T20:00:04.025114+00:00",
+  "updated_at": "2026-10-14T12:59:41.619594-04:00",
   "source": "kelpy-dashboard"
 }
