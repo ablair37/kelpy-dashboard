@@ -2,19 +2,31 @@
   "tasks": [
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "in progress"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
-      "title": "Fights server hosting payment",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram new-message watch",
       "current_state": "blocked"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
+      "title": "Fights server hosting payment",
+      "current_state": "waiting on you"
     },
     {
       "title": "CarMax past-due payment",
@@ -25,23 +37,11 @@
       "current_state": "in progress"
     },
     {
-      "title": "Part-time job search",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Factor failed-payment fix",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
       "current_state": "in progress"
     },
     {
@@ -53,14 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
+      "title": "Part-time job search",
+      "current_state": "waiting on you"
     },
     {
       "title": "Canceling unwanted subscriptions",
       "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-14T12:59:41.619594-04:00",
+  "updated_at": "2026-10-14T20:01:35.249973+00:00",
   "source": "kelpy-dashboard"
 }
