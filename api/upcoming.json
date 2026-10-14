@@ -1,23 +1,27 @@
 {
   "upcoming": [
     {
-      "title": "Headset price check",
+      "title": "Headset price re-check",
       "when": "Wed 10/14"
     },
     {
-      "title": "Stripe payout expected",
+      "title": "Stripe payout lands",
       "when": "Wed 10/14"
     },
     {
-      "title": "Anthropic IPO weekly check",
+      "title": "Catch-up call windows open",
+      "when": "Wed 10/14"
+    },
+    {
+      "title": "IPO weekly check",
       "when": "Fri 10/16 09:47 AM"
     },
     {
-      "title": "GTXGaming auto-charge",
+      "title": "Server hosting auto-charge",
       "when": "Sat 10/17"
     },
     {
-      "title": "Netlify credits reset",
+      "title": "Hosting credits reset",
       "when": "Sat 10/17"
     },
     {
@@ -29,6 +33,6 @@
       "when": "Thu 10/22 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-13T20:00:04.025114+00:00",
+  "updated_at": "2026-10-14T12:59:41.619594-04:00",
   "source": "kelpy-dashboard"
 }
