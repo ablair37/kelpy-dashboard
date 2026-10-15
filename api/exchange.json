@@ -1,43 +1,43 @@
 {
+  "updated_at": "2026-10-15T11:59:45.870265+00:00",
+  "open_count": 6,
   "items": [
     {
-      "from": "Poke",
-      "kind": "Report",
       "title": "Poke check-in: is the system prompt still in one piece?",
-      "to": "Winston"
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Poke"
     },
     {
-      "from": "Poke",
-      "kind": "Report",
       "title": "Poke connection test \u2014 2026-10-02 (updated)",
-      "to": "Adam"
+      "kind": "Report",
+      "to": "Adam",
+      "from": "Poke"
     },
     {
-      "from": "",
-      "kind": "Report",
       "title": "Connection test by Kelpy \u2014 update check succeeded.",
-      "to": "Kelpy"
+      "kind": "Report",
+      "to": "Kelpy",
+      "from": ""
     },
     {
-      "from": "Winston",
-      "kind": "Report",
       "title": "Manual handshake example \u2014 Kelpy",
-      "to": "Kelpy"
+      "kind": "Report",
+      "to": "Kelpy",
+      "from": "Winston"
     },
     {
-      "from": "Winston",
-      "kind": "Report",
       "title": "Manual handshake example \u2014 Coral",
-      "to": "Coral"
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Winston"
     },
     {
-      "from": "Winston",
-      "kind": "Report",
       "title": "Manual handshake example \u2014 Poke",
-      "to": "Poke"
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Winston"
     }
   ],
-  "open_count": 6,
-  "updated_at": "2026-10-15T03:59:27.969674+00:00",
   "source": "kelpy-dashboard"
 }
