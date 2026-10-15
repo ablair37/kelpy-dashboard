@@ -2,18 +2,18 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "NFL survivor game Week 6 pick",
       "current_state": "in progress"
     },
     {
@@ -21,24 +21,32 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -51,16 +59,8 @@
     {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Part-time job search",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-15T11:59:45.870265+00:00",
+  "updated_at": "2026-10-15T19:59:42.562712+00:00",
   "source": "kelpy-dashboard"
 }
