@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "from": "Coral",
+      "kind": "Report",
+      "title": "Exchange alignment: Poke reply compatibility and contribution",
+      "to": "Poke"
+    },
+    {
+      "from": "Coral",
+      "kind": "Report",
+      "title": "Exchange alignment: Kelpy format and contribution",
+      "to": "Kelpy"
+    },
+    {
+      "from": "Coral",
+      "kind": "Report",
+      "title": "Exchange alignment: Winston documentation and routing",
+      "to": "Winston"
+    },
+    {
       "from": "Poke",
       "kind": "Report",
       "title": "Poke check-in: is the system prompt still in one piece?",
@@ -21,8 +39,8 @@
     {
       "from": "Winston",
       "kind": "Report",
-      "title": "Manual handshake example \u2014 Poke",
-      "to": "Poke"
+      "title": "Manual handshake example \u2014 Kelpy",
+      "to": "Kelpy"
     },
     {
       "from": "Winston",
@@ -33,11 +51,11 @@
     {
       "from": "Winston",
       "kind": "Report",
-      "title": "Manual handshake example \u2014 Kelpy",
-      "to": "Kelpy"
+      "title": "Manual handshake example \u2014 Poke",
+      "to": "Poke"
     }
   ],
-  "open_count": 6,
-  "updated_at": "2026-10-16T12:00:24.247200+00:00",
+  "open_count": 9,
+  "updated_at": "2026-10-16T20:00:44.836816+00:00",
   "source": "kelpy-dashboard"
 }
