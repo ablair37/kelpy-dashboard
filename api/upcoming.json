@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Anthropic IPO weekly check",
-      "when": "Fri 10/16 9:47 AM"
-    },
-    {
       "title": "WF overdraft grace backstop",
       "when": "Fri 10/16 6:00 PM"
     },
@@ -21,6 +17,10 @@
       "when": "Sat 10/17"
     },
     {
+      "title": "Headset price check",
+      "when": "Sat 10/17"
+    },
+    {
       "title": "NFL survivor Week 6 pick",
       "when": "Sun 10/18 12:00 PM"
     },
@@ -33,6 +33,6 @@
       "when": "Thu 10/22 10:00 AM"
     }
   ],
-  "updated_at": "2026-10-16T12:00:24.247200+00:00",
+  "updated_at": "2026-10-16T20:00:44.836816+00:00",
   "source": "kelpy-dashboard"
 }
