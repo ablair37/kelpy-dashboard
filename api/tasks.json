@@ -2,15 +2,39 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "current_state": "waiting on you"
     },
     {
       "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
     },
     {
+      "title": "NFL survivor game Week 6 pick",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
       "title": "Factor failed-payment fix",
       "current_state": "in progress"
+    },
+    {
+      "title": "Part-time job search",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -19,14 +43,6 @@
     {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "NFL survivor game Week 6 pick",
-      "current_state": "in progress"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -43,24 +59,8 @@
     {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "ID renewal tracking",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Rewards-card offer activation",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-16T03:59:45.124408+00:00",
+  "updated_at": "2026-10-16T12:00:24.247200+00:00",
   "source": "kelpy-dashboard"
 }
