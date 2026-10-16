@@ -1,16 +1,32 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
+      "title": "Anthropic IPO watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
     },
     {
       "title": "NFL survivor game Week 6 pick",
       "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Fights server hosting payment",
@@ -21,27 +37,19 @@
       "current_state": "in progress"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "in progress"
-    },
-    {
       "title": "Part-time job search",
       "current_state": "waiting on you"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
+      "title": "Factor failed-payment fix",
+      "current_state": "in progress"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
       "current_state": "scheduled"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Telegram bot (Kelpy)",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "scheduled"
     },
     {
@@ -49,18 +57,10 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-16T12:00:24.247200+00:00",
+  "updated_at": "2026-10-16T20:00:44.836816+00:00",
   "source": "kelpy-dashboard"
 }
