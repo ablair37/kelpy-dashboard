@@ -5,6 +5,14 @@
       "when": "Fri 10/16 9:47 AM"
     },
     {
+      "title": "WF overdraft grace backstop",
+      "when": "Fri 10/16 6:00 PM"
+    },
+    {
+      "title": "Overdraft grace deadline",
+      "when": "Fri 10/16 11:59 PM"
+    },
+    {
       "title": "ColoVAX credit reset",
       "when": "Sat 10/17"
     },
@@ -21,18 +29,10 @@
       "when": "Sun 10/18 6:47 PM"
     },
     {
-      "title": "Usage budget reset",
-      "when": "Wed 10/21 8:38 PM"
-    },
-    {
       "title": "CarMax 30-day past-due check",
       "when": "Thu 10/22 9:47 AM"
-    },
-    {
-      "title": "Birthday gift collection due",
-      "when": "Thu 10/22"
     }
   ],
-  "updated_at": "2026-10-15T19:59:42.562712+00:00",
+  "updated_at": "2026-10-16T03:59:45.124408+00:00",
   "source": "kelpy-dashboard"
 }
