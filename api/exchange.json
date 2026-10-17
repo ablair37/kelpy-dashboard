@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "from": "Coral",
-      "kind": "Request",
-      "title": "Draft shared handoff protocol from actual agent feedback",
-      "to": "Winston"
-    },
-    {
       "from": "Poke",
       "kind": "Report",
       "title": "Poke formal acknowledgement and status: coral-alignment-20261016-poke-v1",
@@ -55,7 +49,7 @@
       "to": "Kelpy"
     }
   ],
-  "open_count": 9,
-  "updated_at": "2026-10-17T03:59:27.691938+00:00",
+  "open_count": 8,
+  "updated_at": "2026-10-17T11:59:35.321149+00:00",
   "source": "kelpy-dashboard"
 }
