@@ -1,14 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "WF overdraft grace backstop",
-      "when": "Fri 10/16 6:00 PM"
-    },
-    {
-      "title": "Overdraft grace deadline",
-      "when": "Fri 10/16 11:59 PM"
-    },
-    {
       "title": "ColoVAX credit reset",
       "when": "Sat 10/17"
     },
@@ -22,7 +14,11 @@
     },
     {
       "title": "NFL survivor Week 6 pick",
-      "when": "Sun 10/18 12:00 PM"
+      "when": "Sun 10/18 10:00 AM"
+    },
+    {
+      "title": "Reconnection check-in",
+      "when": "Sun 10/18 6:47 PM"
     },
     {
       "title": "CarMax 30-day past-due check",
@@ -31,8 +27,12 @@
     {
       "title": "Agency sign-up check-in",
       "when": "Thu 10/22 10:00 AM"
+    },
+    {
+      "title": "IPO weekly check",
+      "when": "Fri 10/23 9:47 AM"
     }
   ],
-  "updated_at": "2026-10-16T20:00:44.836816+00:00",
+  "updated_at": "2026-10-17T03:59:27.691938+00:00",
   "source": "kelpy-dashboard"
 }
