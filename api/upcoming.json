@@ -1,24 +1,24 @@
 {
   "upcoming": [
     {
-      "title": "Server hosting charge due",
-      "when": "Sat 10/17"
-    },
-    {
-      "title": "ColoVAX credits reset",
-      "when": "Sat 10/17"
-    },
-    {
-      "title": "Headset price check",
-      "when": "Sat 10/17"
+      "title": "Confirm-text reminder for Monday 9am call",
+      "when": "Sun 10/18 09:30 AM"
     },
     {
       "title": "Survivor Week 6 pick reminder",
       "when": "Sun 10/18 10:00 AM"
     },
     {
-      "title": "NFL survivor Week 6 pick due",
+      "title": "Survivor Week 6 pick due",
       "when": "Sun 10/18 12:00 PM"
+    },
+    {
+      "title": "Bank deadline reminder",
+      "when": "Sun 10/18 07:00 PM"
+    },
+    {
+      "title": "Get checking back positive (deadline)",
+      "when": "Mon 10/19 11:59 PM"
     },
     {
       "title": "CarMax 30-day past-due check",
@@ -29,6 +29,6 @@
       "when": "Thu 10/22 10:00 AM"
     }
   ],
-  "updated_at": "2026-10-17T11:59:35.321149+00:00",
+  "updated_at": "2026-10-17T20:00:12.067346+00:00",
   "source": "kelpy-dashboard"
 }
