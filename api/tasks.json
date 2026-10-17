@@ -1,8 +1,16 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
+      "title": "NFL survivor game Week 6 pick",
+      "current_state": "in progress"
+    },
+    {
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Factor failed-payment fix",
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
@@ -13,6 +21,34 @@
       "current_state": "scheduled"
     },
     {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "ColoVAX restoration after Netlify suspension",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Fights server hosting payment",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Part-time job search",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "scheduled"
     },
@@ -21,46 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
+      "title": "Inbox triage watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "NFL survivor game Week 6 pick",
-      "current_state": "in progress"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Part-time job search",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Tax filing catch-up",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-17T03:59:27.691938+00:00",
+  "updated_at": "2026-10-17T11:59:35.321149+00:00",
   "source": "kelpy-dashboard"
 }
