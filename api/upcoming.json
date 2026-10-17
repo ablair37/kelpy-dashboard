@@ -1,11 +1,11 @@
 {
   "upcoming": [
     {
-      "title": "ColoVAX credit reset",
+      "title": "Server hosting charge due",
       "when": "Sat 10/17"
     },
     {
-      "title": "Hosting bill auto-charge",
+      "title": "ColoVAX credits reset",
       "when": "Sat 10/17"
     },
     {
@@ -13,26 +13,22 @@
       "when": "Sat 10/17"
     },
     {
-      "title": "NFL survivor Week 6 pick",
+      "title": "Survivor Week 6 pick reminder",
       "when": "Sun 10/18 10:00 AM"
     },
     {
-      "title": "Reconnection check-in",
-      "when": "Sun 10/18 6:47 PM"
+      "title": "NFL survivor Week 6 pick due",
+      "when": "Sun 10/18 12:00 PM"
     },
     {
       "title": "CarMax 30-day past-due check",
-      "when": "Thu 10/22 9:47 AM"
+      "when": "Thu 10/22 09:47 AM"
     },
     {
-      "title": "Agency sign-up check-in",
+      "title": "Agency sign-up follow-up check-in",
       "when": "Thu 10/22 10:00 AM"
-    },
-    {
-      "title": "IPO weekly check",
-      "when": "Fri 10/23 9:47 AM"
     }
   ],
-  "updated_at": "2026-10-17T03:59:27.691938+00:00",
+  "updated_at": "2026-10-17T11:59:35.321149+00:00",
   "source": "kelpy-dashboard"
 }
