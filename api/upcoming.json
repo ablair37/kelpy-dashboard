@@ -1,18 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Confirm-text reminder for Monday 9am call",
-      "when": "Sun 10/18 09:30 AM"
-    },
-    {
-      "title": "Survivor Week 6 pick reminder",
-      "when": "Sun 10/18 10:00 AM"
-    },
-    {
-      "title": "Survivor Week 6 pick due",
-      "when": "Sun 10/18 12:00 PM"
-    },
-    {
       "title": "Bank deadline reminder",
       "when": "Sun 10/18 07:00 PM"
     },
@@ -33,6 +21,6 @@
       "when": "Thu 10/22 10:00 AM"
     }
   ],
-  "updated_at": "2026-10-18T11:59:32.056944+00:00",
+  "updated_at": "2026-10-18T20:00:11.101920+00:00",
   "source": "kelpy-dashboard"
 }
