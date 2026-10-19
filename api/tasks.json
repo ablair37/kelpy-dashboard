@@ -1,15 +1,15 @@
 {
   "tasks": [
     {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "in progress"
+      "current_state": "scheduled"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
+      "title": "Factor failed-payment fix",
       "current_state": "scheduled"
     },
     {
@@ -17,11 +17,19 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Canceling unwanted subscriptions",
+      "title": "Work Bluetooth headset purchase",
       "current_state": "in progress"
     },
     {
-      "title": "CarMax past-due payment",
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
       "current_state": "in progress"
     },
     {
@@ -33,8 +41,8 @@
       "current_state": "in progress"
     },
     {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "scheduled"
+      "title": "CarMax past-due payment",
+      "current_state": "in progress"
     },
     {
       "title": "ColoVAX restoration after Netlify suspension",
@@ -45,22 +53,14 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Part-time job search",
       "current_state": "in progress"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
     },
     {
       "title": "Inbox triage watch",
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-18T20:00:11.101920+00:00",
+  "updated_at": "2026-10-19T03:59:54.722919+00:00",
   "source": "kelpy-dashboard"
 }
