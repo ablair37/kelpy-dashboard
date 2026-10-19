@@ -2,7 +2,11 @@
   "tasks": [
     {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -15,10 +19,6 @@
     {
       "title": "CarMax past-due payment",
       "current_state": "in progress"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
     },
     {
       "title": "Factor failed-payment fix",
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-19T11:49:44.605114-04:00",
+  "updated_at": "2026-10-19T20:11:51.993154+00:00",
   "source": "kelpy-dashboard"
 }
