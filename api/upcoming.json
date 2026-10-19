@@ -1,16 +1,20 @@
 {
   "upcoming": [
     {
-      "title": "Bank deadline reminder",
-      "when": "Sun 10/18 07:00 PM"
-    },
-    {
       "title": "Monday 9am call: pre-call brief",
       "when": "Mon 10/19 08:15 AM"
     },
     {
+      "title": "Nightly sleep and energy check-in",
+      "when": "Mon 10/19 10:47 PM"
+    },
+    {
       "title": "Get checking back positive (deadline)",
       "when": "Mon 10/19 11:59 PM"
+    },
+    {
+      "title": "Survivor Week 7 pick prep",
+      "when": "Wed 10/21 07:00 PM"
     },
     {
       "title": "CarMax 30-day past-due check",
@@ -19,8 +23,16 @@
     {
       "title": "Agency sign-up follow-up check-in",
       "when": "Thu 10/22 10:00 AM"
+    },
+    {
+      "title": "IPO weekly check",
+      "when": "Fri 10/23 09:47 AM"
+    },
+    {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 10/25 06:47 PM"
     }
   ],
-  "updated_at": "2026-10-18T20:00:11.101920+00:00",
+  "updated_at": "2026-10-19T03:59:54.722919+00:00",
   "source": "kelpy-dashboard"
 }
