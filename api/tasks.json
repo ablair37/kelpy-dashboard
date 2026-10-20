@@ -1,23 +1,35 @@
 {
   "tasks": [
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
     },
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Instagram Factory weekly posts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Instagram @ablair37 profile and library cleanup",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Morning briefing podcast",
       "current_state": "scheduled"
     },
     {
-      "title": "Luxer One package retrieval",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "OctoClaw Notion bridge",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Luxer One package retrieval",
       "current_state": "in progress"
     },
     {
@@ -47,20 +59,8 @@
     {
       "title": "Part-time job search",
       "current_state": "in progress"
-    },
-    {
-      "title": "Factor failed-payment fix",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-20T12:03:02.606160+00:00",
+  "updated_at": "2026-10-20T20:02:12.075987+00:00",
   "source": "kelpy-dashboard"
 }
