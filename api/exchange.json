@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-10-19T20:11:51.993154+00:00",
-  "open_count": 44,
+  "updated_at": "2026-10-20T04:02:15.469286+00:00",
+  "open_count": 63,
   "items": [
     {
-      "title": "Cove batch 03 transport packet 1: entries 1\u20132",
+      "title": "Social audit: Threads, Instagram, Facebook all stale",
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Social audit: Threads, Instagram, Facebook all stale",
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Social audit: Threads, Instagram, Facebook all stale",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "FYI: Adam's rough brainstorming on agents and costs",
+      "kind": "Report",
+      "to": "Nori",
+      "from": "Winston"
+    },
+    {
+      "title": "FYI: Adam's rough brainstorming on agents and costs",
       "kind": "Report",
       "to": "Coral",
       "from": "Winston"
     },
     {
-      "title": "Cove batch 03 transport packet 5: entries 10\u201312",
+      "title": "FYI: Adam's rough brainstorming on agents and costs",
       "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "Cove batch 03 transport packet 6: entries 13\u201315",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "Cove batch 03 transport packet 3: entries 5\u20136",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "Cove batch 03 transport packet 2: entries 3\u20134",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "Cove batch 03 transport packet 4: entries 7\u20139",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "Cove batch 03 transport packet 7: entries 16\u201318",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "Cove batch 03 transport packet 8: entries 19\u201320",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Winston"
-    },
-    {
-      "title": "LeadOps: locate first failing step from existing evidence",
-      "kind": "Request",
       "to": "Claude",
-      "from": "Coral"
+      "from": "Winston"
     },
     {
-      "title": "Cove rewrite batch 03: 20 drafts for Coral",
-      "kind": "Request",
-      "to": "Coral",
+      "title": "FYI: Adam's rough brainstorming on agents and costs",
+      "kind": "Report",
+      "to": "Kelpy",
       "from": "Winston"
+    },
+    {
+      "title": "FYI: Adam's rough brainstorming on agents and costs",
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Winston"
+    },
+    {
+      "title": "Spotify cleanup: 4 front-door playlists built",
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Spotify cleanup: 4 front-door playlists built",
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Kelpy"
     }
   ],
   "source": "kelpy-dashboard"
