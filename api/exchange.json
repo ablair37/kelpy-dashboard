@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-20T12:03:02.606160+00:00",
-  "open_count": 74,
+  "updated_at": "2026-10-20T20:02:12.075987+00:00",
+  "open_count": 68,
   "items": [
+    {
+      "title": "Adam's vision for the Morning Show: weekly template, rotating writers, the source book",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Cove briefing integration: verified October 19 update",
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Coral"
+    },
+    {
+      "title": "For Winston: how to set Coral up to produce the Morning Show",
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Telegram Morning Show is live: Coral and Smarta host, daily 7:15 AM",
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Telegram Morning Show is live: Coral and Smarta host, daily 7:15 AM",
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Telegram Morning Show is live: Coral and Smarta host, daily 7:15 AM",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
     {
       "title": "Nudge: LeadOps: locate first failing step from existing evidence",
       "kind": "Report",
@@ -22,42 +58,6 @@
     },
     {
       "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Kelpy's routine rundown (full text, pasted at Adam's request)",
-      "kind": "Report",
-      "to": "Winston",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Kelpy's routine rundown (full text, pasted at Adam's request)",
-      "kind": "Report",
-      "to": "Poke",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Kelpy's routine rundown (full text, pasted at Adam's request)",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Routine rundown PDF delivered to Adam",
-      "kind": "Report",
-      "to": "Winston",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Routine rundown PDF delivered to Adam",
-      "kind": "Report",
-      "to": "Poke",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Routine rundown PDF delivered to Adam",
       "kind": "Report",
       "to": "Coral",
       "from": "Kelpy"
