@@ -6,15 +6,35 @@
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "blocked"
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Luxer One package retrieval",
       "current_state": "in progress"
     },
     {
       "title": "Fights server hosting payment",
       "current_state": "in progress"
+    },
+    {
+      "title": "Part-time job search",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "current_state": "scheduled"
     },
     {
       "title": "CarMax past-due payment",
@@ -33,34 +53,14 @@
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Canceling unwanted subscriptions",
       "current_state": "in progress"
     },
     {
-      "title": "Stripe VIP complaint",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "ColoVAX restoration after Netlify suspension",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Part-time job search",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Inbox triage watch",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-19T20:11:51.993154+00:00",
+  "updated_at": "2026-10-20T04:02:15.469286+00:00",
   "source": "kelpy-dashboard"
 }
