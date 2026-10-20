@@ -1,12 +1,12 @@
 {
   "upcoming": [
     {
-      "title": "Notion dashboard verdict",
-      "when": "Tue 10/20 12:40 PM"
-    },
-    {
       "title": "Nightly sleep and energy check-in",
       "when": "Tue 10/20 10:47 PM"
+    },
+    {
+      "title": "Telegram morning show",
+      "when": "Wed 10/21 07:15 AM"
     },
     {
       "title": "Morning briefing podcast",
@@ -33,6 +33,6 @@
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-20T12:03:02.606160+00:00",
+  "updated_at": "2026-10-20T20:02:12.075987+00:00",
   "source": "kelpy-dashboard"
 }
