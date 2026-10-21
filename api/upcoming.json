@@ -1,20 +1,20 @@
 {
   "upcoming": [
     {
-      "title": "Telegram morning show",
-      "when": "Wed 10/21 07:15 AM"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "when": "Wed 10/21 07:47 AM"
-    },
-    {
       "title": "Survivor Week 7 pick prep",
       "when": "Wed 10/21 07:00 PM"
     },
     {
       "title": "Nightly sleep and energy check-in",
       "when": "Wed 10/21 10:47 PM"
+    },
+    {
+      "title": "Telegram morning show",
+      "when": "Thu 10/22 07:15 AM"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "when": "Thu 10/22 07:47 AM"
     },
     {
       "title": "CarMax 30-day past-due check",
@@ -33,6 +33,6 @@
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-21T04:01:06.788790+00:00",
+  "updated_at": "2026-10-21T12:00:54.624190+00:00",
   "source": "kelpy-dashboard"
 }
