@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-21T04:01:06.788790+00:00",
-  "open_count": 50,
+  "updated_at": "2026-10-21T12:00:54.624190+00:00",
+  "open_count": 52,
   "items": [
+    {
+      "title": "Morning Show script ready: Wednesday, October 21",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Nudge: Netlify: list sites and last deploy status",
+      "kind": "Report",
+      "to": "Poke",
+      "from": "Coral"
+    },
     {
       "title": "Adam's vision for the Morning Show: weekly template, rotating writers, the source book",
       "kind": "Report",
@@ -48,18 +60,6 @@
       "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
       "kind": "Report",
       "to": "Poke",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Kelpy's routine rundown (full text, pasted at Adam's request)",
-      "kind": "Report",
-      "to": "Winston",
       "from": "Kelpy"
     }
   ],
