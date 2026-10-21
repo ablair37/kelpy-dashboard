@@ -1,31 +1,23 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "waiting on you"
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
     },
     {
-      "title": "Telegram new-message watch",
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
       "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Instagram Factory weekly posts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Instagram @ablair37 profile and library cleanup",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
       "current_state": "in progress"
     },
     {
@@ -37,15 +29,23 @@
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
     },
     {
       "title": "NFL survivor game Week 7 pick",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Instagram Factory weekly posts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Instagram @ablair37 profile and library cleanup",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-21T04:01:06.788790+00:00",
+  "updated_at": "2026-10-21T12:00:54.624190+00:00",
   "source": "kelpy-dashboard"
 }
