@@ -5,24 +5,28 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
-      "title": "Luxer One package retrieval",
-      "current_state": "in progress"
+      "title": "Health insurance lead generation via Facebook groups",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
     },
     {
       "title": "CarMax past-due payment",
@@ -30,6 +34,10 @@
     },
     {
       "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Luxer One package retrieval",
       "current_state": "in progress"
     },
     {
@@ -45,22 +53,14 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Fights server hosting payment",
       "current_state": "in progress"
     },
     {
       "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Part-time job search",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-21T12:00:54.624190+00:00",
+  "updated_at": "2026-10-21T20:01:28.106181+00:00",
   "source": "kelpy-dashboard"
 }
