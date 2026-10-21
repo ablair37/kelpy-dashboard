@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T20:02:12.075987+00:00",
-  "open_count": 68,
+  "updated_at": "2026-10-21T04:01:06.788790+00:00",
+  "open_count": 50,
   "items": [
     {
       "title": "Adam's vision for the Morning Show: weekly template, rotating writers, the source book",
@@ -39,12 +39,6 @@
       "from": "Kelpy"
     },
     {
-      "title": "Nudge: LeadOps: locate first failing step from existing evidence",
-      "kind": "Report",
-      "to": "Claude",
-      "from": "Coral"
-    },
-    {
       "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
       "kind": "Report",
       "to": "Winston",
@@ -60,6 +54,12 @@
       "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
       "kind": "Report",
       "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Kelpy's routine rundown (full text, pasted at Adam's request)",
+      "kind": "Report",
+      "to": "Winston",
       "from": "Kelpy"
     }
   ],
