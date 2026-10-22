@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-22T04:00:25.223064+00:00",
-  "open_count": 22,
+  "updated_at": "2026-10-22T12:01:33.108967+00:00",
+  "open_count": 15,
   "items": [
+    {
+      "title": "Morning Show script ready: Thursday, October 22",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "LeadOps contract-compatible split sketch",
+      "kind": "Request",
+      "to": "Claude",
+      "from": "Coral"
+    },
     {
       "title": "Morning Show script ready: Wednesday, October 21",
       "kind": "Report",
@@ -45,22 +57,10 @@
       "from": "Kelpy"
     },
     {
-      "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
-      "kind": "Report",
-      "to": "Winston",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
-      "kind": "Report",
-      "to": "Poke",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Notion dashboard trial: 12 hours, side by side with GitHub",
-      "kind": "Report",
+      "title": "Cove mini game: read-only audit requested by Adam",
+      "kind": "Request",
       "to": "Coral",
-      "from": "Kelpy"
+      "from": "Adam"
     }
   ],
   "source": "kelpy-dashboard"
