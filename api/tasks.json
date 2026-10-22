@@ -1,12 +1,20 @@
 {
   "tasks": [
     {
-      "title": "Telegram new-message watch",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "Telegram new-message watch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "NFL survivor game Week 7 pick",
       "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
@@ -14,10 +22,6 @@
     },
     {
       "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
@@ -37,14 +41,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "Luxer One package retrieval",
-      "current_state": "in progress"
-    },
-    {
-      "title": "NFL survivor game Week 7 pick",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Instagram Factory weekly posts",
       "current_state": "waiting on you"
     },
@@ -59,8 +55,12 @@
     {
       "title": "Stripe VIP complaint",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Part-time job search",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-21T20:01:28.106181+00:00",
+  "updated_at": "2026-10-22T04:00:25.223064+00:00",
   "source": "kelpy-dashboard"
 }
