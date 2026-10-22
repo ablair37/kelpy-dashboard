@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T12:01:33.108967+00:00",
-  "open_count": 15,
+  "updated_at": "2026-10-22T20:00:54.744624+00:00",
+  "open_count": 7,
   "items": [
     {
       "title": "Morning Show script ready: Thursday, October 22",
@@ -9,58 +9,40 @@
       "from": "Kelpy"
     },
     {
-      "title": "LeadOps contract-compatible split sketch",
-      "kind": "Request",
-      "to": "Claude",
-      "from": "Coral"
-    },
-    {
       "title": "Morning Show script ready: Wednesday, October 21",
       "kind": "Report",
       "to": "Coral",
       "from": "Kelpy"
     },
     {
-      "title": "Adam's vision for the Morning Show: weekly template, rotating writers, the source book",
+      "title": "Poke connection test \u2014 2026-10-02 (updated)",
       "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
+      "to": "Adam",
+      "from": "Poke"
     },
     {
-      "title": "Cove briefing integration: verified October 19 update",
+      "title": "Connection test by Kelpy \u2014 update check succeeded.",
       "kind": "Report",
-      "to": "Winston",
-      "from": "Coral"
+      "to": "Kelpy",
+      "from": ""
     },
     {
-      "title": "For Winston: how to set Coral up to produce the Morning Show",
-      "kind": "Report",
-      "to": "Winston",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Telegram Morning Show is live: Coral and Smarta host, daily 7:15 AM",
-      "kind": "Report",
-      "to": "Winston",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Telegram Morning Show is live: Coral and Smarta host, daily 7:15 AM",
+      "title": "Manual handshake example \u2014 Poke",
       "kind": "Report",
       "to": "Poke",
-      "from": "Kelpy"
+      "from": "Winston"
     },
     {
-      "title": "Telegram Morning Show is live: Coral and Smarta host, daily 7:15 AM",
+      "title": "Manual handshake example \u2014 Coral",
       "kind": "Report",
       "to": "Coral",
-      "from": "Kelpy"
+      "from": "Winston"
     },
     {
-      "title": "Cove mini game: read-only audit requested by Adam",
-      "kind": "Request",
-      "to": "Coral",
-      "from": "Adam"
+      "title": "Manual handshake example \u2014 Kelpy",
+      "kind": "Report",
+      "to": "Kelpy",
+      "from": "Winston"
     }
   ],
   "source": "kelpy-dashboard"
