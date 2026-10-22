@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "CarMax past-due check",
-      "when": "Thu 10/22 09:47 AM"
-    },
-    {
       "title": "Nightly sleep check-in",
       "when": "Thu 10/22 10:47 PM"
     },
@@ -21,6 +17,10 @@
       "when": "Fri 10/23 09:47 AM"
     },
     {
+      "title": "Headset price check",
+      "when": "Fri 10/23 11:50 AM"
+    },
+    {
       "title": "Survivor Week 7 pick",
       "when": "Sun 10/25 12:00 PM"
     },
@@ -33,6 +33,6 @@
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-22T12:01:33.108967+00:00",
+  "updated_at": "2026-10-22T20:00:54.744624+00:00",
   "source": "kelpy-dashboard"
 }
