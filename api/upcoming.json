@@ -1,14 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Survivor Week 7 pick prep",
-      "when": "Wed 10/21 07:00 PM"
-    },
-    {
-      "title": "Nightly sleep and energy check-in",
-      "when": "Wed 10/21 10:47 PM"
-    },
-    {
       "title": "Telegram morning show",
       "when": "Thu 10/22 07:15 AM"
     },
@@ -17,12 +9,20 @@
       "when": "Thu 10/22 07:47 AM"
     },
     {
-      "title": "CarMax 30-day past-due check",
+      "title": "CarMax past-due check",
       "when": "Thu 10/22 09:47 AM"
+    },
+    {
+      "title": "Nightly sleep check-in",
+      "when": "Thu 10/22 10:47 PM"
     },
     {
       "title": "IPO weekly check",
       "when": "Fri 10/23 09:47 AM"
+    },
+    {
+      "title": "Survivor Week 7 pick",
+      "when": "Sun 10/25 12:00 PM"
     },
     {
       "title": "Weekly reconnection check-in",
@@ -33,6 +33,6 @@
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-21T20:01:28.106181+00:00",
+  "updated_at": "2026-10-22T04:00:25.223064+00:00",
   "source": "kelpy-dashboard"
 }
