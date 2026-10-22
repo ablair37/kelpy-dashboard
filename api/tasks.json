@@ -1,32 +1,24 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "NFL survivor game Week 7 pick",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Morning briefing podcast",
       "current_state": "in progress"
     },
     {
-      "title": "Health insurance lead generation via Facebook groups",
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Reconnecting with flagged contacts",
@@ -35,6 +27,14 @@
     {
       "title": "CarMax past-due payment",
       "current_state": "in progress"
+    },
+    {
+      "title": "NFL survivor game Week 7 pick",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Health insurance lead generation via Facebook groups",
+      "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-22T04:00:25.223064+00:00",
+  "updated_at": "2026-10-22T12:01:33.108967+00:00",
   "source": "kelpy-dashboard"
 }
