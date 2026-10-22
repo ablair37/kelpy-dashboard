@@ -1,16 +1,32 @@
 {
   "tasks": [
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Job search: back to healthcare ops",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Claude Duet waitlist watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "New job search",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
@@ -19,14 +35,6 @@
     {
       "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "CarMax past-due payment",
-      "current_state": "in progress"
     },
     {
       "title": "NFL survivor game Week 7 pick",
@@ -51,16 +59,8 @@
     {
       "title": "Fights server hosting payment",
       "current_state": "in progress"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Part-time job search",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-22T12:01:33.108967+00:00",
+  "updated_at": "2026-10-22T20:00:54.744624+00:00",
   "source": "kelpy-dashboard"
 }
