@@ -2,26 +2,30 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "scheduled"
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
     },
     {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
-      "title": "Job search: back to healthcare ops",
-      "current_state": "waiting on you"
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
     },
     {
-      "title": "Uber One cancellation",
-      "current_state": "blocked"
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
     },
     {
-      "title": "Morning briefing podcast",
+      "title": "Health insurance lead generation via Facebook groups",
+      "current_state": "in progress"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
       "current_state": "in progress"
     },
     {
@@ -29,24 +33,24 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Claude Duet waitlist watch",
-      "current_state": "scheduled"
+      "title": "NFL survivor game Week 7 pick",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Uber One cancellation",
+      "current_state": "blocked"
+    },
+    {
+      "title": "Job search: back to healthcare ops",
+      "current_state": "waiting on you"
     },
     {
       "title": "New job search",
       "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
+      "title": "Claude Duet waitlist watch",
       "current_state": "scheduled"
-    },
-    {
-      "title": "NFL survivor game Week 7 pick",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Health insurance lead generation via Facebook groups",
-      "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -55,12 +59,8 @@
     {
       "title": "Instagram Factory weekly posts",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Instagram @ablair37 profile and library cleanup",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-23T03:59:30.671289+00:00",
+  "updated_at": "2026-10-23T12:00:10.064514+00:00",
   "source": "kelpy-dashboard"
 }
