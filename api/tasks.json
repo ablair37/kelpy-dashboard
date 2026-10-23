@@ -5,11 +5,23 @@
       "current_state": "scheduled"
     },
     {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "in progress"
+      "current_state": "scheduled"
     },
     {
       "title": "Job search: back to healthcare ops",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Uber One cancellation",
+      "current_state": "blocked"
+    },
+    {
+      "title": "Morning briefing podcast",
       "current_state": "in progress"
     },
     {
@@ -22,14 +34,6 @@
     },
     {
       "title": "New job search",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
       "current_state": "waiting on you"
     },
     {
@@ -55,12 +59,8 @@
     {
       "title": "Instagram @ablair37 profile and library cleanup",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Fights server hosting payment",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-22T20:00:54.744624+00:00",
+  "updated_at": "2026-10-23T03:59:30.671289+00:00",
   "source": "kelpy-dashboard"
 }
