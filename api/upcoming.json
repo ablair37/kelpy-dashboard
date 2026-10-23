@@ -1,14 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "IPO weekly check",
-      "when": "Fri 10/23 09:47 AM"
-    },
-    {
-      "title": "Headset price check",
-      "when": "Fri 10/23 11:50 AM"
-    },
-    {
       "title": "Nightly sleep check-in",
       "when": "Fri 10/23 10:47 PM"
     },
@@ -21,6 +13,10 @@
       "when": "Sat 10/24 07:47 AM"
     },
     {
+      "title": "Dashboard token watch",
+      "when": "Sat 10/24 09:47 AM"
+    },
+    {
       "title": "Survivor Week 7 pick",
       "when": "Sun 10/25 12:00 PM"
     },
@@ -29,10 +25,14 @@
       "when": "Sun 10/25 06:47 PM"
     },
     {
+      "title": "Job search sweep",
+      "when": "Mon 10/26 09:47 AM"
+    },
+    {
       "title": "Weekly help ask",
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-23T12:00:10.064514+00:00",
+  "updated_at": "2026-10-23T20:00:17.438794+00:00",
   "source": "kelpy-dashboard"
 }
