@@ -2,6 +2,26 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Job search: back to healthcare ops",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
@@ -9,8 +29,12 @@
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
+      "title": "Lavender psychiatry appointment rebooking",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -25,14 +49,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "NFL survivor game Week 7 pick",
       "current_state": "in progress"
     },
@@ -41,26 +57,10 @@
       "current_state": "blocked"
     },
     {
-      "title": "Job search: back to healthcare ops",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "New job search",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Claude Duet waitlist watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Instagram Factory weekly posts",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-23T12:00:10.064514+00:00",
+  "updated_at": "2026-10-23T20:00:17.438794+00:00",
   "source": "kelpy-dashboard"
 }
