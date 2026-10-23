@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-23T03:59:30.671289+00:00",
+  "updated_at": "2026-10-23T12:00:10.064514+00:00",
   "open_count": 8,
   "items": [
+    {
+      "title": "Morning Show script ready: Friday, October 23",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
     {
       "title": "Deliver six parser cases as literal text",
       "kind": "Request",
@@ -10,12 +16,6 @@
     },
     {
       "title": "Morning Show script ready: Thursday, October 22",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Morning Show script ready: Wednesday, October 21",
       "kind": "Report",
       "to": "Coral",
       "from": "Kelpy"
