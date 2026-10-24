@@ -2,10 +2,6 @@
   "tasks": [
     {
       "title": "Telegram new-message watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -13,19 +9,19 @@
       "current_state": "in progress"
     },
     {
-      "title": "Job search: back to healthcare ops",
-      "current_state": "waiting on you"
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
     },
     {
       "title": "Morning briefing podcast",
       "current_state": "in progress"
     },
     {
-      "title": "Work Bluetooth headset purchase",
+      "title": "NFL survivor game Week 7 pick",
       "current_state": "in progress"
     },
     {
-      "title": "Anthropic IPO watch",
+      "title": "Job search: back to healthcare ops",
       "current_state": "in progress"
     },
     {
@@ -33,8 +29,20 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Uber One cancellation",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
       "title": "Lavender psychiatry appointment rebooking",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "in progress"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -49,18 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "NFL survivor game Week 7 pick",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Uber One cancellation",
-      "current_state": "blocked"
-    },
-    {
-      "title": "New job search",
-      "current_state": "waiting on you"
+      "title": "Claude Duet waitlist watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-24T03:59:36.219557+00:00",
+  "updated_at": "2026-10-24T11:59:49.288992+00:00",
   "source": "kelpy-dashboard"
 }
