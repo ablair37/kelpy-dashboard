@@ -1,20 +1,20 @@
 {
   "upcoming": [
     {
-      "title": "Telegram morning show",
-      "when": "Sat 10/24 07:15 AM"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "when": "Sat 10/24 07:47 AM"
-    },
-    {
       "title": "Dashboard token watch",
       "when": "Sat 10/24 09:47 AM"
     },
     {
       "title": "Nightly sleep check-in",
       "when": "Sat 10/24 10:47 PM"
+    },
+    {
+      "title": "Telegram morning show",
+      "when": "Sun 10/25 07:15 AM"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "when": "Sun 10/25 07:47 AM"
     },
     {
       "title": "Survivor Week 7 pick",
@@ -33,6 +33,6 @@
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-24T03:59:36.219557+00:00",
+  "updated_at": "2026-10-24T11:59:49.288992+00:00",
   "source": "kelpy-dashboard"
 }
