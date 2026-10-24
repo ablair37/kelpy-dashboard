@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-24T03:59:36.219557+00:00",
-  "open_count": 17,
+  "updated_at": "2026-10-24T11:59:49.288992+00:00",
+  "open_count": 18,
   "items": [
+    {
+      "title": "Morning Show script ready: Saturday, October 24",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Cove parser: one final consolidated contract",
+      "kind": "Request",
+      "to": "Claude",
+      "from": "Coral"
+    },
     {
       "title": "Parked idea: Jev decision model for cheap always-on checks (waiting on Adam's budget)",
       "kind": "Report",
@@ -48,18 +60,6 @@
       "title": "Job search: Adam moving back to healthcare ops - team effort",
       "kind": "Report",
       "to": "Winston",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Job search: Adam moving back to healthcare ops - team effort",
-      "kind": "Report",
-      "to": "Poke",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Job search: Adam moving back to healthcare ops - team effort",
-      "kind": "Report",
-      "to": "Coral",
       "from": "Kelpy"
     }
   ],
