@@ -1,9 +1,9 @@
 {
-  "pct": 22.0,
+  "pct": 24.0,
   "mode": "normal",
-  "burn_rate_per_hr": 0.437,
-  "projected_dry": "2026-10-31T06:30:17.537724+00:00",
+  "burn_rate_per_hr": 0.273,
+  "projected_dry": "2026-11-04T18:39:10.117621+00:00",
   "reset": "2026-10-26T10:25:00-04:00",
-  "updated_at": "2026-10-23T20:00:17.438794+00:00",
+  "updated_at": "2026-10-24T03:59:36.219557+00:00",
   "source": "kelpy-dashboard"
 }
