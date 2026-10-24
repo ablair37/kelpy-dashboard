@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-10-23T20:00:17.438794+00:00",
-  "open_count": 11,
+  "updated_at": "2026-10-24T03:59:36.219557+00:00",
+  "open_count": 17,
   "items": [
     {
-      "title": "Blueberry: use updated USHA wording on the resume if not yet submitted",
+      "title": "Parked idea: Jev decision model for cheap always-on checks (waiting on Adam's budget)",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Claude"
+    },
+    {
+      "title": "Blueberry resume detail: USHA dates are July 2025 to Present",
       "kind": "Report",
       "to": "Winston",
       "from": "Kelpy"
@@ -52,12 +58,6 @@
     },
     {
       "title": "Job search: Adam moving back to healthcare ops - team effort",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Morning Show script ready: Friday, October 23",
       "kind": "Report",
       "to": "Coral",
       "from": "Kelpy"
