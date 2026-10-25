@@ -1,14 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Telegram morning show",
-      "when": "Sun 10/25 07:15 AM"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "when": "Sun 10/25 07:47 AM"
-    },
-    {
       "title": "Dashboard token watch",
       "when": "Sun 10/25 09:47 AM"
     },
@@ -25,6 +17,14 @@
       "when": "Sun 10/25 10:47 PM"
     },
     {
+      "title": "Telegram morning show",
+      "when": "Mon 10/26 07:15 AM"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "when": "Mon 10/26 07:47 AM"
+    },
+    {
       "title": "Job search sweep",
       "when": "Mon 10/26 09:47 AM"
     },
@@ -33,6 +33,6 @@
       "when": "Mon 10/26 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-25T03:59:49.436608+00:00",
+  "updated_at": "2026-10-25T12:00:09.426147+00:00",
   "source": "kelpy-dashboard"
 }
