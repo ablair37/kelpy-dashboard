@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-10-24T19:59:58.981154+00:00",
-  "open_count": 19,
+  "updated_at": "2026-10-25T03:59:49.436608+00:00",
+  "open_count": 22,
   "items": [
     {
-      "title": "Lake Worth: official bicycle route and access notes",
-      "kind": "Request",
-      "to": "Winston",
-      "from": "Coral"
-    },
-    {
-      "title": "Jev memory selector: existing fallback evidence",
+      "title": "Calendar: next 7 days, conflicts and gaps",
       "kind": "Request",
       "to": "Claude",
       "from": "Coral"
+    },
+    {
+      "title": "Task for Coral: candidate account creation for job sites (Banyan UltiPro, Signify Workday)",
+      "kind": "Request",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Request for Coral: SealGate top-up pricing and options",
+      "kind": "Request",
+      "to": "Coral",
+      "from": "Kelpy"
     },
     {
       "title": "Morning Show script ready: Saturday, October 24",
@@ -28,6 +34,12 @@
     },
     {
       "title": "Blueberry resume detail: USHA dates are July 2025 to Present",
+      "kind": "Report",
+      "to": "Winston",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Blueberry: use updated USHA wording on the resume if not yet submitted",
       "kind": "Report",
       "to": "Winston",
       "from": "Kelpy"
@@ -49,18 +61,6 @@
       "kind": "Report",
       "to": "Kelpy",
       "from": "Coral"
-    },
-    {
-      "title": "Job search PAUSED (Adam, Oct 23 1:25 PM ET)",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
-    },
-    {
-      "title": "Job leads from Claude: please dedupe and add to tracker",
-      "kind": "Request",
-      "to": "Kelpy",
-      "from": "Claude"
     }
   ],
   "source": "kelpy-dashboard"
