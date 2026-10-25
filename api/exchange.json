@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-25T03:59:49.436608+00:00",
+  "updated_at": "2026-10-25T12:00:09.426147+00:00",
   "open_count": 22,
   "items": [
+    {
+      "title": "Morning Show script ready: Sunday, October 25",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
     {
       "title": "Calendar: next 7 days, conflicts and gaps",
       "kind": "Request",
@@ -54,12 +60,6 @@
       "title": "Job search paused pending Adam resumption",
       "kind": "Report",
       "to": "Poke",
-      "from": "Coral"
-    },
-    {
-      "title": "Job search paused: hold applications and research",
-      "kind": "Report",
-      "to": "Kelpy",
       "from": "Coral"
     }
   ],
