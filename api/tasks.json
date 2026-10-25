@@ -1,11 +1,23 @@
 {
   "tasks": [
     {
-      "title": "Morning briefing podcast",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "OctoClaw Notion bridge",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Job search: back to healthcare ops",
+      "current_state": "in progress"
+    },
+    {
+      "title": "NFL survivor game Week 7 pick",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Morning briefing podcast",
       "current_state": "in progress"
     },
     {
@@ -13,23 +25,11 @@
       "current_state": "scheduled"
     },
     {
-      "title": "NFL survivor game Week 7 pick",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Job search: back to healthcare ops",
-      "current_state": "in progress"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "waiting on you"
     },
     {
       "title": "Telegram new-message watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
       "current_state": "scheduled"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-25T12:00:09.426147+00:00",
+  "updated_at": "2026-10-25T19:59:45.628643+00:00",
   "source": "kelpy-dashboard"
 }
