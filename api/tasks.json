@@ -1,23 +1,23 @@
 {
   "tasks": [
     {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
+      "title": "Job search: back to healthcare ops",
       "current_state": "in progress"
     },
     {
-      "title": "Lavender psychiatry appointment rebooking",
+      "title": "OctoClaw Notion bridge",
       "current_state": "waiting on you"
     },
     {
-      "title": "Job search: back to healthcare ops",
+      "title": "Lavender psychiatry appointment rebooking",
       "current_state": "waiting on you"
     },
     {
@@ -49,18 +49,18 @@
       "current_state": "in progress"
     },
     {
-      "title": "Health insurance lead generation via Facebook groups",
-      "current_state": "in progress"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Health insurance lead generation via Facebook groups",
+      "current_state": "in progress"
     },
     {
       "title": "New job search",
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-24T19:59:58.981154+00:00",
+  "updated_at": "2026-10-25T03:59:49.436608+00:00",
   "source": "kelpy-dashboard"
 }
