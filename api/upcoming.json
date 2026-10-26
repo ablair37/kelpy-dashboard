@@ -1,14 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 10/25 06:47 PM"
-    },
-    {
-      "title": "Nightly sleep check-in",
-      "when": "Sun 10/25 10:47 PM"
-    },
-    {
       "title": "Telegram morning show",
       "when": "Mon 10/26 07:15 AM"
     },
@@ -29,10 +21,18 @@
       "when": "Mon 10/26 11:47 AM"
     },
     {
+      "title": "Nightly sleep check-in",
+      "when": "Mon 10/26 10:47 PM"
+    },
+    {
       "title": "Anthropic IPO check",
       "when": "Fri 10/30 09:47 AM"
+    },
+    {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 11/01 06:47 PM"
     }
   ],
-  "updated_at": "2026-10-25T19:59:45.628643+00:00",
+  "updated_at": "2026-10-26T03:59:51.968353+00:00",
   "source": "kelpy-dashboard"
 }
