@@ -1,40 +1,36 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "Morning briefing podcast",
       "current_state": "in progress"
     },
     {
       "title": "OctoClaw Notion bridge",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram new-message watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
     },
     {
       "title": "Job search: back to healthcare ops",
       "current_state": "waiting on you"
     },
     {
-      "title": "New job search",
-      "current_state": "in progress"
-    },
-    {
       "title": "Reconnecting with flagged contacts",
       "current_state": "in progress"
     },
     {
-      "title": "Morning briefing podcast",
+      "title": "New job search",
       "current_state": "in progress"
-    },
-    {
-      "title": "NFL survivor game Week 7 pick",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
     },
     {
       "title": "Lavender psychiatry appointment rebooking",
@@ -59,8 +55,12 @@
     {
       "title": "Health insurance lead generation via Facebook groups",
       "current_state": "in progress"
+    },
+    {
+      "title": "Claude Duet waitlist watch",
+      "current_state": "scheduled"
     }
   ],
-  "updated_at": "2026-10-26T03:59:51.968353+00:00",
+  "updated_at": "2026-10-26T11:59:51.739871+00:00",
   "source": "kelpy-dashboard"
 }
