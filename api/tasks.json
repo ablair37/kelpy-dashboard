@@ -6,14 +6,18 @@
     },
     {
       "title": "OctoClaw Notion bridge",
-      "current_state": "waiting on you"
+      "current_state": "scheduled"
     },
     {
       "title": "Job search: back to healthcare ops",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "New job search",
       "current_state": "in progress"
     },
     {
-      "title": "NFL survivor game Week 7 pick",
+      "title": "Reconnecting with flagged contacts",
       "current_state": "in progress"
     },
     {
@@ -21,12 +25,12 @@
       "current_state": "in progress"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "scheduled"
+      "title": "NFL survivor game Week 7 pick",
+      "current_state": "in progress"
     },
     {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "waiting on you"
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "scheduled"
     },
     {
       "title": "Telegram new-message watch",
@@ -55,12 +59,8 @@
     {
       "title": "Health insurance lead generation via Facebook groups",
       "current_state": "in progress"
-    },
-    {
-      "title": "New job search",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-25T19:59:45.628643+00:00",
+  "updated_at": "2026-10-26T03:59:51.968353+00:00",
   "source": "kelpy-dashboard"
 }
