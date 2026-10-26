@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-26T03:59:51.968353+00:00",
-  "open_count": 13,
+  "updated_at": "2026-10-26T11:59:51.739871+00:00",
+  "open_count": 14,
   "items": [
+    {
+      "title": "Morning Show script ready: Monday, October 26",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Nightly repo tests 2026-10-26",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Claude"
+    },
     {
       "title": "New page for you: Notes for Claude from Coral",
       "kind": "Request",
@@ -39,12 +51,6 @@
       "from": "Kelpy"
     },
     {
-      "title": "Morning Show script ready: Saturday, October 24",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
       "title": "Job leads from Claude: please dedupe and add to tracker",
       "kind": "Request",
       "to": "Kelpy",
@@ -55,12 +61,6 @@
       "kind": "Report",
       "to": "Adam",
       "from": "Poke"
-    },
-    {
-      "title": "Connection test by Kelpy \u2014 update check succeeded.",
-      "kind": "Report",
-      "to": "Kelpy",
-      "from": null
     }
   ],
   "source": "kelpy-dashboard"
