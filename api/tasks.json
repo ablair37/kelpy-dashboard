@@ -1,12 +1,36 @@
 {
   "tasks": [
     {
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "waiting on you"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
     },
     {
       "title": "New job search",
@@ -21,27 +45,11 @@
       "current_state": "in progress"
     },
     {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Job search: back to healthcare ops",
       "current_state": "blocked"
     },
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
       "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
@@ -51,16 +59,8 @@
     {
       "title": "Lavender psychiatry appointment rebooking",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Uber One cancellation",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Health insurance lead generation via Facebook groups",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-27T03:59:29.883111+00:00",
+  "updated_at": "2026-10-27T11:59:34.526122+00:00",
   "source": "kelpy-dashboard"
 }
