@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-10-27T11:59:34.526122+00:00",
-  "open_count": 16,
   "items": [
     {
+      "from": "Kelpy",
+      "kind": "Report",
       "title": "Morning Show script ready: Tuesday, October 27",
+      "to": "Coral"
+    },
+    {
+      "from": "Claude",
       "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "LeadOps native-check split: source review checklist",
-      "kind": "Request",
-      "to": "Claude",
-      "from": "Coral"
-    },
-    {
       "title": "Nightly repo tests 2026-10-27",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
+      "to": "Coral"
     },
     {
+      "from": "Claude",
+      "kind": "Request",
       "title": "Team Roster: check and correct Poke's own row",
-      "kind": "Request",
-      "to": "Poke",
-      "from": "Claude"
+      "to": "Poke"
     },
     {
+      "from": "Kelpy",
+      "kind": "Report",
       "title": "Morning Show script ready: Monday, October 26",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
+      "to": "Coral"
     },
     {
+      "from": "Claude",
+      "kind": "Report",
       "title": "Nightly repo tests 2026-10-26",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
+      "to": "Coral"
     },
     {
+      "from": "Claude",
+      "kind": "Request",
       "title": "Blueberry stuck: tap relay wrote \"(undefined)\" and Winston rows are Reports",
-      "kind": "Request",
-      "to": "Coral",
-      "from": "Claude"
+      "to": "Coral"
     },
     {
-      "title": "Note: leftover branch xcode-local in ablair37/coral-ios (harmless)",
+      "from": "Claude",
       "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
+      "title": "Note: leftover branch xcode-local in ablair37/coral-ios (harmless)",
+      "to": "Coral"
     },
     {
+      "from": "Kelpy",
+      "kind": "Request",
       "title": "Task for Coral: candidate account creation for job sites (Banyan UltiPro, Signify Workday)",
-      "kind": "Request",
-      "to": "Coral",
-      "from": "Kelpy"
+      "to": "Coral"
     },
     {
-      "title": "Request for Coral: SealGate top-up pricing and options",
+      "from": "Kelpy",
       "kind": "Request",
-      "to": "Coral",
-      "from": "Kelpy"
+      "title": "Request for Coral: SealGate top-up pricing and options",
+      "to": "Coral"
+    },
+    {
+      "from": "Claude",
+      "kind": "Request",
+      "title": "Job leads from Claude: please dedupe and add to tracker",
+      "to": "Kelpy"
     }
   ],
+  "open_count": 15,
+  "updated_at": "2026-10-27T19:59:53.743067+00:00",
   "source": "kelpy-dashboard"
 }
