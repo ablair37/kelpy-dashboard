@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "from": "Claude",
+      "kind": "Request",
+      "title": "Team Roster: check and correct Poke's own row",
+      "to": "Poke"
+    },
+    {
       "from": "Kelpy",
       "kind": "Report",
       "title": "Morning Show script ready: Monday, October 26",
@@ -53,15 +59,9 @@
       "kind": "Request",
       "title": "Job leads from Claude: please dedupe and add to tracker",
       "to": "Kelpy"
-    },
-    {
-      "from": "Poke",
-      "kind": "Report",
-      "title": "Poke connection test \u2014 2026-10-02 (updated)",
-      "to": "Adam"
     }
   ],
-  "open_count": 14,
-  "updated_at": "2026-10-26T19:59:58.331434+00:00",
+  "open_count": 15,
+  "updated_at": "2026-10-27T03:59:29.883111+00:00",
   "source": "kelpy-dashboard"
 }
