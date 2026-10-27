@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Dashboard token watch",
-      "when": "Tue 10/27 09:47 AM"
-    },
-    {
       "title": "Nightly sleep check-in",
       "when": "Tue 10/27 10:47 PM"
     },
@@ -17,6 +13,10 @@
       "when": "Wed 10/28 07:47 AM"
     },
     {
+      "title": "Dashboard token watch",
+      "when": "Wed 10/28 09:47 AM"
+    },
+    {
       "title": "Job search sweep",
       "when": "Thu 10/29 09:47 AM"
     },
@@ -25,14 +25,14 @@
       "when": "Fri 10/30 09:47 AM"
     },
     {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 11/01 06:47 PM"
+      "title": "Beeper Plus trial decision check",
+      "when": "Sun 11/01 10:47 AM"
     },
     {
-      "title": "Weekly help ask",
-      "when": "Mon 11/02 11:47 AM"
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 11/01 06:47 PM"
     }
   ],
-  "updated_at": "2026-10-27T11:59:34.526122+00:00",
+  "updated_at": "2026-10-27T19:59:53.743067+00:00",
   "source": "kelpy-dashboard"
 }
