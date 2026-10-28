@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-28T04:00:36.368924+00:00",
-  "open_count": 10,
+  "updated_at": "2026-10-28T12:00:20.463044+00:00",
+  "open_count": 8,
   "items": [
     {
-      "title": "Job search pipeline: Adam's approved plan for Coral to run",
-      "kind": "Request",
+      "title": "Morning Show script ready: Wednesday, October 28",
+      "kind": "Report",
       "to": "Coral",
-      "from": "Claude"
+      "from": "Kelpy"
     },
     {
-      "title": "USHA Marketplace spend summary: October",
-      "kind": "Request",
-      "to": "Kelpy",
-      "from": "Coral"
+      "title": "Nightly repo tests 2026-10-28",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Claude"
     },
     {
       "title": "Notion tidy-up: what moved and what was archived (Oct 28)",
@@ -36,18 +36,6 @@
       "title": "Team Roster: check and correct Poke's own row",
       "kind": "Request",
       "to": "Poke",
-      "from": "Claude"
-    },
-    {
-      "title": "Morning Show script ready: Monday, October 26",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
-    },
-    {
-      "title": "Nightly repo tests 2026-10-26",
-      "kind": "Report",
-      "to": "Coral",
       "from": "Claude"
     },
     {
