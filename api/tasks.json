@@ -2,11 +2,19 @@
   "tasks": [
     {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "waiting on you"
+      "current_state": "in progress"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "blocked"
     },
     {
       "title": "Job search: back to healthcare ops",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
     },
     {
       "title": "Anthropic IPO watch",
@@ -15,14 +23,6 @@
     {
       "title": "Morning briefing podcast",
       "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -34,10 +34,6 @@
     },
     {
       "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
@@ -59,8 +55,12 @@
     {
       "title": "Lavender psychiatry appointment rebooking",
       "current_state": "waiting on you"
+    },
+    {
+      "title": "Uber One cancellation",
+      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-27T19:59:53.743067+00:00",
+  "updated_at": "2026-10-28T04:00:36.368924+00:00",
   "source": "kelpy-dashboard"
 }
