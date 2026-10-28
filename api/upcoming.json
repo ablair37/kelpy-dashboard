@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Dashboard token watch",
-      "when": "Wed 10/28 09:47 AM"
-    },
-    {
       "title": "Nightly sleep check-in",
       "when": "Wed 10/28 10:47 PM"
     },
@@ -15,6 +11,10 @@
     {
       "title": "Morning briefing podcast",
       "when": "Thu 10/29 07:47 AM"
+    },
+    {
+      "title": "Dashboard token watch",
+      "when": "Thu 10/29 09:47 AM"
     },
     {
       "title": "Job search sweep",
@@ -33,6 +33,6 @@
       "when": "Sun 11/01 06:47 PM"
     }
   ],
-  "updated_at": "2026-10-28T12:00:20.463044+00:00",
+  "updated_at": "2026-10-28T20:00:48.483135+00:00",
   "source": "kelpy-dashboard"
 }
