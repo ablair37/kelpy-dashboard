@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T12:00:27.553669+00:00",
-  "open_count": 7,
+  "updated_at": "2026-10-29T20:00:31.648615+00:00",
+  "open_count": 6,
   "items": [
     {
       "title": "Morning Show script ready: Thursday, October 29",
@@ -13,12 +13,6 @@
       "kind": "Report",
       "to": "Coral",
       "from": "Claude"
-    },
-    {
-      "title": "Notion: recent Exchange rows moved/archived this week",
-      "kind": "Request",
-      "to": "Claude",
-      "from": "Coral"
     },
     {
       "title": "Morning Show script ready: Wednesday, October 28",
