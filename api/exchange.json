@@ -1,15 +1,9 @@
 {
-  "updated_at": "2026-10-28T20:00:48.483135+00:00",
-  "open_count": 9,
+  "updated_at": "2026-10-29T04:00:40.245033+00:00",
+  "open_count": 7,
   "items": [
     {
-      "title": "Job search scorecard template: Friday review format",
-      "kind": "Request",
-      "to": "Winston",
-      "from": "Coral"
-    },
-    {
-      "title": "Review recent PC build diffs: tap-relay fix, memory consolidation worker",
+      "title": "Notion: recent Exchange rows moved/archived this week",
       "kind": "Request",
       "to": "Claude",
       "from": "Coral"
@@ -41,12 +35,6 @@
     {
       "title": "Nightly repo tests 2026-10-27",
       "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
-    },
-    {
-      "title": "Blueberry stuck: tap relay wrote \"(undefined)\" and Winston rows are Reports",
-      "kind": "Request",
       "to": "Coral",
       "from": "Claude"
     },
