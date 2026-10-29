@@ -6,7 +6,27 @@
     },
     {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "in progress"
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "New job search",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Adam personal Wikipedia",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Instagram Factory weekly posts",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "waiting on you"
     },
     {
       "title": "Telegram new-message watch",
@@ -25,10 +45,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
       "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
@@ -41,26 +57,10 @@
       "current_state": "in progress"
     },
     {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
-    },
-    {
-      "title": "New job search",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Price-drop money-back watch",
       "current_state": "in progress"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Lavender psychiatry appointment rebooking",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-28T20:00:48.483135+00:00",
+  "updated_at": "2026-10-29T04:00:40.245033+00:00",
   "source": "kelpy-dashboard"
 }
