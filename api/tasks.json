@@ -1,15 +1,7 @@
 {
   "tasks": [
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
@@ -17,8 +9,20 @@
       "current_state": "waiting on you"
     },
     {
+      "title": "Telegram new-message watch",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
     },
     {
       "title": "Job search: back to healthcare ops",
@@ -55,12 +59,8 @@
     {
       "title": "Instagram Factory weekly posts",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-30T12:00:07.316312+00:00",
+  "updated_at": "2026-10-30T20:00:11.662495+00:00",
   "source": "kelpy-dashboard"
 }
