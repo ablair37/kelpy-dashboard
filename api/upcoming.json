@@ -1,14 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Telegram morning show",
-      "when": "Fri 10/30 07:15 AM"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "when": "Fri 10/30 07:47 AM"
-    },
-    {
       "title": "Dashboard token watch",
       "when": "Fri 10/30 09:47 AM"
     },
@@ -19,6 +11,14 @@
     {
       "title": "Nightly sleep check-in",
       "when": "Fri 10/30 10:47 PM"
+    },
+    {
+      "title": "Telegram morning show",
+      "when": "Sat 10/31 07:15 AM"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "when": "Sat 10/31 07:47 AM"
     },
     {
       "title": "Subscription decision check",
@@ -33,6 +33,6 @@
       "when": "Mon 11/02 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-30T04:00:37.098536+00:00",
+  "updated_at": "2026-10-30T12:00:07.316312+00:00",
   "source": "kelpy-dashboard"
 }
