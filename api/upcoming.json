@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Nightly sleep check-in",
-      "when": "Thu 10/29 10:47 PM"
-    },
-    {
       "title": "Telegram morning show",
       "when": "Fri 10/30 07:15 AM"
     },
@@ -21,6 +17,10 @@
       "when": "Fri 10/30 09:47 AM"
     },
     {
+      "title": "Nightly sleep check-in",
+      "when": "Fri 10/30 10:47 PM"
+    },
+    {
       "title": "Subscription decision check",
       "when": "Sun 11/01 10:47 AM"
     },
@@ -33,6 +33,6 @@
       "when": "Mon 11/02 09:47 AM"
     }
   ],
-  "updated_at": "2026-10-29T20:00:31.648615+00:00",
+  "updated_at": "2026-10-30T04:00:37.098536+00:00",
   "source": "kelpy-dashboard"
 }
