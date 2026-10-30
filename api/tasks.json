@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
@@ -9,27 +13,7 @@
       "current_state": "scheduled"
     },
     {
-      "title": "Stripe VIP complaint",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
-    },
-    {
       "title": "OctoClaw Notion bridge",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "New job search",
       "current_state": "waiting on you"
     },
     {
@@ -41,15 +25,31 @@
       "current_state": "waiting on you"
     },
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
       "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "in progress"
+    },
+    {
       "title": "Adam personal Wikipedia",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Stripe VIP complaint",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Price-drop money-back watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "New job search",
       "current_state": "waiting on you"
     },
     {
@@ -61,6 +61,6 @@
       "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-10-30T04:00:37.098536+00:00",
+  "updated_at": "2026-10-30T12:00:07.316312+00:00",
   "source": "kelpy-dashboard"
 }
