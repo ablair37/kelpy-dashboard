@@ -1,43 +1,37 @@
 {
-  "updated_at": "2026-10-29T20:00:31.648615+00:00",
-  "open_count": 6,
   "items": [
     {
+      "from": "Kelpy",
+      "kind": "Report",
       "title": "Morning Show script ready: Thursday, October 29",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
+      "to": "Coral"
     },
     {
+      "from": "Claude",
+      "kind": "Report",
       "title": "Nightly repo tests 2026-10-29",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
+      "to": "Coral"
     },
     {
+      "from": "Kelpy",
+      "kind": "Report",
       "title": "Morning Show script ready: Wednesday, October 28",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Kelpy"
+      "to": "Coral"
     },
     {
+      "from": "Claude",
+      "kind": "Report",
       "title": "Nightly repo tests 2026-10-28",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
+      "to": "Coral"
     },
     {
-      "title": "Notion tidy-up: what moved and what was archived (Oct 28)",
-      "kind": "Report",
-      "to": "Coral",
-      "from": "Claude"
-    },
-    {
-      "title": "Job leads from Claude: please dedupe and add to tracker",
+      "from": "Claude",
       "kind": "Request",
-      "to": "Kelpy",
-      "from": "Claude"
+      "title": "Job leads from Claude: please dedupe and add to tracker",
+      "to": "Kelpy"
     }
   ],
+  "open_count": 5,
+  "updated_at": "2026-10-30T04:00:37.098536+00:00",
   "source": "kelpy-dashboard"
 }
