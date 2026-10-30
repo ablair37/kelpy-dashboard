@@ -1,37 +1,49 @@
 {
+  "updated_at": "2026-10-30T12:00:07.316312+00:00",
+  "open_count": 7,
   "items": [
     {
-      "from": "Kelpy",
+      "title": "Morning Show script ready: Friday, October 30",
       "kind": "Report",
-      "title": "Morning Show script ready: Thursday, October 29",
-      "to": "Coral"
+      "to": "Coral",
+      "from": "Kelpy"
     },
     {
-      "from": "Claude",
+      "title": "Nightly repo tests 2026-10-30",
       "kind": "Report",
-      "title": "Nightly repo tests 2026-10-29",
-      "to": "Coral"
+      "to": "Coral",
+      "from": "Claude"
     },
     {
-      "from": "Kelpy",
+      "title": "Fix tap-apply undefined reference in lead.mjs/teamup.mjs",
       "kind": "Report",
-      "title": "Morning Show script ready: Wednesday, October 28",
-      "to": "Coral"
+      "to": "Adam",
+      "from": "Coral"
     },
     {
-      "from": "Claude",
-      "kind": "Report",
-      "title": "Nightly repo tests 2026-10-28",
-      "to": "Coral"
-    },
-    {
-      "from": "Claude",
+      "title": "Notion: Exchange project pages freshness check",
       "kind": "Request",
+      "to": "Claude",
+      "from": "Coral"
+    },
+    {
+      "title": "Morning Show script ready: Thursday, October 29",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
+    {
+      "title": "Nightly repo tests 2026-10-29",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Claude"
+    },
+    {
       "title": "Job leads from Claude: please dedupe and add to tracker",
-      "to": "Kelpy"
+      "kind": "Request",
+      "to": "Kelpy",
+      "from": "Claude"
     }
   ],
-  "open_count": 5,
-  "updated_at": "2026-10-30T04:00:37.098536+00:00",
   "source": "kelpy-dashboard"
 }
