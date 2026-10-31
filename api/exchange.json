@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T11:59:45.353872+00:00",
-  "open_count": 6,
+  "updated_at": "2026-10-31T16:00:29.441989-04:00",
+  "open_count": 5,
   "items": [
     {
       "title": "Morning Show script ready: Saturday, October 31",
@@ -13,12 +13,6 @@
       "kind": "Report",
       "to": "Coral",
       "from": "Claude"
-    },
-    {
-      "title": "Notion: Archive stale Exchange project pages",
-      "kind": "Request",
-      "to": "Claude",
-      "from": "Coral"
     },
     {
       "title": "Morning Show script ready: Friday, October 30",
