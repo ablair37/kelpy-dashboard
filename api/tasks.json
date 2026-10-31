@@ -1,14 +1,6 @@
 {
   "tasks": [
     {
-      "title": "Morning briefing podcast",
-      "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "in progress"
     },
@@ -18,7 +10,19 @@
     },
     {
       "title": "Weekly cash-flow watch",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Anthropic IPO watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "current_state": "in progress"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "waiting on you"
     },
     {
       "title": "Liquidate Disney shares via Computershare",
@@ -35,10 +39,6 @@
     {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Anthropic IPO watch",
-      "current_state": "in progress"
     },
     {
       "title": "Job search: back to healthcare ops",
@@ -61,6 +61,6 @@
       "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-31T11:59:45.353872+00:00",
+  "updated_at": "2026-10-31T16:00:29.441989-04:00",
   "source": "kelpy-dashboard"
 }
