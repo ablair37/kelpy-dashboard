@@ -2,18 +2,26 @@
   "tasks": [
     {
       "title": "Telegram bot (Kelpy)",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
       "current_state": "scheduled"
+    },
+    {
+      "title": "Adam personal Wikipedia",
+      "current_state": "waiting on you"
     },
     {
       "title": "OctoClaw Notion bridge",
       "current_state": "waiting on you"
     },
     {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
+      "title": "Tax filing catch-up",
+      "current_state": "waiting on you"
     },
     {
-      "title": "Weekly cash-flow watch",
+      "title": "Telegram new-message watch",
       "current_state": "scheduled"
     },
     {
@@ -37,10 +45,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "Adam personal Wikipedia",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Stripe VIP complaint",
       "current_state": "in progress"
     },
@@ -55,12 +59,8 @@
     {
       "title": "New job search",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Instagram Factory weekly posts",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-30T20:00:11.662495+00:00",
+  "updated_at": "2026-10-31T04:00:29.053634+00:00",
   "source": "kelpy-dashboard"
 }
