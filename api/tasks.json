@@ -1,31 +1,11 @@
 {
   "tasks": [
     {
-      "title": "Telegram bot (Kelpy)",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Home dashboard on the NucBox",
       "current_state": "scheduled"
     },
     {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Weekly cash-flow watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Reconnecting with flagged contacts",
+      "title": "Telegram bot (Kelpy)",
       "current_state": "scheduled"
     },
     {
@@ -33,16 +13,40 @@
       "current_state": "blocked"
     },
     {
-      "title": "Adam personal Wikipedia",
-      "current_state": "waiting on you"
+      "title": "Canceling unwanted subscriptions",
+      "current_state": "in progress"
     },
     {
-      "title": "Home TV automations",
+      "title": "Stripe VIP complaint",
       "current_state": "scheduled"
     },
     {
       "title": "Morning briefing podcast",
       "current_state": "in progress"
+    },
+    {
+      "title": "Home TV automations",
+      "current_state": "in progress"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Weekly cash-flow watch",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Adam personal Wikipedia",
+      "current_state": "waiting on you"
     },
     {
       "title": "Work Bluetooth headset purchase",
@@ -55,12 +59,8 @@
     {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Job search: back to healthcare ops",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-11-01T07:00:05.591169-05:00",
+  "updated_at": "2026-11-01T15:00:05.789149-05:00",
   "source": "kelpy-dashboard"
 }
