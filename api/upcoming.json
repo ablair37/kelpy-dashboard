@@ -1,12 +1,16 @@
 {
   "upcoming": [
     {
-      "title": "Nightly sleep check-in",
-      "when": "Sat 10/31 10:47 PM"
+      "title": "Bedroom TV alarm test",
+      "when": "Sun 11/01 06:30 AM"
     },
     {
       "title": "Telegram morning show",
       "when": "Sun 11/01 07:15 AM"
+    },
+    {
+      "title": "Morning show video build",
+      "when": "Sun 11/01 07:25 AM"
     },
     {
       "title": "Morning briefing podcast",
@@ -27,12 +31,8 @@
     {
       "title": "Job search sweep",
       "when": "Mon 11/02 09:47 AM"
-    },
-    {
-      "title": "Weekly help ask",
-      "when": "Mon 11/02 11:47 AM"
     }
   ],
-  "updated_at": "2026-10-31T16:00:29.441989-04:00",
+  "updated_at": "2026-11-01T00:00:03.014688-04:00",
   "source": "kelpy-dashboard"
 }
