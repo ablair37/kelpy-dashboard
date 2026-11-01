@@ -1,23 +1,39 @@
 {
   "tasks": [
     {
+      "title": "Home dashboard on the NucBox",
+      "current_state": "in progress"
+    },
+    {
       "title": "Telegram bot (Kelpy)",
       "current_state": "in progress"
     },
     {
-      "title": "Telegram new-message watch",
-      "current_state": "scheduled"
-    },
-    {
       "title": "Weekly cash-flow watch",
-      "current_state": "scheduled"
-    },
-    {
-      "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
+      "title": "Adam personal Wikipedia",
+      "current_state": "waiting on you"
+    },
+    {
+      "title": "Home TV automations",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
+    },
+    {
       "title": "Morning briefing podcast",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Work Bluetooth headset purchase",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Anthropic IPO watch",
       "current_state": "in progress"
     },
     {
@@ -33,10 +49,6 @@
       "current_state": "in progress"
     },
     {
-      "title": "Adam personal Wikipedia",
-      "current_state": "waiting on you"
-    },
-    {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
     },
@@ -47,20 +59,8 @@
     {
       "title": "Stripe VIP complaint",
       "current_state": "in progress"
-    },
-    {
-      "title": "Price-drop money-back watch",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Work Bluetooth headset purchase",
-      "current_state": "in progress"
-    },
-    {
-      "title": "New job search",
-      "current_state": "waiting on you"
     }
   ],
-  "updated_at": "2026-10-31T16:00:29.441989-04:00",
+  "updated_at": "2026-11-01T00:00:03.014688-04:00",
   "source": "kelpy-dashboard"
 }
