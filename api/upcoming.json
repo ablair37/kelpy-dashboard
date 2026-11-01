@@ -1,28 +1,28 @@
 {
   "upcoming": [
     {
+      "title": "Weekly reconnection check-in",
+      "when": "Sun 11/01 06:47 PM"
+    },
+    {
+      "title": "Sleep and energy check-in",
+      "when": "Sun 11/01 10:47 PM"
+    },
+    {
+      "title": "Morning show script",
+      "when": "Mon 11/02 06:55 AM"
+    },
+    {
       "title": "Telegram morning show",
-      "when": "Sun 11/01 07:15 AM"
+      "when": "Mon 11/02 07:15 AM"
     },
     {
       "title": "Morning show video build",
-      "when": "Sun 11/01 07:25 AM"
+      "when": "Mon 11/02 07:25 AM"
     },
     {
       "title": "Morning briefing podcast",
-      "when": "Sun 11/01 07:47 AM"
-    },
-    {
-      "title": "Dashboard token watch",
-      "when": "Sun 11/01 09:47 AM"
-    },
-    {
-      "title": "Subscription decision check",
-      "when": "Sun 11/01 10:47 AM"
-    },
-    {
-      "title": "Weekly reconnection check-in",
-      "when": "Sun 11/01 06:47 PM"
+      "when": "Mon 11/02 07:47 AM"
     },
     {
       "title": "Job search sweep",
@@ -33,6 +33,6 @@
       "when": "Mon 11/02 09:47 AM"
     }
   ],
-  "updated_at": "2026-11-01T07:00:05.591169-05:00",
+  "updated_at": "2026-11-01T15:00:05.789149-05:00",
   "source": "kelpy-dashboard"
 }
