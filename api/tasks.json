@@ -1,16 +1,36 @@
 {
   "tasks": [
     {
+      "title": "Telegram bot (Kelpy)",
+      "current_state": "scheduled"
+    },
+    {
       "title": "Home dashboard on the NucBox",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Liquidate Disney shares via Computershare",
       "current_state": "in progress"
     },
     {
-      "title": "Telegram bot (Kelpy)",
+      "title": "Canceling unwanted subscriptions",
       "current_state": "in progress"
     },
     {
       "title": "Weekly cash-flow watch",
       "current_state": "in progress"
+    },
+    {
+      "title": "OctoClaw Notion bridge",
+      "current_state": "in progress"
+    },
+    {
+      "title": "Reconnecting with flagged contacts",
+      "current_state": "scheduled"
+    },
+    {
+      "title": "Telegram new-message watch",
+      "current_state": "blocked"
     },
     {
       "title": "Adam personal Wikipedia",
@@ -19,10 +39,6 @@
     {
       "title": "Home TV automations",
       "current_state": "scheduled"
-    },
-    {
-      "title": "Telegram new-message watch",
-      "current_state": "blocked"
     },
     {
       "title": "Morning briefing podcast",
@@ -37,30 +53,14 @@
       "current_state": "in progress"
     },
     {
-      "title": "OctoClaw Notion bridge",
-      "current_state": "waiting on you"
-    },
-    {
-      "title": "Liquidate Disney shares via Computershare",
-      "current_state": "in progress"
-    },
-    {
-      "title": "Canceling unwanted subscriptions",
-      "current_state": "in progress"
-    },
-    {
       "title": "Tax filing catch-up",
       "current_state": "waiting on you"
     },
     {
       "title": "Job search: back to healthcare ops",
       "current_state": "waiting on you"
-    },
-    {
-      "title": "Stripe VIP complaint",
-      "current_state": "in progress"
     }
   ],
-  "updated_at": "2026-11-01T00:00:03.014688-04:00",
+  "updated_at": "2026-11-01T07:00:05.591169-05:00",
   "source": "kelpy-dashboard"
 }
