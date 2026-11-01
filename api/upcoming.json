@@ -1,10 +1,6 @@
 {
   "upcoming": [
     {
-      "title": "Bedroom TV alarm test",
-      "when": "Sun 11/01 06:30 AM"
-    },
-    {
       "title": "Telegram morning show",
       "when": "Sun 11/01 07:15 AM"
     },
@@ -31,8 +27,12 @@
     {
       "title": "Job search sweep",
       "when": "Mon 11/02 09:47 AM"
+    },
+    {
+      "title": "Weekly health refresh",
+      "when": "Mon 11/02 09:47 AM"
     }
   ],
-  "updated_at": "2026-11-01T00:00:03.014688-04:00",
+  "updated_at": "2026-11-01T07:00:05.591169-05:00",
   "source": "kelpy-dashboard"
 }
