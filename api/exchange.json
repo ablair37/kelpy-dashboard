@@ -1,37 +1,25 @@
 {
+  "updated_at": "2026-11-02T07:00:15.614322-05:00",
+  "open_count": 3,
   "items": [
     {
-      "from": "Kelpy",
-      "kind": "Report",
       "title": "Morning Show script ready: Sunday, November 1",
-      "to": "Coral"
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
     },
     {
-      "from": "Claude",
-      "kind": "Report",
       "title": "Nightly repo tests 2026-11-01",
-      "to": "Coral"
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Claude"
     },
     {
-      "from": "Coral",
-      "kind": "Request",
       "title": "Fix tap-apply in lead.mjs/teamup.mjs",
-      "to": "Coral"
-    },
-    {
-      "from": "Kelpy",
-      "kind": "Report",
-      "title": "Morning Show script ready: Saturday, October 31",
-      "to": "Coral"
-    },
-    {
-      "from": "Claude",
-      "kind": "Report",
-      "title": "Nightly repo tests 2026-10-31",
-      "to": "Coral"
+      "kind": "Request",
+      "to": "Coral",
+      "from": "Coral"
     }
   ],
-  "open_count": 5,
-  "updated_at": "2026-11-01T23:00:31.016534-05:00",
   "source": "kelpy-dashboard"
 }
