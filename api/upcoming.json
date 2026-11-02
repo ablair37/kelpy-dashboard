@@ -1,38 +1,38 @@
 {
   "upcoming": [
     {
-      "title": "Telegram morning show",
-      "when": "Mon 11/02 07:15 AM"
-    },
-    {
-      "title": "Morning show video build",
-      "when": "Mon 11/02 07:25 AM"
-    },
-    {
-      "title": "Morning briefing podcast",
-      "when": "Mon 11/02 07:47 AM"
-    },
-    {
-      "title": "Job search sweep",
-      "when": "Mon 11/02 09:47 AM"
-    },
-    {
-      "title": "Weekly health refresh",
-      "when": "Mon 11/02 09:47 AM"
-    },
-    {
-      "title": "Weekly help ask",
-      "when": "Mon 11/02 11:47 AM"
-    },
-    {
       "title": "Sleep and energy check-in",
       "when": "Mon 11/02 10:47 PM"
     },
     {
       "title": "Morning show script",
       "when": "Tue 11/03 06:55 AM"
+    },
+    {
+      "title": "Telegram morning show",
+      "when": "Tue 11/03 07:15 AM"
+    },
+    {
+      "title": "Morning show video build",
+      "when": "Tue 11/03 07:25 AM"
+    },
+    {
+      "title": "Morning briefing podcast",
+      "when": "Tue 11/03 07:47 AM"
+    },
+    {
+      "title": "Headset price check",
+      "when": "Wed 11/04 11:50 AM"
+    },
+    {
+      "title": "Job search sweep",
+      "when": "Thu 11/05 09:47 AM"
+    },
+    {
+      "title": "Anthropic IPO check",
+      "when": "Fri 11/06 09:47 AM"
     }
   ],
-  "updated_at": "2026-11-02T10:51:05.720995-05:00",
+  "updated_at": "2026-11-02T15:02:07.372785-05:00",
   "source": "kelpy-dashboard"
 }
