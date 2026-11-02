@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-02T07:00:15.614322-05:00",
-  "open_count": 3,
+  "updated_at": "2026-11-02T10:51:05.720995-05:00",
+  "open_count": 4,
   "items": [
+    {
+      "title": "Morning Show script ready: Monday, November 2",
+      "kind": "Report",
+      "to": "Coral",
+      "from": "Kelpy"
+    },
     {
       "title": "Morning Show script ready: Sunday, November 1",
       "kind": "Report",
